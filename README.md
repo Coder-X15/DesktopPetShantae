@@ -13,7 +13,7 @@ Well, why don't you let your desktop pet do a bit of a wiggle or whatever when y
 3. If you're using custom sprites, generate the metadata using `python3 action_metadata_generator.py <crawl_dir> <sprite_name>` and then run `python3 test5.py <sprite_name>`
 
 
-## Project References:
+## Project References and Credits:
 1. [PySide6 Documentation](https://doc.qt.io/qtforpython-6/gettingstarted.html#getting-started)
 2. [Qt forum post for using animated GIFs](https://forum.qt.io/topic/132594/adding-many-gifs-to-pyside6-widget-or-another-implementation-of-chat-with-animated-emotes)
 3. [Bugfix for `xbc`/`libxbc*`](https://forum.qt.io/topic/93247/qt-qpa-plugin-could-not-load-the-qt-platform-plugin-xcb-in-even-though-it-was-found/153)
