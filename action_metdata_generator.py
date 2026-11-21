@@ -1,6 +1,7 @@
 import json
 import os
 import sys
+import pathlib
 
 def crawl(path : str) -> dict[str, list]:
     ''' crawls through your sprite directory, compiles its actions and generates a metadata file (JSON)'''
@@ -23,6 +24,7 @@ def crawl(path : str) -> dict[str, list]:
 if __name__ == "__main__":
     res = crawl(sys.argv[1])
     filename = sys.argv[2] + '.json'
+    filename = os.path.join(pathlib.Path(__file__).resolve().parent, filename)
     with open(filename, mode='w', encoding='utf-8') as file:
         json.dump(res, file, indent=1)
     

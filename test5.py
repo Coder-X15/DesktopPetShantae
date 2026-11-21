@@ -2,6 +2,8 @@ from PySide6 import QtWidgets, QtCore, QtGui
 import json
 import sys
 import random
+import pathlib
+import os
 
 # == COMMON UTILS == #
 
@@ -19,7 +21,7 @@ class ButtonControlledAssistant(QtWidgets.QWidget):
     ''' derived class for our pet widget '''
     def __init__(self,
                  app_ref : QtWidgets.QApplication,
-                 metadata_path : str = f"./{sys.argv[1]}.json", 
+                 metadata_path : str = f"{sys.argv[1]}.json", 
                  idle_animation_name : str = 'standing') -> None:
         ''' constructor '''
         super().__init__()
@@ -35,7 +37,7 @@ class ButtonControlledAssistant(QtWidgets.QWidget):
         self.current_animation = 'loading' # current animation pointer
 
         #loading the gifs using the metadata
-        self.gif_map = load_meta(metadata_path)
+        self.gif_map = load_meta(os.path.join(pathlib.Path(__file__).resolve().parent, metadata_path))
         self.animation_keys = list(self.gif_map.keys())
 
         # creating counter limits for each GIF
