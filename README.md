@@ -26,4 +26,5 @@ Well, why don't you let your desktop pet do a bit of a wiggle or whatever when y
 5. [Ezgif.com](https://ezgif.com)
 6. [Pinterest](https://pinterest.com)
 7. [The Spriters Resource](https://www.spriters-resource.com) (supplied the sprites)
-8. Capcom, for their amazing game.
+8. [StackOverflow Thread on keeping a window stay on top](https://stackoverflow.com/questions/42614623/how-to-make-a-pyside-window-pop-up-above-all-other-windows)
+9. Capcom, for their amazing game.

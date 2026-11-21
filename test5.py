@@ -27,7 +27,7 @@ class ButtonControlledAssistant(QtWidgets.QWidget):
         super().__init__()
 
         # set transparent background settings
-        self.setWindowFlags(self.windowFlags() | QtCore.Qt.WindowType.FramelessWindowHint)
+        self.setWindowFlags(self.windowFlags() | QtCore.Qt.WindowType.FramelessWindowHint | QtCore.Qt.WindowType.WindowStaysOnTopHint)
         self.setAttribute(QtCore.Qt.WA_TranslucentBackground)
         self.app_ref =  app_ref
 
