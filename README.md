@@ -10,7 +10,12 @@ Well, why don't you let your desktop pet do a bit of a wiggle or whatever when y
 0. Make sure that you have your sprite's `actions` folder location copied before you run the following, in case you're using a custom sprite 
 1. In your own Python environment (`which python3`) or in a `venv` (activate it beforehand), run `pip install -r requirements.txt`
 2. If you're using the default Shantae sprites, you can directly run `python3 test5.py shantae`
-3. If you're using custom sprites, generate the metadata using `python3 action_metadata_generator.py <actions_foler_path> <sprite_name>` and then run `python3 test5.py <sprite_name>`
+3. If you're using custom sprites, generate the metadata using `python3 action_metadata_generator.py <actions_foler_path> <sprite_name>` and then run `python3 test5.py <sprite_name>`'
+
+## Todo:
+- [ ] Add a chat backend (maybe using some enterprise API or my own shi)
+- [ ] Add an intent classifier to direct stuff properly
+- [ ] Look for collaborators who could do the Windows/Mac edition
 
 
 ## Project References and Credits:
