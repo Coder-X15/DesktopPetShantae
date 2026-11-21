@@ -1,0 +1,35 @@
+{
+ "angry_dialogue": [
+  "./actions/angry_dialogue/01.gif"
+ ],
+ "standing": [
+  "./actions/standing/01.gif"
+ ],
+ "loading": [
+  "./actions/loading/01.gif",
+  "./actions/loading/02.gif",
+  "./actions/loading/03.gif"
+ ],
+ "dancing": [
+  "./actions/dancing/01.gif",
+  "./actions/dancing/02.gif",
+  "./actions/dancing/03.gif",
+  "./actions/dancing/04.gif"
+ ],
+ "friendly_dialogue": [
+  "./actions/friendly_dialogue/01.gif"
+ ],
+ "show_and_tell": [
+  "./actions/show_and_tell/01.gif",
+  "./actions/show_and_tell/02.gif"
+ ],
+ "turn": [
+  "./actions/turn/01.gif"
+ ],
+ "thinking_float": [
+  "./actions/thinking_float/01.gif"
+ ],
+ "butt_wiggle": [
+  "./actions/butt_wiggle/01.gif"
+ ]
+}
