@@ -36,7 +36,6 @@ class ButtonControlledAssistant(QtWidgets.QWidget):
 
         #loading the gifs using the metadata
         self.gif_map = load_meta(metadata_path)
-        print(self.gif_map.keys())
         self.animation_keys = list(self.gif_map.keys())
 
         # creating counter limits for each GIF
@@ -98,6 +97,8 @@ class ButtonControlledAssistant(QtWidgets.QWidget):
 
 
 if __name__ == "__main__":
+
+    print("CWD: ", )
     app = QtWidgets.QApplication([])
 
     widget = ButtonControlledAssistant(app)
