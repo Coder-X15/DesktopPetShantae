@@ -99,8 +99,6 @@ class ButtonControlledAssistant(QtWidgets.QWidget):
 
 
 if __name__ == "__main__":
-
-    print("CWD: ", )
     app = QtWidgets.QApplication([])
 
     widget = ButtonControlledAssistant(app)
