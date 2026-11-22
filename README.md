@@ -1,4 +1,4 @@
-# Shantae Desktop Pet + Assistant
+# Shantae Desktop Pet + Assistant (WIP)
 
 ## Motivation
 Well, why don't you let your desktop pet do a bit of a wiggle or whatever when you ask it to, apart from helping you with stuff?
@@ -27,4 +27,6 @@ Well, why don't you let your desktop pet do a bit of a wiggle or whatever when y
 6. [Pinterest](https://pinterest.com)
 7. [The Spriters Resource](https://www.spriters-resource.com) (supplied the sprites)
 8. [StackOverflow Thread on keeping a window stay on top](https://stackoverflow.com/questions/42614623/how-to-make-a-pyside-window-pop-up-above-all-other-windows)
-9. Capcom, for their amazing game.
+9. WayForward, for their amazing game.
+10. Claude, for making me the dataset my intent classifier runs on: https://claude.ai/share/9772e95b-9065-4cde-b22f-274d6b282c72
+11. Meta Research for [Fasttext](https://fasttext.cc/docs/en/python-module.html)
