@@ -30,6 +30,7 @@
   "./actions/thinking_float/01.gif"
  ],
  "butt_wiggle": [
-  "./actions/butt_wiggle/01.gif"
+  "./actions/butt_wiggle/01.gif",
+  "./actions/butt_wiggle/02.gif"
  ]
 }

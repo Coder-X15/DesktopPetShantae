@@ -1,5 +1,7 @@
 # Shantae Desktop Pet + Assistant (WIP)
 
+> **NB**: Custom sprite addition has been affected to the recent addition of code. Kindly bear with us till it is resolved.
+
 ## Motivation
 Well, why don't you let your desktop pet do a bit of a wiggle or whatever when you ask it to, apart from helping you with stuff?
 
@@ -14,8 +16,13 @@ Well, why don't you let your desktop pet do a bit of a wiggle or whatever when y
 
 ## Todo:
 - [ ] Add a chat backend (maybe using some enterprise API or my own shi)
-- [ ] Add an intent classifier to direct stuff properly
+- [X] Add an intent classifier to direct stuff properly
 - [ ] Look for collaborators who could do the Windows/Mac edition
+
+## Intent Classification Workflow
+- I initially thought of implementing a custom TF-IDF vectorizer with OOV tokens mapped to `<UNK>` but that would make the final input vectors sparse for a sentence with a lot of OOV tokens. Instead, I will rely on `gensim.models.FastText` since it can also deal with OOV tokens
+- **Sentence embedding**: sum of all the word embeddings
+- **Sentence processing**: lower-case all of them, remove punctuation, split around spaces
 
 
 ## Project References and Credits:
@@ -29,4 +36,6 @@ Well, why don't you let your desktop pet do a bit of a wiggle or whatever when y
 8. [StackOverflow Thread on keeping a window stay on top](https://stackoverflow.com/questions/42614623/how-to-make-a-pyside-window-pop-up-above-all-other-windows)
 9. WayForward, for their amazing game.
 10. Claude, for making me the dataset my intent classifier runs on: https://claude.ai/share/9772e95b-9065-4cde-b22f-274d6b282c72
-11. Meta Research for [Fasttext](https://fasttext.cc/docs/en/python-module.html)
+11. [`gensim` Word2Vec reference](https://radimrehurek.com/gensim/models/word2vec.html)
+12. [Python `re` module reference on W3Schools](https://www.w3schools.com/python/python_regex.asp)
+13. [StackOverflow thread on dealing with OOV tokens](https://stackoverflow.com/questions/65372032/deal-with-out-of-vocabulary-word-with-gensim-pretrained-glove)
