@@ -6,7 +6,6 @@ import os
 from pathlib import Path
 from sklearn.preprocessing import LabelEncoder
 from sklearn.neural_network import MLPClassifier # we'll use an MLP Classifier
-from sklearn.ensemble import VotingClassifier
 from sklearn.metrics import classification_report, accuracy_score
 import tqdm
 import joblib
@@ -57,11 +56,15 @@ def main() -> None:
     # declare the model
     mlp = MLPClassifier((100, 100, 100), 
                         random_state=42,
-                        learning_rate='adaptive')
+                        learning_rate='adaptive',
+                        learning_rate_init=0.005,
+                        max_iter=2000)
+
     # train
     mlp.fit(trainX, trainy)
 
     # check training results on validation set
+    print("Training done. Report on validation set: \n==================")
     pred = mlp.predict(valX)
     print(classification_report(valy, pred))
 
