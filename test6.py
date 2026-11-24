@@ -94,6 +94,7 @@ class ButtonControlledAssistant(QtWidgets.QWidget):
 
         # construct the chat bubble widget
         self.chat_bubble = QtWidgets.QLabel(self)
+        self.chat_bubble.setWordWrap(True)
         self.chat_bubble.setStyleSheet(
             '''
                 QLabel {
@@ -124,7 +125,7 @@ class ButtonControlledAssistant(QtWidgets.QWidget):
         self.exit_button = QtWidgets.QPushButton("Exit")
         self.exit_button.clicked.connect(self.app_ref.exit)
         self.layout.addWidget(self.exit_button)
-        self.setFixedSize(400, 600)
+        self.setFixedSize(400, 450)
 
     def process_input(self, text: str):
         self.last_checked = time.time()
