@@ -22,7 +22,7 @@ Paste your API key in `.env.local`. rename it to `.env` and there you go, you ca
 ## To Run This:
 0. Make sure that you have your sprite's `actions` folder location copied before you run the following, in case you're using a custom sprite 
 1. In your own Python environment (`which python3`) or in a `venv` (activate it beforehand), run `pip install -r requirements.txt`
-2. If you're using the default Shantae sprites, you can directly run `python3 test5.py shantae`
+2. If you're using the default Shantae sprites, you can directly run `python3 pet.py shantae`
 3. If you're using custom sprites, generate the metadata using `python3 action_metadata_generator.py <actions_foler_path> <sprite_name>` and then run `python3 test5.py <sprite_name>`'
 
 ## Todo:
