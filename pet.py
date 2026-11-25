@@ -121,7 +121,7 @@ async def chatRequest(text: str) -> str:
 
 # == CORE FUNCTIONAILITY == #
 
-class ButtonControlledAssistant(QtWidgets.QWidget):
+class DesktopAssistant(QtWidgets.QWidget):
 
     ''' derived class for our pet widget '''
     def __init__(self,
@@ -243,6 +243,9 @@ class ButtonControlledAssistant(QtWidgets.QWidget):
         else:
             self.textbox.setEnabled(False)
             self.chat_bubble.setText("...")
+            self.current_animation = 'thinking_float'
+            self.gif_counter = 0
+            self.next_animation()
             self.chat_bubble.adjustSize()
             self.chat_task = asyncio.create_task(self._generate_reply(text))
 
@@ -252,6 +255,9 @@ class ButtonControlledAssistant(QtWidgets.QWidget):
             self.chat_bubble.setText(reply)
             self.chat_bubble.adjustSize()
             self.chat_bubble.show()
+            self.current_animation = 'standing'
+            self.gif_counter = 0
+            self.next_animation()
             if len(reply) > 200:
                 self.chat_message_delay = 15
             self.chat_hide_timer.start(self.chat_message_delay * 1000)
@@ -292,13 +298,15 @@ class ButtonControlledAssistant(QtWidgets.QWidget):
         ''' enables dragging '''
         if event.button() == QtCore.Qt.MouseButton.LeftButton:
             self.windowHandle().startSystemMove()
+            center_point = self.geometry().center() - self.chat_bubble.rect().center()
+            self.chat_bubble.move(center_point)
         super().mousePressEvent(event)
 
 
 if __name__ == "__main__":
     app = QtWidgets.QApplication([])
 
-    widget = ButtonControlledAssistant(app)
+    widget = DesktopAssistant(app)
     widget.show()
 
     QtAsyncio.run()
