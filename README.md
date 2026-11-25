@@ -52,4 +52,5 @@ Paste your API key in `.env.local`. rename it to `.env` and there you go, you ca
 13. [StackOverflow thread on dealing with OOV tokens](https://stackoverflow.com/questions/65372032/deal-with-out-of-vocabulary-word-with-gensim-pretrained-glove)
 14. [Cohere AI](https://github.com/cohere-ai) for their Python library and `command-a-plus-05-2026` model. Genuinely makes my Shantae pet talk!
 15. [Google Deepmind's](https://github.com/google-deepmind) Gemini search integration on Google Chrome for telling me how to switch from static labels to tooltips for chat bubbles.
-16. [GitHub's](https://github.com/github) Copilot for helping me fix the issues in my async code 
+16. [GitHub's](https://github.com/github) Copilot for helping me fix the issues in my async code
+17. [This Kaggle notebook](https://www.kaggle.com/code/hatone/mlpclassifier-with-gridsearchcv) for helping me revise the `sklearn.model_selection.GridSearchCV` syntax.
