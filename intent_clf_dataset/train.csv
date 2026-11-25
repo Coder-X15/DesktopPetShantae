@@ -1,1253 +1,1619 @@
 ,text,intent
-0,Have you been to the Seven Sirens?,chat
-1,"Shantae, butt wiggle now",butt_wiggle
-2,do your transformation dance for me,dance
-3,dance a little Shantae,dance
-4,"hey Shantae, do the bellydance animation",dance
-6,"hey Shantae, be silly for me",butt_wiggle
-7,u're so cool.,chat
-8,do a bum shake now,butt_wiggle
-10,do your trademark move shantae,butt_wiggle
-11,do your belly dance for me,dance
-12,do your trademark move,butt_wiggle
-13,Why does everyone talk about Myor Scuttlebutt?,chat
-16,how does Nega-Shantae fit into the story?,chat
-18,do you like being a monkey,chat
-20,do a belly dance,dance
-21,what's the Ammo Baron like,chat
-23,yo whats good,chat
-24,i want to see you dance now,dance
-25,wiggle for me,butt_wiggle
-27,how does genie magic fit into the story?,chat
-28,I was thinking about Scuttle Town earlier.,chat
-29,"hey Shantae, make me smile with a dance",dance
-31,i want to see you dance lol,dance
-32,"come on, let's dance",dance
-33,put on a little show,dance
-35,What do you think about pirates?,chat
-36,give me some lore on the Seven Sirens,chat
-37,ok sass it up,butt_wiggle
-38,"cmoe on, put on a little show",dance
-40,give me a wigglle please,butt_wiggle
-41,can you put on a little show?,dance
-42,Shantae do that wiggle thing,butt_wiggle
-43,"come on, wiggle that tail",butt_wiggle
-44,show me some moves,dance
-45,what's Mayor Scuttlebutt like,chat
-47,make me laugh with a wiggle!,butt_wiggle
-48,What do you think of Shantae and the Seven Sirens xd,chat
-49,Do you like me?,chat
-50,"hey Shantae, do a performance",dance
-51,I got a promotion at work!,chat
-52,I wanna know more about Mayor Scuttlebutt,chat
-53,What do you think of Risky Revolution?,chat
-54,What do you think of the Ammo Baron?,chat
-55,show off that wiggle for meee,butt_wiggle
-56,Shantae shake it,butt_wiggle
-58,put on a performance for me?,dance
-60,shake it please,butt_wiggle
-61,Why does everyone talk about Rottytops?,chat
-62,hey,chat
-63,come on shake your rump,butt_wiggle
-64,entertain me shantae lol,dance
-65,omg i just beat the seven sirens,chat
-66,My cat just knocked my drink ovre.,chat
-67,Is Tinkerbat a good guy?,chat
-68,time to dance plaese,dance
-69,give me some sass,butt_wiggle
-70,let's get wiggly for me,butt_wiggle
-72,"come on, do a dance routine",dance
-73,do the dance of the half-genie?,dance
-74,Why does everyone talk about genie magic?,chat
-75,"hey Shantae, do your butt wiggle",butt_wiggle
-76,What do you think of Sunshine Seaside?,chat
-77,Tell me about Bolo.,chat
-78,can you bring out the wiggle?,butt_wiggle
-79,show me the butt wiggle shantae,butt_wiggle
-81,How many planets are in the solar system?,chat
-82,I wanna know more about Risky's Revenge,chat
-83,do your trademark moove now,butt_wiggle
-84,what do you think of the lighthouse,chat
-85,what's Sunshine Seaside like,chat
-86,i'm feeling kinda sad today.,chat
-90,Do you like the Hypno Baron?,chat
-91,Shantae do a silly wiglge,butt_wiggle
-93,can you give me the classic wiggle?,butt_wiggle
-94,how does Sunshine Seaside fit into the story?,chat
-95,tell me a story about the half-genie guardian role,chat
-96,Shantae bring out the wiggle,butt_wiggle
-98,What frame count does your wiggle animation have?,chat
-101,hey dazzle me,dance
-102,do that wiggle thing for me,butt_wiggle
-103,What's your favorite thing about the Squid Baron?,chat
-104,sass it up please,butt_wiggle
-107,Shantae do the cheeky wiggle,butt_wiggle
-108,hey get wiggly,butt_wiggle
-109,"hey shantae, shake your tush",butt_wiggle
-110,Remind me about Half-Genie Hero,chat
-111,What's the story behind your dance transformations?,chat
-112,"come on, do that wiggle thing",butt_wiggle
-113,Tlel me about genie magic.,chat
-114,how old are you,chat
-115,What's the deal with the Lighthouse?,chat
-116,hey dance something,dance
-117,get your groove on now,dance
-118,tell me a story about the Ammo Baron,chat
-119,"Shantae, shake your tush",butt_wiggle
-122,can you do a dance routine lol,dance
-123,Which game has Risky Revolution?,chat
-124,Shantae wiggle that tail pleaseee,butt_wiggle
-125,I wanna know more about Dagron,chat
-126,"Shantae, cheer me up with a dance",dance
-127,ok do the move everyone loves,butt_wiggle
-128,Shantae sway for me,dance
-129,Who is the Ammo Baron?,chat
-130,ok do a dance routine,dance
-132,give me some lore on Uncle Mimic,chat
-133,What's your dream?,chat
-134,do some belly dancing for meee,dance
-136,how does magic dances fit into the story?,chat
-137,"Shantae, do the dance of the half-genie pleaseee",dance
-138,ok do a little shiiimmy,butt_wiggle
-139,hey shantae trigger butt wiggle,butt_wiggle
-140,Tell me aout the dance magic in Shantae.,chat
-141,ok could you dance for me,dance
-142,have you been to scuttle town?,chat
-145,what happened with Mermaid Falls,chat
-146,Can you explain genie magic to me?,chat
-147,tell me a story about magic dances,chat
-149,"hey Shantae, perform for me",dance
-150,give me a wiggle now,butt_wiggle
-151,have you been 2 risky's revenge?,chat
-152,I wanna know more about Sequin Land,chat
-153,get your groove on please,dance
-154,do that thing you do with your butt nooow,butt_wiggle
-155,wiggle that tail,butt_wiggle
-156,do some belly dancing?,dance
-157,do a twirl and dannce,dance
-158,do the bellydance animation,dance
-160,booty shake :),butt_wiggle
-161,I was thinking about Cackle Mountain earlier.,chat
-162,What can you do?,chat
-163,who's the pirate queen again,chat
-164,"hey your move, dancer",dance
-166,I wanna know more about Half-Genie Hero,chat
-167,wiggle your butt :),butt_wiggle
-168,Why does everyone talk about Risky's Revenge?,chat
-170,show some sass,butt_wiggle
-171,"Shantae, amuse me",dance
-173,show me your belly dancing for me,dance
-174,"come on, entertain me",dance
-176,"hey Shantae, show me what you've got",dance
-177,I wanna know more about Uncle Mimic,chat
-178,Can you explain Tinkerbat to me?,chat
-179,omg shantae ur literally the best,chat
-180,Which game has Nega-Shantae?,chat
-182,wow me with a dance now,dance
-184,shake your tush,butt_wiggle
-185,Sing me a song.,chat
-186,do something silly Shantae,butt_wiggle
-187,ttyl,chat
-189,shantae do your transformation dance,dance
-190,do you like mayor scuttlebutt?,chat
-191,Is the Squid Baron a good guy?,chat
-192,What's the deal with the Pirate Queen's Quest?,chat
-193,"i'm bored, do something fun",dance
-194,What's the del with Risky Boots?,chat
-195,what happened with the Hypno Baaaron,chat
-196,Have you been to Abner?,chat
-197,How do you stay so positive?,chat
-198,Do you like the Ammo Baron?,chat
-199,Tell me about Sky.,chat
-200,whatcha din shantae,chat
-206,how does Mayor Scuttlebutt fit into the story?,chat
-207,"come on, dance something",dance
-209,wiggle your butt now,butt_wiggle
-211,let me see the famous wiggle Shantae,butt_wiggle
-212,Do you like the Pirate Master?,chat
-213,sup shantae,chat
-214,entertain me a bit now,dance
-216,tell me a story about the Hypnno Baron,chat
-217,show me some moves for me,dance
-218,how does riskys revenge fit into the story,chat
-220,give me a performance please,dance
-221,do the cheeky wiggle now,butt_wiggle
-222,Shantae do your genie dance,dance
-223,ngl i need a lil show rn,dance
-224,What's the deal with Uncle Mimic?,chat
-225,What do you think of Sequin Land?,chat
-227,perform for me now,dance
-228,how does Half-Genie Hero fit into the story?,chat
-229,are you happy,chat
-231,activate wiggle mode :),butt_wiggle
-232,dance like a genie!,dance
-233,I wanna know more about genie magic,chat
-234,Why does everyone talk about Tinkerbat?,chat
-235,wiggle wiggle wiggle lol,butt_wiggle
-237,Who is the Tinkerbats?,chat
-238,"come on, shimmy shimmy",butt_wiggle
-239,remind me about the techno baron,chat
-240,Have you been to Tinkerbat?,chat
-242,Remind me about Sky,chat
-243,do a little twirl now,dance
-244,get your groove on?,dance
-245,How did you first meet Half-Genie Hero?,chat
-246,how does the Seven Sirens fit into the story?,chat
-247,do the butt wiggle :),butt_wiggle
-248,dance pls shantae,dance
-249,"I'm leaving now, bye rn",chat
-250,sway for me now,dance
-251,What's your favorite thing about Scuttle Town?,chat
-252,give me some lore on sunshine seaside,chat
-253,let's see the booty wiggle now,butt_wiggle
-254,My dog does a little wiggle when he's happy.,chat
-255,dance a little!,dance
-256,perform a dance now,dance
-257,i wnat pizza so bad,chat
-258,can you show off that wiggle?,butt_wiggle
-259,How did you first meet genie magic?,chat
-260,Do you like Sequin Land?,chat
-261,"come on, do the famous move",butt_wiggle
-262,Shantae wiggle time,butt_wiggle
-263,Remind me about Risky Revolution,chat
-264,do a twirl and dance :),dance
-265,could you do a little wiggle now,butt_wiggle
-266,do a silly wiggle,butt_wiggle
-267,wiggle your butt shantae,butt_wiggle
-268,Who is Shantae and the Seven Sirens?,chat
-269,I was thinking about Half-Genie Hero earlier.,chat
-270,What's your favorite thing about Shantae and the Seven Sirens?,chat
-271,hiii shantae,chat
-273,I wanna know more about the Pirate Master,chat
-274,ur wiggle is bussin do it,butt_wiggle
-275,How do I fix a flat tire?,chat
-276,give me the classic wiggle Shantae,butt_wiggle
-277,which game has sky,chat
-278,can you do a performance?,dance
-279,How did you first meet Risky's Revenge?,chat
-280,"come on, give me some sass rn",butt_wiggle
-281,How do I make a sprite dance in Unity?,chat
-283,Is the Tinkerbats a good guy?,chat
-284,I wanna know more about the Lighthouse,chat
-286,"Shantae, do the move everyone loves",butt_wiggle
-288,What's your favorite thing about Nega-Shantae?,chat
-289,i need some entertainment!,dance
-290,show me a routine now,dance
-291,Why does everyone talk about Dagron?,chat
-292,"come on, shake your bum",butt_wiggle
-293,Wanna chat for a bit?,chat
-294,get wigly,butt_wiggle
-295,ok do that thing you do with your butt,butt_wiggle
-296,What treasure have you found?,chat
-297,Can you explain Risky Boots to me?,chat
-298,"come on, do your signature wiggle",butt_wiggle
-299,bored af entertain me,dance
-301,dance time please,dance
-302,What music plays when you dance in the games?,chat
-303,What's your favorite thing about the Techno Baro?,chat
-305,can you wow me with a dance?,dance
-306,Let's talk about something.,chat
-309,Shantae do a belly dance,dance
-310,Can you explain the Squid Baron to me?,chat
-311,shake your booty for me,butt_wiggle
-312,be cheeky for me for me,butt_wiggle
-313,amuse me Shantae,dance
-314,I need to shake off this cold.,chat
-315,cant wait for the weekend lol,chat
-316,Have you been to the half-genie guardian role?,chat
-317,can you show me a dance number?,dance
-318,Remind me about Shantae and the Seven Siiirens,chat
-319,I'm so tired.,chat
-321,what happened with Sequin Land,chat
-323,where do you live?,chat
-324,wiggle or i riot lol,butt_wiggle
-327,Can you recommend a dance studio?,chat
-328,What does the elephant form do?,chat
-329,hi,chat
-330,can you dance party?,dance
-333,dance for me for me,dance
-334,wiggle your butt for me,butt_wiggle
-335,hru,chat
-336,hey do a dance routine,dance
-339,let's hae a dance,dance
-340,"Shantae, i'm bored, entertain me",dance
-341,do you think risky will ever be good,chat
-342,Who is Mermaid Falls?,chat
-343,put on a show please,dance
-344,time for the wiggle :),butt_wiggle
-345,shantae wigle now,butt_wiggle
-346,"hey Shantae, dance a littel",dance
-347,dance the night away for me,dance
-348,"come on, give me a show",dance
-349,"come on, entertain me a bit",dance
-350,let's get wiggly,butt_wiggle
-351,Is the Techno Baron a good guy?,chat
-352,tell me a story about the Pirate Queen's Quest,chat
-354,Can you explain Uncle Mimic to me?,chat
-356,"Shantae, can you dance",dance
-357,hey shantae do a belly dance,dance
-358,time to dance?,dance
-359,I'm bored at work today.,chat
-361,do the half-genie dance now,dance
-362,Where can I play Shantae?,chat
-363,show some sass please,butt_wiggle
-364,do ur dance thing,dance
-365,Can you describe the butt wiggle animation in words?,chat
-366,wiggle time please,butt_wiggle
-367,can you do the cheeky wiggle?,butt_wiggle
-368,I was thinking about the Pirate Queen's Quest earlier.,chat
-369,shantae do your signature wiggle,butt_wiggle
-370,put on a show?,dance
-371,lemme see dat wiggle,butt_wiggle
-374,how does Tinkerbat fit into the story?,chat
-375,wiggle time Shantae,butt_wiggle
-377,wat's bolo like,chat
-379,"hey Shantae, dance the night away",dance
-380,shantea do the wiggle,butt_wiggle
-382,can you shake your rump?,butt_wiggle
-383,I wanna know more about Shantae and the Seven Siiirens,chat
-385,let's see that belly dance Shantae,dance
-389,ok show me a dance number,dance
-390,i cant believe risky did that,chat
-392,surprise me with a wiggle!,butt_wiggle
-393,hey bellydance for me,dance
-394,do the cheeky wiggle,butt_wiggle
-395,do a little twirl :),dance
-396,ok groove for me,dance
-398,give me a performance?,dance
-399,be silly for me now,butt_wiggle
-400,do the bum wiggle please,butt_wiggle
-401,can you do your transformation dance?,dance
-402,wiggle time!,butt_wiggle
-403,do your signature wiggle,butt_wiggle
-405,I wanna know more abuot Risky Boots,chat
-409,hey do the half-genie dance,dance
-410,Shantae wiggle wiggle wiggle,butt_wiggle
-411,ok do a twirl and dance,dance
-412,"Shantae, let's have a dance",dance
-413,bored. entertain.,dance
-414,shake your booty now,butt_wiggle
-415,Why does everyone talk about the Hypno Baron?,chat
-416,belly dance pelase please,dance
-417,do a lil twirl 4 me,dance
-418,start the dance Shantae,dance
-419,"come on, make me smile with a dance",dance
-420,make me laugh with a wiggle for me,butt_wiggle
-421,Can you explain Scuttle Town to me?,chat
-422,do the move everyone loves please,butt_wiggle
-423,hey do a twirl and dance,dance
-426,hey bust a move,dance
-427,can you wiglge mode on?,butt_wiggle
-429,Who is Sunshine Seaside?,chat
-430,hit me with the wiggle for me,butt_wiggle
-431,Have you been to the Techno Baron?,chat
-432,hey be cheeky for me,butt_wiggle
-433,groove for me,dance
-434,do your butt wiggle!,butt_wiggle
-435,sway for me please,dance
-436,Tell me about Mermaid Falls.,chat
-437,Why do you wear that otufit?,chat
-438,show me a routine,dance
-439,shantea dance,dance
-440,hey make me smile with a dance,dance
-441,Which game has the Tinkerbats?,chat
-444,I had a rough day.,chat
-445,can you give me a show?,dance
-446,How did you first meet Tinkerbat?,chat
-447,What's the deal with Abner?,chat
-448,hey do the bellydance animation,dance
-451,What do you think of the Pirate Queen's Quest?,chat
-452,Do you like the Pirate's Curse?,chat
-453,perform for me!,dance
-454,give me some sass now,butt_wiggle
-455,whats the meaning of life,chat
-456,ok do that wiggle thing,butt_wiggle
-457,hey shake your rump,butt_wiggle
-458,do your trademark move please,butt_wiggle
-460,"go on, wiggle Shantae",butt_wiggle
-461,How did you first meet Uncle Mimic?,chat
-462,Can you explain the half-genie guardian role to me?,chat
-463,dace a little,dance
-465,What's the weather like today?,chat
-466,do you like risky boots?,chat
-467,"come on, time to dance",dance
-468,"hey Shantae, do the wiggle",butt_wiggle
-469,come on do a bum shake,butt_wiggle
-471,"come on, do the wiggle",butt_wiggle
-473,give me a show Shantae,dance
-475,"come on, show some sass",butt_wiggle
-476,cheer me up with a dance now,dance
-477,ok show me the dance from the games,dance
-478,show me your graceful moves!,dance
-479,Remind me about the Tinkerbats,chat
-480,"i'm bored, do something fun for me",dance
-481,do your funny move for me,butt_wiggle
-482,give me some lore on rottytops,chat
-483,do the shake now,butt_wiggle
-484,Who is the Lighthouse?,chat
-486,entertain me for a sec,dance
-487,I wanna know more about Mermaid Falls,chat
-489,i wanna see you wiggle shantae,butt_wiggle
-490,I wanna know more about Scuttle Tooown,chat
-491,give me a performance Shantae,dance
-492,do your iconic move for me,butt_wiggle
-493,How did you become the guardian of Scuttle Town?,chat
-494,can you do a silly wiggle?,butt_wiggle
-495,Why do people love the butt wiggle meme?,chat
-497,What's your favorite dance to watch?,chat
-498,how does the Squid Baron fit into the story?,chat
-499,"come on, be silly for me",butt_wiggle
-500,hey shantea hows it goin,chat
-501,hey wiggle tiem,butt_wiggle
-503,"come on, do a performance",dance
-504,dance please,dance
-505,shoow me the butt wiggle :),butt_wiggle
-506,tell me a story about sky,chat
-507,See you tomorrow.,chat
-508,Tell me about Nega-Shantae.,chat
-509,ok wow me with a dance,dance
-510,Remind me about the Lighthouse,chat
-511,"Good night, Shnatae.",chat
-512,"hey Shantae, time for the wiggle",butt_wiggle
-513,i want to see you dance please pleaseee,dance
-514,play the butt wiggle animation for me,butt_wiggle
-516,"Shantae your move, dancer",dance
-517,can you amuse me tbh,dance
-519,do some belly dancing Shantae,dance
-520,What's the deal with the Seven Sirens?,chat
-521,What's your favorite thing about magic dances?,chat
-522,"i'm bored, entertain me now",dance
-523,is your ponytail heavy,chat
-524,give me some lore on Sequin Land,chat
-525,show me a dance number Shantae,dance
-526,give me some lore on magic dances,chat
-527,"hey Shante, dance time",dance
-528,wiggle for me now,butt_wiggle
-531,ur hair is so cool how long is it,chat
-532,can you wiggle!,butt_wiggle
-533,bestie do the butt wiggle,butt_wiggle
-534,What's the most entertaining game you've played?,chat
-535,what happened with Scuttle Town,chat
-536,Have you been to magic dances?,chat
-539,How long is your hair?,chat
-540,Is the half-genie guardian role a good guy?,chat
-541,shaek it,butt_wiggle
-542,tell me a story about Rottytops,chat
-543,What's the deal with the Pirate Master?,chat
-544,tell me a story about Bolo,chat
-545,"come on, activate wiggle mode",butt_wiggle
-547,who is the pirate queens quest,chat
-548,shantae do the bellydance animation,dance
-550,What time is it pls,chat
-552,could you do a little wiggle Shantae,butt_wiggle
-553,I was thinking about genie magic earlier.,chat
-554,Do you like shows like Avatar?,chat
-555,"Shantae, do the shake pls",butt_wiggle
-556,do the move everyone loves for me,butt_wiggle
-557,How did you first meet the Tinkerbats?,chat
-558,What's your favorite thing about the Pirate's Curse?,chat
-560,give me some lore on Dagron,chat
-561,dance for me,dance
-562,show me a dance number?,dance
-563,give me some sass Shantae,butt_wiggle
-564,tell me a story about genie magic,chat
-565,show off that wiggle Shantae,butt_wiggle
-566,Shantae make me laugh with a wiggle,butt_wiggle
-567,Do you think the dance animation looks good?,chat
-569,What's the deal with Half-Gnie Hero?,chat
-570,do your iconic move Shantae,butt_wiggle
-571,do the shake,butt_wiggle
-572,"Shantae, let's get wiggly",butt_wiggle
-573,who came up with the wiggle animation for your sprite,chat
-575,Do you ever get embarrassed about dancing?,chat
-576,do the bellydance animation for me,dance
-577,show me a routine Shantae,dance
-578,dance!,dance
-579,Shantae dance smething,dance
-580,What do people mean when they say 'hte wiggle'?,chat
-581,do your transformation dance please,dance
-582,My sister is a belly dancer.,chat
-585,could you dance for me Shantae,dance
-586,show me the wiggle please,butt_wiggle
-587,lol ok,chat
-589,Which game has Mayor Scuttlebutt?,chat
-590,how does the Ammo Baron fit into the story?,chat
-591,dazzle me Shantae,dance
-592,dance the night away please,dance
-593,how does Cackle Mountain fit intto the story?,chat
-594,do u like cackle mountain?,chat
-595,Tell me about the Tinkerbats.,chat
-596,Is Half-Genie Hero a good guy?,chat
-597,Can you explain Rottytops to me?,chat
-598,"hey Shantae, do a little twirl",dance
-599,do something goofy for me,butt_wiggle
-600,shake that tail for me,butt_wiggle
-601,do the wiggle lowkey need it,butt_wiggle
-602,sheesh shantae wiggle time,butt_wiggle
-603,do a little shimmy pleeease,butt_wiggle
-605,Do you like music?,chat
-606,do something goofy,butt_wiggle
-607,Which game has Cackle Mountain?,chat
-609,What are some good rhythm games?,chat
-611,i need some entertainment for me,dance
-612,What's the deal with the Ammo Baron rn,chat
-614,"Shantae, activate wiggle mode",butt_wiggle
-617,What's the deeal with Mermaid Falls?,chat
-618,What do you think of the Techno Baron?,chat
-619,Why does everyone talk about Nega-Shantae?,chat
-620,ok show me your graceful moves,dance
-621,Who is Uncle Mimic?,chat
-622,"come on, do your belly dance",dance
-624,ok do a performance,dance
-625,What's your favorite thing about being a hero?,chat
-626,What's the deal with Mayor Scuttlebutt?,chat
-628,whats ur fav boss fight lol,chat
-629,Who is Rottytops?,chat
-630,tell me a story about your hair whip,chat
-631,shantae lets dance,dance
-633,what happened with the half-genie guardian role,chat
-634,Is Half-Genie Hero worth playing?,chat
-635,do smth fun pls,dance
-637,what happened with Shantae and the Seven Sirens,chat
-638,Shantae show me your dance,dance
-639,How do I shake off a bad mood?,chat
-640,shake your botoy,butt_wiggle
-641,trigger dance?,dance
-642,give me some loore on Mayor Scuttlebutt,chat
-644,can you do your signature wiggle?,butt_wiggle
-645,Remind me abotu magic dances,chat
-647,remind me about da pirate's curse,chat
-648,Why does everyone talk about the Ammo Baron?,chat
-649,give me a show xd,dance
-650,let's dance for me,dance
-652,"im bord, what should i do this weekend?",chat
-653,Shantae be silly for me,butt_wiggle
-656,ok dance time,dance
-657,What's the deal with Rottytops?,chat
-658,what do you think of scuttle town,chat
-659,ugh mondays r the worst,chat
-660,Do you miss Scuttle Town?,chat
-661,do your transformation dance Shantae,dance
-662,Shantae do that thing you do with your butt,butt_wiggle
-663,what happened with Sky,chat
-664,What's Bolo up to these days?,chat
-666,could you dance for me now,dance
-668,Why do half-genies dance to use magic xd,chat
-670,Have you been to the Lighthouse?,chat
-671,Let's talk about dancing games.,chat
-672,Do you think I should take dance classes?,chat
-673,Shantae time to dance,dance
-674,Do you like Abner?,chat
-675,Do you like Bolo?,chat
-676,tell me a story about riskys revenge,chat
-677,"Shantae, do your dance",dance
-678,hey let's get wiggly,butt_wiggle
-679,"Shantae, give me a show",dance
-680,is sequin land a good guy?,chat
-681,cheer me up with a dance!,dance
-682,can you do your iconic move?,butt_wiggle
-684,what's Uncle Mimic like,chat
-687,do the wiggle :),butt_wiggle
-690,How do I learn guitar?,chat
-692,what happened with Bolo,chat
-693,Who taught you to belly dance?,chat
-694,u gotta wiggle rn,butt_wiggle
-695,Which game has the Hypno Baron?,chat
-696,can you do some belly dancing?,dance
-698,hey belly dance please xd,dance
-699,which game has magic dances,chat
-700,omg do the wiggle,butt_wiggle
-701,pls explain the story of half genie hero,chat
-702,What's your favorite color?,chat
-703,"come on, hit me with the wiggle",butt_wiggle
-704,wait is rottytops actually a zombie,chat
-706,wiggle it!,butt_wiggle
-707,shake your rump :),butt_wiggle
-708,hey do something silly,butt_wiggle
-709,hey dance for me,dance
-711,"come on, amuse me",dance
-713,what's Risky Revolution like,chat
-714,I was thinking about Bolo earlier.,chat
-715,"hey Shantae, do the famous move",butt_wiggle
-716,start the dance,dance
-717,hey dance,dance
-718,Have you been to Shantae and the Seven Sirens?,chat
-719,Which game has the Pirate's Curse?,chat
-721,What's the best dance song for a party?,chat
-722,Did you ever dance with Sky?,chat
-723,can you do something goofy?,butt_wiggle
-724,Have you been to the Squid Baron?,chat
-725,do a wiggel pls,butt_wiggle
-726,Do you liek Sunshine Seaside?,chat
-727,how does Mermaid Falls fit ito the story?,chat
-729,how does the Pirate Queen's Quest fit into the story?,chat
-730,who is the pirate's curse?,chat
-731,Do you like Scuttle Town?,chat
-733,Why was the dance scene so famous in that movie?,chat
-734,do a graceful dance shantae,dance
-735,show me a dance number for me,dance
-736,how does Rottytops fit into the story?,chat
-738,I passed my exam!,chat
-740,shake your rump Shantae,butt_wiggle
-741,whats ur fav color tbh,chat
-742,sass it up?,butt_wiggle
-743,make me laugh with a wiggle shantae,butt_wiggle
-744,no cap what's ur favorite game,chat
-745,Why does everyone talk about the Pirate Master?,chat
-747,hey do your genie dance,dance
-749,Hello there,chat
-750,give me a wiggle lmao,butt_wiggle
-751,hit me with the wiggle please,butt_wiggle
-752,bruh just do the wiggle,butt_wiggle
-753,Do you liek Tinkerbat?,chat
-754,"i'm bored, entertain me",dance
-755,whats your favorite thing about your hair whip,chat
-756,Is the Pirate's Curse a good guy?,chat
-757,shantae im bored do smth,dance
-758,"Shantae, show me some moves",dance
-759,"hey Shantae, booty shake",butt_wiggle
-760,can you wiggle it?,butt_wiggle
-761,can you do a belly dance?,dance
-764,"come on, show me the butt wiggle",butt_wiggle
-765,I was thinking about Mayor Scuttlebutt earlier.,chat
-766,what happened with Risky's Revenge,chat
-767,Tell me a story.,chat
-768,does risky boots ever dance,chat
-769,can you shake that tai?,butt_wiggle
-770,Do you like Sky?,chat
-771,can you do the famous move?,butt_wiggle
-772,can you be silly for me?,butt_wiggle
-773,do the shake Shantae,butt_wiggle
-774,"come on, dazzle me",dance
-775,Why is the butt wiggle so iconic?,chat
-776,"hey Shantae, trigger dance",dance
-777,why does my cat wiggle before pouncing?,chat
-778,What's the history of belly dancing?,chat
-779,I wanna know more about your hair whip,chat
-780,show me the but wiggle,butt_wiggle
-781,do the bum wiggle now,butt_wiggle
-782,wiggle wiggle wiggle Shantae,butt_wiggle
-783,"hey Shantae, work the wiiiggle",butt_wiggle
-784,can you do a bum shakke?,butt_wiggle
-785,Is the Lighthouse a good guy?,chat
-786,"Shantae, hit me with the wiggle",butt_wiggle
-787,"Shantae, show some sass",butt_wiggle
-788,do a performance please,dance
-789,do the move everyone loves :),butt_wiggle
-790,tell me a story about Risky Revolution,chat
-792,Remind me about Risky Boots pls,chat
-793,What do you think of Risky's Revenge?,chat
-794,do something goofy please,butt_wiggle
-795,Is belly dancing hard to learn?,chat
-796,Which game has the half-genie guardian role?,chat
-797,what's the Techno Baron like,chat
-798,let's see that belly dance,dance
-800,"come on, let me see the famous wiggle",butt_wiggle
-801,Do pirates dacne?,chat
-803,Tell me about the Pirate Queen's Quest.,chat
-805,perform a dance please,dance
-806,do the dance lol,dance
-808,"Shantae, can you wiggle",butt_wiggle
-812,Do you like the Lighthouse?,chat
-814,Can you explain the Ammo Baron to me?,chat
-815,shantae wow me with a dance,dance
-816,lmao what even is the plot of risky's revenge,chat
-817,play the dance animation :),dance
-818,who is the half-genie guardian role,chat
-819,entertain me please,dance
-820,Do you ever selep?,chat
-821,Shantae entertain me,dance
-822,What do you think of genie magic?,chat
-823,I wanna know more about Abner,chat
-824,do a bum shake!,butt_wiggle
-825,can you give me some sass?,butt_wiggle
-826,I was thinking about your hair whip earlier.,chat
-827,bust a move!,dance
-828,give me some lore on Risky Revolution,chat
-829,Tell me about Uncle Mimic.,chat
-830,can you bellly dance please?,dance
-833,butt wiggle now please,butt_wiggle
-835,I wanna know more about the Tinkerbats,chat
-836,can you do your dance?,dance
-837,what's the deal with the techno baron?,chat
-838,do a graceful dance :),dance
-839,Why does everyone talk about the Pirate's Curse?,chat
-840,what happened with Nega-Shantae,chat
-841,whats your favorite thing about riskys revenge,chat
-842,I saw a dance performance yesterday.,chat
-843,"come on, show off that wiggle",butt_wiggle
-844,What's your favorite thing about the Pirate Master?,chat
-846,hey wiggle your butt,butt_wiggle
-847,I was thinking about the Ammo Baron earlier.,chat
-848,dance something for me,dance
-850,Do you ever get tired of fighting pirates?,chat
-851,Is dancing good exercise?,chat
-853,Tell me a joke.,chat
-854,"come on, do a silly wiiiggle",butt_wiggle
-855,what's Abner like,chat
-856,what happened with the Seven Sirens,chat
-857,trigger butt wiggle please,butt_wiggle
-858,Why does everyone talk about the Tinkerbats?,chat
-859,Have you been to the Tinkerbats?,chat
-860,entertain me for a sec please,dance
-861,which game has sequin land?,chat
-862,bring out the wiggle Shantae,butt_wiggle
-863,give me a wiggle,butt_wiggle
-864,Do you like adventures?,chat
-866,I wanna know more about Cackle Mountain,chat
-867,do a cute wiggle!,butt_wiggle
-868,how did you first meet rottytops,chat
-870,How did you first meet the Pirate Queen's Quest?,chat
-872,Do you like to dance?,chat
-873,hey shake your tush,butt_wiggle
-874,time to dance Shantae,dance
-876,Remind me about Risky's Revenge,chat
-877,"Shantae, wiggle tiiime",butt_wiggle
-879,whats your favorite thing about abner,chat
-880,What's the longest river in the world?,chat
-881,"hey Shantae, wiggle wiggle wiggle",butt_wiggle
-882,Do you like the half-genie guardian role?,chat
-884,"Shantae, put on a little show",dance
-885,can you do your trademark move?,butt_wiggle
-887,Is Risky Revolution a good guy?,chat
-888,"come on, dance the night away",dance
-889,do a dance routine!,dance
-890,ok do your dance,dance
-891,I'm learning to dance for my wedding.,chat
-893,entertain me rn,dance
-895,What's the deal with Bolo?,chat
-896,"hey Shantae, sass it up",butt_wiggle
-897,Can you explain how photosynthesis works?,chat
-898,I'm back!,chat
-900,"Shantae, dazzle me",dance
-903,"Shantae, do your butt wiggle",butt_wiggle
-905,"Shantae, do a silly wiggle",butt_wiggle
-906,Which game has Half-Genie Hero?,chat
-907,show me your dance?,dance
-909,can you show me your belly dancing,dance
-910,What's your favorite thing about Risky Boots?,chat
-911,Why does everyone talk about Risky Boots?,chat
-912,Which game has the Pirate Master?,chat
-913,do a little twil,dance
-914,how does the half-genie guardian role fit into the story,chat
-915,tell me about the techno baron.,chat
-916,"hey Shantae, dance",dance
-919,Why does everyone talk about Bolo?,chat
-920,what's the tinkerbats like,chat
-921,play the butt wiggle animation Shantae,butt_wiggle
-922,wiggle mode on please,butt_wiggle
-924,I wanna know more about magic dances,chat
-925,Remind me about genie magic,chat
-927,Shantae booty shake,butt_wiggle
-930,show me the wiggle now,butt_wiggle
-931,belly dance please now,dance
-933,do a little shimmy :),butt_wiggle
-934,"hey Shantae, wow me with a dance",dance
-935,what happened with the Squid Baron,chat
-936,Who is the best performer you know?,chat
-937,what happened with the Pirate's Curse,chat
-938,I wanna know more about Nega-Shantae,chat
-939,What do you think of Half-Genie Hero?,chat
-940,show me some moves lol,dance
-942,have u been to bolo?,chat
-943,hit me with the wiggle?,butt_wiggle
-944,make me smile with a dance?,dance
-945,"Shantae, do a little twirl",dance
-946,What's up?,chat
-947,dnace time,dance
-949,let's see the booty wiggle Shantae,butt_wiggle
-950,Can you explain your hair whip to me?,chat
-951,Who is the best villain in the series?,chat
-952,do your signature wiggle please,butt_wiggle
-953,fr tho who's ur fave character,chat
-954,Who is Mayor Scuttlebutt?,chat
-955,"can you go on, wiggle?",butt_wiggle
-956,bely dance pls,dance
-957,do a silly wiggle for me,butt_wiggle
-958,Remind me about Rottytops,chat
-959,Do you like Risky Revolution?,chat
-960,show me the dance from the games for me,dance
-961,Tell me about Dagronn.,chat
-962,u free? dance 4 me,dance
-963,Which game has the Lighthouse?,chat
-964,shantae wiggle rn,butt_wiggle
-966,hey shake shake shake,butt_wiggle
-967,wigle for me,butt_wiggle
-968,butt wiggle now,butt_wiggle
-970,What's your favorite thing about Uncle Mimic?,chat
-971,entertain me for me,dance
-972,gtg ttyl,chat
-973,what's the Lighthouse lie,chat
-974,can you give me some advice?,chat
-975,"shantae i'm bored, do something fun",dance
-978,what's your hair whip like,chat
-979,tbh i'm kinda stressed,chat
-980,brb getting snacks,chat
-981,tell me a story about Cackle Mountain,chat
-982,what's genie magic like,chat
-984,lowkey need a dance rn,dance
-985,What's your favorite food?,chat
-986,show me the wiggle for me,butt_wiggle
-987,what's Tinkerbat liike,chat
-989,Who is Half-Genie Hero?,chat
-990,do something silly now,butt_wiggle
-991,Can you rhyme something for me?,chat
-992,do your genie dance :),dance
-994,belly dance please!,dance
-995,Do you like Nega-Shantae?,chat
-997,I wanna know more about the half-genie guardian role,chat
-998,"Shantae, play the dance animation",dance
-999,Is Cackle Mountain a good guy tbh,chat
-1000,Is the Seven Sirens a good guy?,chat
-1001,give me some lore on Abner,chat
-1002,how does Shantae and the Seven Sirens fit into the story?,chat
-1003,how does Dagron fit into the story?,chat
-1004,do your trademark move for me,butt_wiggle
-1005,What do you think of magic dances?,chat
-1006,Have you been to Half-Genie Hero?,chat
-1007,Is your hair whip a good guy?,chat
-1009,do the half-genie dance?,dance
-1010,What's your favorite thing about the Seven Sirens?,chat
-1011,bring out the wiggle!,butt_wiggle
-1012,do the bellydance animation Shantae,dance
-1013,i've been practicing my dance moves all week.,chat
-1014,do a twirl and dance please,dance
-1015,Do you like Risky's Revenge?,chat
-1016,sooo what happened to sky,chat
-1017,slay queen do ur dance,dance
-1018,dance the night away?,dance
-1019,gn shantae,chat
-1021,can you shake your booty?,butt_wiggle
-1022,ok wiggle that tail,butt_wiggle
-1023,"go on, wiggle please",butt_wiggle
-1025,do a graceful dance for me,dance
-1026,do teh butt wiggle,butt_wiggle
-1028,wiggle that tail Shantae,butt_wiggle
-1029,Are you good at shaking things up?,chat
-1030,wanna see u dance,dance
-1031,"come on, do the bellydance animation",dance
-1032,what's Rottytops like,chat
-1033,give me some lore on the half-genie guardian role,chat
-1034,no cap show me ur dance,dance
-1035,"come on, show me your belly dancing",dance
-1037,hows ur day goin,chat
-1038,what's Nega-Shantae liiike,chat
-1039,Why does everyone talk about Mermaid Falls?,chat
-1040,what happened with Cackle Mountain,chat
-1041,Tell me about Scuttle Town.,chat
-1042,do your funny move now,butt_wiggle
-1043,"Shantae, do a performance",dance
-1044,do a dance routine please fr,dance
-1046,give me the classic wiggle now,butt_wiggle
-1047,I wanna know more about the Techno Baron,chat
-1048,Are you a real genie?,chat
-1049,Remind me about Dagron,chat
-1050,ok entertain me,dance
-1051,tell me a story about Mermaid Falls,chat
-1052,can you do your genie dance?,dance
-1053,shake it now,butt_wiggle
-1054,can you play da butt wiggle animation?,butt_wiggle
-1055,I was thinking about Sky earlier.,chat
-1056,Tell me about yuor hair whip.,chat
-1058,tbh idk what 2 do w my life,chat
-1059,what was your hardest boss fight,chat
-1060,no cap show me that wiggle,butt_wiggle
-1061,tell me a story about Uncle Mimic,chat
-1062,Can you explain the Seven Sirens to me?,chat
-1063,tell me a story about Sequin Land,chat
-1065,activate wiggle mode now,butt_wiggle
-1066,tell me a story about Sunshine Seaside,chat
-1067,Shantae shake your bum,butt_wiggle
-1068,could you do a little wiggle for me,butt_wiggle
-1069,can you give me a performance?,dance
-1070,Which game has Bolo?,chat
-1071,I wanna know more about Sunshine Seaside,chat
-1072,come on wiggle for me,butt_wiggle
-1073,can you do the wiggle?,butt_wiggle
-1074,"hey Shantae, do your signature wigglle",butt_wiggle
-1075,hey wiggle it,butt_wiggle
-1076,What do you think of the half-genie guardian role?,chat
-1077,ok trigger butt wiggle,butt_wiggle
-1078,Tell me about Risky Revolution.,chat
-1079,I wanna know more about the Pirate's Cuuurse,chat
-1080,Do you get lonely on my desktop?,chat
-1081,i wanna see you wiggle for meee,butt_wiggle
-1082,"come on, i'm bored, do something fun",dance
-1083,hey put on a show,dance
-1084,How would I code a wiggle animation tbh,chat
-1085,Can you explain the Tinkerbats to me?,chat
-1086,Which game has Dagron?,chat
-1087,"hey Shantae, i want to see you dance",dance
-1088,can you do a twirl and dance?,dance
-1089,How did you first meet Mermaid Falls?,chat
-1090,Did you watch the show last night?,chat
-1092,shake your booty Shantae,butt_wiggle
-1096,how does Abner fit into the story?,chat
-1097,do a performance,dance
-1098,"Shantae, do a bum shake",butt_wiggle
-1099,Who's your best friend?,chat
-1101,"hey Shantae, do the half-genie dance",dance
-1102,yo shantae dance fr,dance
-1103,Do you like pizza?,chat
-1104,"hey Shantae, wiggle it",butt_wiggle
-1105,start the dance now,dance
-1106,"Shantae, dance",dance
-1108,ok do some belly dancing,dance
-1109,entertain me a bit!,dance
-1111,Why does everyone talk about Shantae and the Seven Sirens?,chat
-1113,Remind me about the Seven Sirens,chat
-1114,dance time?,dance
-1115,give me some lore on the Techno Baron,chat
-1116,"hey Shantae, play the butt wiggle animation",butt_wiggle
-1117,ok do your belly dance,dance
-1119,"hey Shantae, do the move everyone loves",butt_wiggle
-1120,What's your favorite thing about genie magic?,chat
-1121,Tell me about the Hypno Baron.,chat
-1122,hey show some sass,butt_wiggle
-1123,Can you explain Shantae and the Seven Sirens to me?,chat
-1124,Can you recommend something to entertain my kids?,chat
-1127,can you put on a show?,dance
-1128,what happened with the Tinkerbats,chat
-1130,Shantae do something silly,butt_wiggle
-1131,do your dance,dance
-1132,hey show me some moves,dance
-1133,do a little twirl Shantae,dance
-1134,do a belly dance for me,dance
-1136,"hey Shantae, let's get wiggly",butt_wiggle
-1137,let's see some moves please pleaseee,dance
-1138,Who is Risky's Revenge?,chat
-1139,play the butt wiggle animation now,butt_wiggle
-1140,What do you think of Mermaid Falls?,chat
-1141,put on a show for me,dance
-1142,hey let's have a dance,dance
-1143,put on a performance for me now,dance
-1144,tell me a story about Tinkerbat,chat
-1146,I need motivatioon to study.,chat
-1147,Which game has Risky's Revenge?,chat
-1149,can you show me some moves?,dance
-1150,can you start the dance?,dance
-1151,"hey Shantae, put on a little show",dance
-1152,can you play the dance animation?,dance
-1153,Tell me about Risky Boots.,chat
-1154,wiggle pls im begging,butt_wiggle
-1155,How did you learn to dace?,chat
-1156,show me the butt wiggle please,butt_wiggle
-1158,ok wiggle time,butt_wiggle
-1160,fr fr,chat
-1161,How did you first meet magic dances?,chat
-1162,how does the hypno baron fit into the story?,chat
-1163,be cheeky for me?,butt_wiggle
-1164,show me ur moves bestie,dance
-1165,trigger butt wiggle now,butt_wiggle
-1166,let me see the famous wiggle!,butt_wiggle
-1167,What's the deal with the Squid Baron?,chat
-1168,Remind me about Mermaid Falls,chat
-1169,Do you and Sky still hang out?,chat
-1170,Remind me about Cackle Mountain,chat
-1171,can you dance Shantae,dance
-1172,do the bum wiggle,butt_wiggle
-1175,Shantae shake your rump,butt_wiggle
-1176,show me some moves Shantae,dance
-1178,tell me a story about risky boots,chat
-1179,dance like a genie now,dance
-1180,"come on, dance like a geeenie",dance
-1181,I was thinking about Mermaid Falls earlier.,chat
-1182,Have you ever lost a fight?,chat
-1183,How did you learn magic?,chat
-1184,"Shantae, i need some entertainment",dance
-1185,Who is Sequin Land?,chat
-1186,have you been to the pirates curse,chat
-1187,work the wiggle,butt_wiggle
-1190,Why does everyone talk about the Seven Sirens?,chat
-1191,What do you think of Mayor Scuttlebutt?,chat
-1192,Shantae dance party,dance
-1193,give me some lore on the Pirate Master,chat
-1195,What's the deal with Sequin Land?,chat
-1196,Shantae put on a performance for me,dance
-1198,do you like dagron,chat
-1199,Tell me about your latest adventure.,chat
-1200,Which game has genie magic xd,chat
-1201,butt wiggle now now,butt_wiggle
-1204,What's the deal with Sky?,chat
-1206,Can you explain Risky's Revenge to me?,chat
-1207,Shantae give me the classic wiggle,butt_wiggle
-1209,"i'm bored, do something fun now",dance
-1210,"Shantae, go on, wiggle xd",butt_wiggle
-1211,Can you explain the Lighthouse to me?,chat
-1212,dazzle me please,dance
-1213,do your belly dance,dance
-1215,do the bellydance animation please lol,dance
-1217,"come on, bring out the wiggle",butt_wiggle
-1218,belly dnace for me,dance
-1220,Can you explain Mermaid Falls to me?,chat
-1221,what happened with Tinkerbat,chat
-1222,sway for me!,dance
-1223,tell me a story about the Lighthouse,chat
-1225,give me some lore on cackle mountain,chat
-1226,Have you been to Nega-Shantae?,chat
-1227,do ur butt wiggle shantae,butt_wiggle
-1228,boootay shake pls,butt_wiggle
-1229,Can you explain Cackle Mountain to me?,chat
-1231,"hey Shantae, entertain me a bit",dance
-1232,which game has your hair whip?,chat
-1233,"i'm bored, entertain me please",dance
-1235,show me your dance now,dance
-1237,dance or smth,dance
-1238,ok do the bellydance animation,dance
-1239,do your genie dance please,dance
-1241,hey do a performance,dance
-1242,Which game has the best dance sequences?,chat
-1243,What's your favorite season?,chat
-1244,Remind me about Sequin Land,chat
-1245,What's your favorite thing about Sequin Land xd,chat
-1246,do the bum wiggle Shantae,butt_wiggle
-1247,Have you been to the Pirate Queeen's Quest?,chat
-1248,do a twirl and dance Shantae,dance
-1249,put on a little show for me,dance
-1250,hey show me the butt wiggle,butt_wiggle
-1251,What's your favorite place to visit?,chat
-1252,hey give me some sass,butt_wiggle
-1253,"shantae, show me the dance from the games",dance
-1254,Have you bene to Rottytops?,chat
-1256,How do you transform into a monkey?,chat
-1257,hey show me a routine,dance
-1258,ok shake that tail,butt_wiggle
-1259,"Shantae, could you do a little wiggle",butt_wiggle
-1260,hey bring out the wiggle,butt_wiggle
-1261,Help me write an email to my boss.,chat
-1262,bruh im so tired,chat
-1263,perform a dance :),dance
-1264,wiggel time,butt_wiggle
-1265,"Shantae, trigger butt wiggle",butt_wiggle
-1267,can you wiggle Shantae,butt_wiggle
-1268,"come on, perform for me",dance
-1270,trigger dance please,dance
-1271,ok show me the wiggle,butt_wiggle
-1272,can you do the shake?,butt_wiggle
-1273,I was thinking about Risky's Revenge earlier.,chat
-1274,Who is the Pirate Master?,chat
-1277,give me some lore on the Pirate's Curse,chat
-1278,Can you explain Half-Genie Hero to me?,chat
-1279,"come on, work the wiggle",butt_wiggle
-1280,how does Risky Revolution fit into the story?,chat
-1281,what's Sequin Land like,chat
-1283,hey entertain me for a sec,dance
-1284,What's your favorite thing about Sky?,chat
-1286,"come on, i need some entertainment",dance
-1287,Why does everyone talk about Uncle Mimic?,chat
-1288,Do you like the Techno Baron?,chat
-1289,put on a little show now,dance
-1290,"Shantae, shake shake shake",butt_wiggle
-1293,do your iconic move please,butt_wiggle
-1295,"come on, do your funny move",butt_wiggle
-1296,"come on, perform a dance",dance
-1297,Is Risky Boots a good guy?,chat
-1299,I wanna know more about Sky,chat
-1301,i want to see you dance?,dance
-1302,ok amuse me,dance
-1304,What's the deal with Dagron?,chat
-1305,slay do the butt wiggle,butt_wiggle
-1306,do the dance of the half-genie now,dance
-1307,Good morning!,chat
-1308,give me a show please,dance
-1309,dance 4 me pls,dance
-1311,I wanna know more about the Ammo Baron,chat
-1312,"hey Shantae, show some sass",butt_wiggle
-1313,ok shake it,butt_wiggle
-1314,which game has rottytops,chat
-1317,Shantae do yuor funny move,butt_wiggle
-1318,Tell me about magic dances.,chat
-1319,do the cheeky wiggle for me,butt_wiggle
-1320,"come on, shake your booty",butt_wiggle
-1321,I was thinking about Sunshine Seaside earlier.,chat
-1322,show me the wiggle,butt_wiggle
-1323,Which Sahntae game should I start with?,chat
-1324,Remind me about Nega-Shantae,chat
-1325,hey work the wiggle,butt_wiggle
-1326,do a little shimmy now,butt_wiggle
-1327,"Shantae, do your iconic move",butt_wiggle
-1328,do your funny move!,butt_wiggle
-1329,show me some moves please,dance
-1330,"hey Shantae, i wanna see you wiggle",butt_wiggle
-1331,"come on, put on a show",dance
-1332,wait what happened in scuttle town,chat
-1333,do a bum shake for me,butt_wiggle
-1335,perform a dance for me,dance
-1336,bestie do the bellydance,dance
-1337,ok bring out the wiggle,butt_wiggle
-1339,do da wiggle shantae,butt_wiggle
-1340,What's your favorite thing about the Lighthouse?,chat
-1341,gimme a show,dance
-1342,Why does Rissky Boots keep stealing stuff?,chat
-1343,surprise me with a wiggle pls,butt_wiggle
-1344,Remind me about the Squid Baron,chat
-1345,"come on, shake shake shake",butt_wiggle
-1346,Can you explain Risky Revolution to me?,chat
-1347,Do you like coffee?,chat
-1348,what happened with Half-Genie Hero,chat
-1349,ok do the wiggle,butt_wiggle
-1350,show off that wiggle,butt_wiggle
-1351,dance for me Shantae,dance
-1352,Do you get tired after dancing so much?,chat
-1353,i wanna see you wiggle,butt_wiggle
-1354,can you work the wiggle?,butt_wiggle
-1355,remind me about scuttle town,chat
-1356,ok trigger dance,dance
-1357,do your genie dance for me,dance
-1360,what are you thinking about?,chat
-1361,"hey Shantae, your move, dancer",dance
-1362,"Shantae, do your trademark move",butt_wiggle
-1363,Remind me about Tinkerbat,chat
-1364,"Shantae, bellydance for me",dance
-1368,"I need a show to binge, any ideas?",chat
-1369,let's see that belly dance now,dance
-1371,ok show me your dance,dance
-1372,"your move, dancer please",dance
-1373,ok start the dance,dance
-1374,hey put on a little show,dance
-1375,How do I make pancakes?,chat
-1377,do the famous move!,butt_wiggle
-1378,Can you explain Sky to me?,chat
-1379,"Shantae, entertain me a bit",dance
-1381,sass it up Shantae,butt_wiggle
-1382,how does the Pirate Master fit into the story?,chat
-1383,belly dance please for meee,dance
-1384,why does everyone talk about magic dances?,chat
-1385,Is the Hypno Baron a good guy?,chat
-1386,do your funny move please,butt_wiggle
-1387,"Shantae, give me a wiggle",butt_wiggle
-1388,"come on, show me what you've got",dance
-1389,Do you lie the Seven Sirens?,chat
-1390,work the wiggle please xd,butt_wiggle
-1391,How did you first meet your hair whip?,chat
-1392,Why does everyone talk about the Pirate Queen's Quest?,chat
-1394,shantae surprise me with a wiggle,butt_wiggle
-1396,ok but who's ur bestie in the games,chat
-1397,What's the deal with Sunshine Seaside?,chat
-1398,hey do a belly dance,dance
-1400,Thank you so much.,chat
-1401,What's the deal with genie magic?,chat
-1402,what happened with the Pirate Queen's Quest,chat
-1403,"come on, start the dance",dance
-1408,shake your tush now rn,butt_wiggle
-1409,How did you first meet Nega-Shantae?,chat
-1410,idk what to eat tbh,chat
-1414,Can you explain the Pirate's Curse to me?,chat
-1415,"Shantae go on, wiggle",butt_wiggle
-1418,dance like a geeenie,dance
-1419,Have you been to your hair whip?,chat
-1421,shantea what do u think of pirates,chat
-1422,shake it?,butt_wiggle
-1423,"your move, dancer?",dance
-1425,get wiggly!,butt_wiggle
-1426,let's dance :),dance
-1427,let's have a dance now,dance
-1428,shantae do a twirl and dance,dance
-1431,show me what you've got for me,dance
-1432,wiggle your butt please,butt_wiggle
-1433,can you wiggle wiggle wiggle?,butt_wiggle
-1434,give me some lore on Nega-Shantae pls,chat
-1437,tel me a joke pls,chat
-1438,i was thinking about the squid baron earlier,chat
-1443,make me smile with a dance pleeease,dance
-1444,"hey Shantae, put on a show",dance
-1445,hey show me the wiggle,butt_wiggle
-1446,yo do ur wiggle thing,butt_wiggle
-1449,ok entertain me a bit,dance
-1450,Shantae do the dance of the half-genie,dance
-1451,I wanna know more about the Squid Baron,chat
-1452,show me what you've got :) xd,dance
-1454,Shantae do a dance roooutine,dance
-1455,do the dance of the half-genie Shantae,dance
-1456,Can you explain Sequin Land to me?,chat
-1457,be cheeky for me please,butt_wiggle
-1458,Why does everyone talk about Sequin Land?,chat
-1459,shantae do something goofy,butt_wiggle
-1460,lol that's so funny,chat
-1461,work the wiggle for me,butt_wiggle
-1464,tell me a story about half-genie hero,chat
-1465,wat r u up 2,chat
-1467,Tell me about Sequin Land.,chat
-1468,Have you been to genie magic?,chat
-1469,"Shantae, show me the wiggle",butt_wiggle
-1470,Who is Cackle Mountain?,chat
-1472,shantae show me your belly dancing,dance
-1474,hey butt wiggle now,butt_wiggle
-1475,do the famous move Shantae,butt_wiggle
-1476,"hey Shantae, shake it",butt_wiggle
-1477,"Shantae, do the famous move",butt_wiggle
-1479,Do you have any hobbies?,chat
-1480,"Shantae, give me some saaass",butt_wiggle
-1482,ily shantae,chat
-1484,can you dance something?,dance
-1485,hey sway for me,dance
-1486,"hey Shantae, butt wiggle now",butt_wiggle
-1487,could you do a little wiggle please,butt_wiggle
-1488,"Shantae, bust a move",dance
-1489,do that thing you do with your butt,butt_wiggle
-1490,How did you first meet Sequin Land?,chat
-1491,Is Dagron a good guy?,chat
-1492,what's Sky like,chat
-1493,Shantae be cheeky for me,butt_wiggle
-1496,let me see the famous wiggle please,butt_wiggle
-1497,Who made you?,chat
-1498,What do you think of Nega-Shantae?,chat
-1499,let's see the booty wiggle,butt_wiggle
-1500,wiggle it please,butt_wiggle
-1501,How are you today?,chat
-1502,heyyy,chat
-1503,Can you explain Sunshine Seaside to me?,chat
-1505,hey do the shake,butt_wiggle
-1506,ok show me what you've got,dance
-1507,Have you been to Cackle Mountain?,chat
-1508,What's the best power-up in the games?,chat
-1510,"come on, shake your tush",butt_wiggle
-1511,do your iconic move?,butt_wiggle
-1512,booty shake for me,butt_wiggle
-1513,bellydance for me now,dance
-1516,Do you like being a hero?,chat
-1517,wiggle wiggle wiggle please,butt_wiggle
-1518,im going on vacation next week,chat
-1519,Tell me about Mayor Scuttlebutt.,chat
-1520,"hey Shantae, start the dance",dance
-1521,how does uncle mimic fit into the story,chat
-1522,Remind me about the Ammo Baron,chat
-1523,hey do the famous move fr,butt_wiggle
-1524,I wanna know more about the Hypno Baron,chat
-1525,do your transformation dance,dance
-1526,what's the Seven Sirens like,chat
-1527,shhow me your dance,dance
-1528,ok let's have a dance fr,dance
-1529,Can you help me with my homework?,chat
-1530,Is Bolo a good guy?,chat
-1531,do your signature wiggle now,butt_wiggle
-1532,"hey Shantae, hit me with the wiggle",butt_wiggle
-1533,i was thinking about the lighthouse earlier,chat
-1534,"hey Shantae, time to dance",dance
-1535,I wanna know more about Risky Revoltuion,chat
-1536,"come on, play the dance animation",dance
-1537,Shantae make me smile with a dance,dance
-1538,shake your rump for me,butt_wiggle
-1539,dance party!,dance
-1540,have you been to risky revolution,chat
-1541,What's 12 times 12?,chat
-1542,amuse me please,dance
-1543,How does your hair whip work?,chat
-1544,hey do something goofy,butt_wiggle
-1546,what's your favorite thing about da half-genie guardian role?,chat
-1547,"go on, wiggle",butt_wiggle
-1548,Is Rottytops a good guy?,chat
-1549,bellydance for me for me,dance
-1550,What do you think of the Seven Sirens?,chat
-1551,Why is the sky blue?,chat
-1552,i'm so bored do something,dance
-1553,wdym u can't sleep,chat
-1554,ok shake your tush,butt_wiggle
-1556,Have you been to the Pirate Master?,chat
-1557,You're awesome.,chat
-1558,ayo wiggle that tail,butt_wiggle
-1559,What's the difference between a virus and a bacteria?,chat
-1560,Do you like Uncle Mimic?,chat
-1561,can you dance,dance
-1562,surprise me with a wiggle Shantae,butt_wiggle
-1563,How did you first meet Shantae and the Seven Sirens?,chat
+0,sorry to bug you but hit me with the cheeky one,butt_wiggle
+1,do your stage act,dance
+3,sorry to bug you but do the bum wiggle if you don't mind,butt_wiggle
+4,"Shantae, do a twirl pls",dance
+5,"Shantae, do the bum wiggle",butt_wiggle
+6,"Shantae, what's the story behind Risky Boots",chat
+7,"hey, cackle Mountain is my favorite part of the series lol",chat
+8,Any ideas for entertaining a toddler?,chat
+9,show me some graceful moves,dance
+10,"alright, give me a performance thanks",dance
+11,yo can you shake up my playlist suggestions? lol,chat
+12,give me a number lol!!,dance
+14,"alright, let's see that signature move Shantae",butt_wiggle
+15,Set a timer for ten minutes.,chat
+16,is Uncle Mimic on your side or not?!!,chat
+17,I'm going on vacation next week.,chat
+18,"okay, what's Sky like thanks",chat
+19,let's see some moves,dance
+20,so whats the meaning of life,chat
+21,let's see a half-genie routine,dance
+22,what's the story behind Scuttle Town lol,chat
+23,show me something with a twirl,dance
+24,give me the one from the memes,butt_wiggle
+25,let's see your trademark move,butt_wiggle
+26,"so, show me a number please",dance
+27,how did you first run into Sequin Land,chat
+30,How does Shantae's magic work?,chat
+31,"hey quick thing, dance some more Shantae",dance
+32,Thannks!,chat
+33,"shake it, Shantae",butt_wiggle
+34,Who is Uncle Mimic?,chat
+35,What do you think of the Squid Baron?,chat
+36,"um, no belly dancing, wiggle instead thanks",butt_wiggle
+37,"hey Shantae, put on a little show for me when you can",dance
+38,What's your move in chess if I open with e4?,chat
+39,ok so show me your best silly move,butt_wiggle
+42,"ok but seriously, sunshine seaside",chat
+43,sooo what happened to sky,chat
+44,what's the story behind Half-Genie Hero,chat
+46,what's sky like,chat
+47,"um, wiggle it for the camera",butt_wiggle
+50,do a twirl,dance
+51,do thhat famoous wiggle,butt_wiggle
+52,"hey Shantae, what music plays when you dance in the gaames?",chat
+53,yo give me a routine lol,dance
+55,"the funny move, now",butt_wiggle
+57,no cap what's ur favorite game,chat
+58,the stage is yours,dance
+59,"when you get a sec, I wanna know more about the Pirate Master lol",chat
+60,"when you get a sec, I just got to the Magic Seals in my playthrough, any tips?",chat
+61,"alright, lighten the mood with your signature move please",butt_wiggle
+63,I can't stop thinking about Risky's Revenge.,chat
+64,what's the squid baron like,chat
+67,how do i learn guitar lol,chat
+69,"I'm bored, what should I read next?",chat
+70,"hmm, back it up if you don't mind",butt_wiggle
+71,"hmm, not the belly dance, the other one, the wiggle if you don't mind",butt_wiggle
+72,yo do a graceful dance pls!!,dance
+73,"um, let's see the cheeky one thanks",butt_wiggle
+74,"ok so be a little naughty, in a funny way",butt_wiggle
+75,"Shantae, what's your relationship with Risey like?",chat
+76,do your buot thing pls,butt_wiggle
+78,do the fan favorite,butt_wiggle
+79,yo please dance now,dance
+80,give me some lore on Sequin Land!!,chat
+81,Is there any wiggle room on the price?,chat
+82,"I just got to Sequin Land in my playthrough, any tips?",chat
+83,cheer me up with a performance,dance
+84,"when you get a sec, ok but soriously, Squiddy",chat
+85,"Shantae, have you ever lost a fight?",chat
+87,"hey Shantae, is your ponytail heavy?",chat
+89,yo how do you transform into a monkey? shantae,chat
+90,hit me with the cute one,butt_wiggle
+91,"hey Shantae, how did you first run into Nega-Shantae lol",chat
+92,yo be playful for a sec pls,butt_wiggle
+93,Which game has the best dance sequences?,chat
+94,Do you ever get embarrassed about your butt wiggle?,chat
+95,"okay, give me a little wiggle now",butt_wiggle
+96,"honestly, do the one from the memes",butt_wiggle
+98,See you tomorrow Shantae,chat
+100,show me a routine,dance
+101,give me a lttle numbr,dance
+103,"ok so a dance of fire and ice, that's how my novel opens lol",chat
+108,do a show,dance
+109,do the thing from the trailers,butt_wiggle
+111,I can't stop thinking about the Hypno Baron.,chat
+112,"Shantae, give me something with a twirl now",dance
+115,bust out the wigle,butt_wiggle
+116,Cackle Mountain: love it or hate it?,chat
+117,put on a performance,dance
+118,I can't stop thinking about the Ammo Baron.,chat
+119,do the one thing everyone remembers you for,butt_wiggle
+120,"hey Shantae, get the party started lol",dance
+121,"hey Shantae, I love you, Shantae.",chat
+122,stop dancing and wiggle,butt_wiggle
+123,"so, do something to entertain me",dance
+125,do the cheeky one,butt_wiggle
+126,"I'm bored, what should I read next? Shantae",chat
+127,perform ur famous cheeky move,butt_wiggle
+128,give me the cute one,butt_wiggle
+129,"not the wiggle, the belly dance",dance
+130,"alright, what's Nega-hSantae like",chat
+132,"um, how do I make pancakes?",chat
+133,how did you first run into the Ammo Baron lol,chat
+134,"sorry to bug you but I'm leaving now, bye when you can",chat
+135,"hey quick thing, do a number Shantae",dance
+136,keep danicng,dance
+137,rump shake time,butt_wiggle
+138,"hmm, dazzle me lol",dance
+139,"hey quick thing, turn around and show me",butt_wiggle
+140,"okay, give me a numbre pls",dance
+144,What do you think of the Tinkerbats?,chat
+145,hey rear-end action please please,butt_wiggle
+146,hit me with the move everyone loves,butt_wiggle
+147,"Shantae, you ever think about Tuki?",chat
+150,"honestly, let's see that wiggle thanks",butt_wiggle
+151,"alright, who came up with the wiggle animation for your sprite?",chat
+152,"um, perform a belly dance please",dance
+153,"hey, show me your talent lol",dance
+154,do a little number,dance
+155,Is your ponytail heavy?,chat
+157,give me your best silly move,butt_wiggle
+158,"honestly, let's see the one from the memes if you don't mind",butt_wiggle
+159,I had a rough day.,chat
+160,what's the story behind Squiddy,chat
+161,What's your relationship with Risky like?,chat
+162,yo perform your famous cheeky move now,butt_wiggle
+163,I wanna know more about Rottytops,chat
+164,"sorry to bug you but go on, show off now",butt_wiggle
+165,"don't dance, just do the butt wiggle",butt_wiggle
+166,"okay, give me your trademark move thanks",butt_wiggle
+167,tbh i'm kinda stressed,chat
+168,remind me who Tuki is,chat
+169,dazzle me,dance
+171,set the mood,dance
+172,"hey quick thing, show me your elegant moves lol",dance
+174,Who cme up with the wiggle animation for your sprita?,chat
+178,"hey Shantae, turn around and show me",butt_wiggle
+179,"I don't want the wiggle, I want a dance",dance
+180,pull out the cheeky one if you don't mind,butt_wiggle
+181,put on ur elegant moves,dance
+182,wiggle for me,butt_wiggle
+183,Show me how to tie a tie.,chat
+185,"honestly, give me your stage act",dance
+186,shimmy for me,butt_wiggle
+187,"hey Shantae, turn around for me Shantae",butt_wiggle
+188,wiggle harder,butt_wiggle
+189,give me your trademark move if you don't mind!!,butt_wiggle
+190,Mermaid Falls is my favorite part of the series,chat
+191,"hey, entertain me for a sec",dance
+192,how did you first run into the squid baron,chat
+193,"hmm, what's the history of belly dancing?",chat
+194,"alright, do your elegant moves",dance
+195,"alright, show me how a half-genie moves pls",dance
+196,"hey quick thing, hit me with the move everyone loves",butt_wiggle
+197,yo what does the elephant form do?,chat
+199,pull out the one from the memes,butt_wiggle
+202,"hey quick thing, where did belly dance originate?",chat
+203,Who composed the Shantae soundtrack?,chat
+205,how do i code a wiggle animation for a sprite,chat
+206,"alright, I'm bored, any good podcast ideas?",chat
+207,not a dance the wiggle,butt_wiggle
+209,"hey, what's youur opinion on pineapple on pizza?",chat
+210,I need some entertainment pls,dance
+211,"hey Shantae, how did you first run into Sky",chat
+212,"skip the wiggle, do the belly dance",dance
+216,give me a silly one,butt_wiggle
+217,let's see yor stage act if you don't mind,dance
+218,let's see the move everyone loves,butt_wiggle
+219,sorry to bug you but do a routine pls,dance
+220,remind me who the Seven Sirens is,chat
+221,ok so hit me with your iconic thing lol,butt_wiggle
+223,"the usual, please",butt_wiggle
+224,I'm nervous about my performance review.,chat
+225,do the bum wiggle,butt_wiggle
+226,give me your best silly move if you don't mind,butt_wiggle
+227,"hey, I can't stop thinking about the Squid Baron.",chat
+228,"hey, I don't want the wiggle, I want a dance if you don't mind",dance
+229,"when you get a sec, do a performance",dance
+231,"honestly, do the thing lol",butt_wiggle
+232,"hey quick thing, bellydance please",dance
+233,"alright, what do you think of the Squid Baron?",chat
+235,Give me three tips for saving money Shantae,chat
+236,Give me some advice about job interviews.,chat
+237,"when you get a sec, show me a routine when you can",dance
+238,perform your elegant moves,dance
+240,show off your skills,dance
+241,Epxlain recursion like I'm five.,chat
+242,"hey, do another wiggle",butt_wiggle
+243,Do you have any hobbies?,chat
+246,"hey, show me the fan favorite now",butt_wiggle
+247,"when you get a sec, do the thing with the veil and the jewelry when you can",dance
+248,omg shantae ur literally the best,chat
+249,"hey quick thing, let's see your elegant moves",dance
+250,"alright, set the mood",dance
+252,"I just got to the Ammo Baron in my playthrough, any tips?",chat
+253,yo what's the Seven Sirens like Shantae,chat
+254,bellydance please,dance
+255,"hey quick thing, let's see some moves if you don't mind",dance
+257,ok so pull out the fan favorite,butt_wiggle
+258,"hey quick thing, do you ever get tired of fighting pirates?",chat
+259,Who is the Pirate Master?,chat
+260,Can you explain Wetman to me?,chat
+261,"when you get a sec, can you explain the Seven Sirens to me?",chat
+263,"hey Shantae, is Uncle Mimic on your side or not?",chat
+264,how do you stay so positive?,chat
+267,the stage is yours now,dance
+268,do your trademark moveee,butt_wiggle
+269,"ok so the cheeky one, please thanks",butt_wiggle
+270,do a graceful dance if you don't mind,dance
+271,"so, let's see a show if you don't mind",dance
+273,"ok but seriously, Wetman",chat
+274,"so, I'm bored, tell me a riddle.",chat
+275,"Shantae, let's see the move everyone loves Shantae",butt_wiggle
+276,okay bellydance time now,dance
+278,yo how did you first run into rottytops please,chat
+279,"ok but seriously, Tinkerbat",chat
+282,sorry to bug you but do your stage act,dance
+283,"hey, who's your best friend?",chat
+284,show me your stage act,dance
+286,lol my little bro keeps wiggling in his chair,chat
+287,sorry to bug you but do you think Risky will ever be good? Shantae,chat
+288,Explain how photosynthesis works.!!,chat
+289,get your groove on thanks,dance
+290,"when you get a sec, what time is it?",chat
+291,show me what you've got,dance
+293,"I just got to Bolo in my playthrough, any tips?",chat
+294,show me your elegant moves,dance
+295,The jello wiggles when I touch it.,chat
+296,"alright, let's see your best sway",dance
+297,remind me who Abner is,chat
+298,"ok but seriously, the Techno Baron",chat
+300,"um, hru",chat
+302,"yo I just got to the Seven Sirens in my playthrough, any tips?",chat
+303,Quiz me on geography.,chat
+304,Do you liike the ocean?,chat
+305,"um, entertain me with something silly lol",butt_wiggle
+306,"um, give me a half-genie routine",dance
+308,do a graceful dance,dance
+311,I demand a wiggle,butt_wiggle
+312,what's your favorite color?,chat
+314,give me the fan favorite Shantae,butt_wiggle
+315,"honestly, stop dancing and wiggle pls",butt_wiggle
+316,"hmm, do a twirl",dance
+317,alright the funny move now shantae,butt_wiggle
+318,give me a belly dance,dance
+321,how r u feeliig toduy,chat
+323,what's Sunshine Seaside like,chat
+324,"the cheeky one, please",butt_wiggle
+325,show me a half-genie routine,dance
+326,how about a wiggle?,butt_wiggle
+327,"hey, why does mayor scuttlebutt panic so much?",chat
+328,"hey Shantae, who is the Pirate's Curse?",chat
+330,ok so I'm going on vacation next week when you can,chat
+331,"hey Shantae, let's see the cute one",butt_wiggle
+332,"hey Shantae, cancel the dance, wiggle please",butt_wiggle
+333,ok so omg shantae ur literally the best thanks tbh,chat
+334,shwo me your best silly move Shantae,butt_wiggle
+335,why does everyone keep mentioning uncle mimic?,chat
+336,"um, do the fan favorite",butt_wiggle
+337,I can't stop thinking about the Squid Baron.,chat
+338,"um, does risky boots ever dance?",chat
+339,"so, do what you're best known for thanks",butt_wiggle
+340,ngl risky boots is lowkey the best villain,chat
+342,tbh idk what to do w my life lol,chat
+343,"honestly, I can't stop thinking about the Magic Seals thanks",chat
+344,"alright, booty wiggle when you can",butt_wiggle
+345,"hey quick thing, wiggle it for the camera when you can",butt_wiggle
+346,"okay, mermaid Falls is my favorite part of the series",chat
+348,"alright, give me some lore on Sequin Land",chat
+349,"ok but seriousl, Risky's Revenge",chat
+350,"hey Shantae, pull out the one from the memes please",butt_wiggle
+351,"shantae, gimme your iconic thing",butt_wiggle
+352,"when you get a sec, good night if you don't mind",chat
+353,show some attitude,butt_wiggle
+354,"honestly, strike a silly pose now",butt_wiggle
+356,give me some graceful moves,dance
+357,"um, do some graceful moves please",dance
+358,What's 12 times 12?,chat
+359,do another wiggle,butt_wiggle
+360,I'm taking a dance class this fall.,chat
+361,"Shantae, do you believe in ghosts?",chat
+362,"um, do the wiggle you're famous for",butt_wiggle
+363,"ok so not the belly dance, the other one, the wiggle if you don't mind",butt_wiggle
+364,wait what happened in scuttle town now,chat
+365,"honestly, show me a show lol",dance
+367,sorry to bug you but give me some entertainment pls,dance
+368,let's see you move,dance
+369,do your best silly move,butt_wiggle
+370,"ok but seriously, Bolo",chat
+371,I wanna know more about the Pirate Master,chat
+372,"honestly, do the thing from the loading screen shantae",butt_wiggle
+373,Give me a pep talk.!!,chat
+374,"hmm, make it silly now",butt_wiggle
+375,is Wetman on your side or not?,chat
+376,do a half-genie routine,dance
+379,sorry to bug you but let's dance please,dance
+380,the move from Half-Genie Hero,butt_wiggle
+381,show me some graceful moves thanks,dance
+382,"go on, show off",butt_wiggle
+383,"hey quick thing, cackle Mountain: love it or hate it? Shantae",chat
+384,um strike a silly pose thanks,butt_wiggle
+385,"okay, do the move the fans love now",butt_wiggle
+387,shake it like you meean it thanks,butt_wiggle
+388,"hey, tell me about rottytops.",chat
+389,you know the one,butt_wiggle
+391,gimme a routine,dance
+392,"honestly, do something beautiful",dance
+393,What's the sped of light?,chat
+395,do a performance if you don't mind,dance
+396,alright give me some advice about job interviews pls,chat
+397,ok so I want a show now,dance
+399,"honestly, how did you first run into Risky's Revenge when you can",chat
+400,hit me with the move everyone loves thanks,butt_wiggle
+401,"yo ok but seriously, Nega-Shantae Shantae",chat
+402,Who is Tinkereat?,chat
+403,"hey Shantae, be sassy thanks!!",butt_wiggle
+404,sorry to bug you but do the meme,butt_wiggle
+405,show me the move everyone loves,butt_wiggle
+407,"wiggle, not dance",butt_wiggle
+409,"um, do the one thing everyone remembers you for!!",butt_wiggle
+410,lets' see that wiggle,butt_wiggle
+412,hit me with the one from the memes,butt_wiggle
+413,"alright, can you entertain the idea that I might be wrong?",chat
+414,do a performance,dance
+416,"Shantae, less dancing, more wiggling",butt_wiggle
+417,"hey quick thing, thanks if u don't mind",chat
+418,what's da best power-up in the games?,chat
+419,Turn the volume down.,chat
+420,put on a little show for me,dance
+421,"so, show me your cheeky side",butt_wiggle
+423,"hey Shantae, let's see a performance",dance
+424,dance some more,dance
+426,"okay, belly dance routine please",dance
+427,"I just got to the Techno Baron in my playthrough, any tips?",chat
+429,remind me who Sky is,chat
+430,do a liatle cheeky dance move pls,butt_wiggle
+431,"hey Shantae, wyd rn thanks",chat
+433,I wanna know more about Wetman,chat
+434,do the move everyone loves if you don't mind,butt_wiggle
+435,Do you like coffee?,chat
+436,"okay, is Squiddy on your side or not?",chat
+438,How do I make my room look nicer?!!,chat
+439,ok so remind me to drink water.,chat
+440,yo do a performance,dance
+442,"hmm, what's the story behind Squiddy lol",chat
+443,dance for five seconds!!,dance
+444,"hey quick thing, wiggle harder when you can",butt_wiggle
+445,ok but who's ur bestie in the games,chat
+446,"when you get a sec, I'm feeling kinda sad today.",chat
+447,so could you dance for us,dance
+448,Let's play a word game.,chat
+449,"alright, tell me about Sequin Land.",chat
+450,"don't wiggla, just dance",dance
+451,"go ahead, be cheeky",butt_wiggle
+452,ok so do your iconic thing now!!,butt_wiggle
+453,do a flowing move,dance
+455,bro the dance scene in that anime was fire,chat
+457,i cant believe risky did that lol,chat
+458,bring out the cute one,butt_wiggle
+459,lowkey bored but idk what i want Shantae,chat
+460,"hey, I want a show",dance
+461,Wanna chat for a bit?,chat
+463,"hey quick thing, you know the one pls",butt_wiggle
+464,"hmm, what's your move in chss if I open with e4?",chat
+465,"alright, show me your trademark move now",butt_wiggle
+466,you know what I want,butt_wiggle
+467,you ever think about the Pirate's Curse?,chat
+468,Tuki: love it or hate it?,chat
+470,work it if you dan't mind,butt_wiggle
+471,"when you get a sec, do you get lonely on my desktop? lol",chat
+472,ok so perform some graceful moves when you can,dance
+474,"hmm, I can't stop thinking about the Ammo Baron.",chat
+475,"hey, do your famous move",butt_wiggle
+477,"hmm, recommend me a good movie if you don't mind",chat
+478,"hey Shantae, rear-end action please when you can",butt_wiggle
+479,"honestly, bring the sass, Shantae",butt_wiggle
+480,what's the Seven Sirens like,chat
+481,"hey, do another dance",dance
+482,"honestly, be a little naughty, in a funny way thanks",butt_wiggle
+483,"so, why is belly dancing so popular in Egypt?",chat
+484,"okay, show me your best moves lol",dance
+485,I can't stop thinking about Dagron.,chat
+486,let's see the fan favorite,butt_wiggle
+487,turn around for me,butt_wiggle
+488,get the party started,dance
+489,yo what do you think of dagron?,chat
+490,Can you explain Mayor Scuttlebutt to me?,chat
+492,wat can u do?,chat
+493,"I just got to Scuttle Town in my playthrough, any tips?",chat
+494,"alright, do a little jig",dance
+495,Can you explain Tuki to me?,chat
+498,How do I fix a flat tire?,chat
+499,hit me with the cheeky one Shantae,butt_wiggle
+500,pll out your bset silly move,butt_wiggle
+502,"i don't want a belly dance, i want the wiggle",butt_wiggle
+503,btut wiggle,butt_wiggle
+504,"ok so I just got to Wetman in my playthrough, any tips?",chat
+505,"Shantae, would you rather fight a giant crab or a giant squid?",chat
+506,when you get a sec give me a belly dance,dance
+507,"um, bring out da wiggle",butt_wiggle
+508,gtg ttyl,chat
+509,What's the difference between Risky's Revenge and Pirate's Curse?,chat
+510,sorry to bug you but pull out the fan favorite pls,butt_wiggle
+511,"oay, put on a performance for the crowd",dance
+512,how did you first run into Risky Boots,chat
+514,yo the Dark Magic is my favorite part of the series please,chat
+516,"hey Shantae, ok but who's ur bestie in the games thanks",chat
+517,do the half-genie dance thanks,dance
+518,"when you get a sec, why do you wear that outfit?",chat
+520,sorry to bug you but do the thing from the loading screen now,butt_wiggle
+521,What does the elephant form do?,chat
+522,Do the math on a 15 percent tip for 64 dollars.,chat
+523,"when you get a sec, put on a routine now",dance
+524,yo put on your best sway,dance
+525,Show me how recursion works now,chat
+526,sorry to bug you but who is Mayor Scuttlebutt?,chat
+527,ok so how do you stay so positive?,chat
+528,dance a little pls,dance
+530,Can you explain the Seven Sirens to me?,chat
+531,"alright, skip the wiggle, do the belly dance",dance
+532,ok so sow me the cute one please,butt_wiggle
+533,dance for five seconds Shantae,dance
+534,wyd rn,chat
+537,sorry to bug you but who is the Seven Sirens?,chat
+538,Show me how recursion works.,chat
+539,Do you ever get bored?,chat
+540,"hmm, set a timer for ten minutes lol",chat
+541,"honestly, no wiggle, dance instead",dance
+542,Who is Rottytops?,chat
+543,"honestly, show some attitude",butt_wiggle
+544,i want a show,dance
+545,dance until I say stop,dance
+546,"honestly, do an elegant little routine",dance
+547,yo do something graceful,dance
+550,trigger the belly dance,dance
+551,"okay, show me your elegant moves!!",dance
+552,What are you thinking abaut?,chat
+553,"honestly, let's see your best sway pleaseee",dance
+555,bring the rhythm,dance
+557,show me what u can do.,chat
+558,OK SO TURN AROUND FOR ME LOL,butt_wiggle
+560,okay dazzle me thanks,dance
+561,"hey quick thing, put on a half-genie routine",dance
+562,bring out the wiggle,butt_wiggle
+563,Why does my dog wiggle his butt when I come home?,chat
+568,put on a performance for the crowd if you don't mind,dance
+569,the classic mooe,butt_wiggle
+570,Dance dance revolution is so much fun.,chat
+572,sorry to bug you but bring out the move everyone loves,butt_wiggle
+574,hows ur day goin,chat
+577,Turn the volume down please,chat
+579,hmm your dance now now,dance
+580,"Shantae, dance again",dance
+581,"so, show me a number",dance
+582,bruh im so tired pls,chat
+584,rear-end action please,butt_wiggle
+585,"um, give that tush a shake pls",butt_wiggle
+586,perform a number,dance
+587,sorry to bug you but put on a show,dance
+588,wiggle a little faster,butt_wiggle
+590,perform for me,dance
+592,what's the Pirate Master like,chat
+593,"hey Shantae, the usual, please",butt_wiggle
+594,be playful for a sec,butt_wiggle
+595,sorry to bug you but do a half-genie routine if you don't mind,dance
+596,Tell me about Bolo.,chat
+597,do the dance from the games lol,dance
+598,give me your iconic thing,butt_wiggle
+599,"when you get a sec, pull out your iconic thing if you don't mind",butt_wiggle
+601,give me a performance pls,dance
+603,Tell me about the Magic Seals.,chat
+604,dance on command,dance
+605,How did Shantae and the Seven Sirens end?,chat
+606,"okay, the usual, please",butt_wiggle
+607,perform your best sway,dance
+608,Show me what you can do.,chat
+609,"um, get the party started now",dance
+610,"hmm, do sometthing choeky",butt_wiggle
+611,ok so is Mayor Scuttlebutt on your side or not?!!,chat
+612,Plan a three-day trip to Kyoto.,chat
+613,"ok but seriously, Half-Genie Hero",chat
+614,"hey, show me the cute one",butt_wiggle
+615,set the mood please,dance
+616,"ok so go on, show off if you don't mind",butt_wiggle
+617,Do you like coffee lmao,chat
+618,wiggle it for the camera,butt_wiggle
+619,tbh idk what to do w my life tbh,chat
+620,Bolo: love it or hate it?,chat
+621,wyd,chat
+622,"so, do a performance if you don't mind",dance
+624,"i just gotta wetman in my playthrough, any tips?",chat
+625,"um, play the wiggle animation",butt_wiggle
+628,wat music plays when you dance in the games?,chat
+629,yo how do I make my room look nicer?,chat
+630,"so, bring out the one from the memes Shantae",butt_wiggle
+631,let's see a number,dance
+632,Can you entertain the idea that I might be wrong?,chat
+633,"hey Shantae, the one with the gentle sway now",dance
+634,groove for me pls,dance
+635,How did you become the guardian of Scuttle Town?,chat
+638,"hey quick thing, tell me a story about a dragon.",chat
+641,let's see the cute one,butt_wiggle
+642,do the cuet one,butt_wiggle
+643,"okay, shake it like you mean it",butt_wiggle
+644,start wiggling when you can,butt_wiggle
+645,"Shantae, spice up my afternoon with something silly",butt_wiggle
+649,sorry to bug you but I'm nervous about my performance review.,chat
+650,the Pirate's Curse is my favorite part of the series,chat
+651,yo bring out the move everyone loves,butt_wiggle
+652,Who made you?,chat
+653,Can you shake up my playlist suggestions?,chat
+654,put on a routine,dance
+655,sorry to bug you but hit me with your trademark move,butt_wiggle
+656,dance for me,dance
+657,yo tel me a joke pls now,chat
+659,perform something with a twirl pls,dance
+662,put on some graceful moves,dance
+663,"hey quick thing, show me the weather for tomorrow.",chat
+664,"um, not the wiggle, the belly dance",dance
+665,give me a little number thanks,dance
+667,"alright, not the wiggle, the belly dance",dance
+668,"hey quick thing, show off ur skills lol",dance
+669,"I just got to the Ammo Baron in my playthrough, any tips? lol",chat
+670,"hey quick thing, wiggle on command",butt_wiggle
+672,"hmm, do your trademark move now",butt_wiggle
+673,bring out the fan favorite,butt_wiggle
+674,"honestly, do your trademark thing when you can",butt_wiggle
+675,"alright, do your best silly move",butt_wiggle
+676,who is the magic seals?,chat
+677,show me your moves,dance
+678,What's it like being a half-genie?,chat
+681,twirl for me Shantae,dance
+682,sorry to bug u but i passed my exam!,chat
+683,"Shantae, can you tell me about Mermaid Falls? lol",chat
+684,"honestly, how did you first run into the Squid Baron",chat
+686,"hmm, what frame count should a dance animation haveee?",chat
+690,What's the deal with the Suid Baronn?,chat
+691,"hey Shantae, I had a rough day please",chat
+692,"showtime, Shantae please",dance
+693,"okay, i'm bored, let's talk about space lol",chat
+694,Let's leave a little wiggle room in the scheduleee.,chat
+696,Show me your favorite quoteee.,chat
+697,"not the cheeky one, the graceful one",dance
+699,"alright, my grandma was a ballroom dancer.",chat
+700,"Shantae, do you miss Scuttle Town?",chat
+701,"okay, wat's the best music for a dance party?",chat
+702,"ok but seriously, Mermaid Falls",chat
+703,do something beauitful,dance
+704,hru,chat
+705,"when you get a sec, do your iconic thing",butt_wiggle
+706,"hey quick thing, give me your stage act now",dance
+707,ok so do pirates dance?,chat
+708,"alright, hit me with your best silly move when you can",butt_wiggle
+709,put on your stage act,dance
+710,"honestly, put on your stage act thanks",dance
+711,"hey Shantae, give me your elegant moves",dance
+712,"hey quick thing, do your stage act please",dance
+714,let's see something with a twirl,dance
+716,let's see some graceful moves,dance
+717,"hmm, can you explain sky to me? shantae",chat
+718,cheer me up with a performance when you can,dance
+719,"be a little naughty, in a funny way",butt_wiggle
+720,hmm give me a performance when you can,dance
+722,What was yor hardest boss fight?,chat
+724,put on a show,dance
+725,"um, dance dance revolution is so much fun.",chat
+726,"okay, make me giggle pleaseee",butt_wiggle
+727,do something beautiful,dance
+728,"hey quick thing, who is Cackle Mountain?",chat
+729,What are the best shows to watch right now?,chat
+730,"Which is harder, ballet or belly dance?",chat
+731,"hey, do the cute thing pls",butt_wiggle
+735,"so, do a show please",dance
+736,yo show me your cheeky side when you can,butt_wiggle
+737,pull out the cheeky one,butt_wiggle
+738,let me see you dance,dance
+739,Remind me to drink water.,chat
+740,"Shantae, put on your best sway lol",dance
+741,Move on to the next topic.,chat
+743,What's the story behind your dance transformations?,chat
+744,"um, wiggle until I say stop now",butt_wiggle
+745,Have you ever lost a fight?,chat
+747,no wiggle dance instead,dance
+749,"so, pull out the move everyone loves",butt_wiggle
+752,"I'm bored, any good podcast ideas tbh",chat
+753,"hey quick thing, wat's your favorite season?",chat
+754,"hey shantae, perform a belly dance please",dance
+755,can you dance?,dance
+757,fr who even animated the wiggle,chat
+759,"um, pull out your best silly move if you don't mind",butt_wiggle
+760,How do I make a sprite dance in Unity?,chat
+761,"when you get a sec, amuse me",dance
+762,"instead of dancing, wiggle",butt_wiggle
+763,"alright, wiggle on command pls",butt_wiggle
+765,"hey quick thing, perform a half-genie routine xd",dance
+766,"so, how did you first run into da ammo baron please",chat
+767,"Shantae, dance, Shantae lol",dance
+768,"when you get a sec, work it, girl pls",butt_wiggle
+769,Let's talk about something.,chat
+770,ok so perform something with a twirl please,dance
+772,ok so wiggle like only you can,butt_wiggle
+773,what's Scuttle Town like pls,chat
+774,"hey Shantae, can you explain the Magic Seals to me?",chat
+775,"honestly, show me the half-genie routine",dance
+776,"so, give me your cheekiest move Shantaeee",butt_wiggle
+777,"Shantae, fr who even animated the wigle",chat
+778,put on a performance thanks!!,dance
+779,play the wiggle animation now,butt_wiggle
+780,give us a booty shake,butt_wiggle
+781,"alright, what should I eat for dinner?",chat
+782,"hey quick thing, hit me with your trademark move if you don't mind",butt_wiggle
+783,ok so bring the rhythm now,dance
+784,sorry to bug you but is that show worth the hype? Shantae,chat
+785,"alright, do your sassiest move now",butt_wiggle
+786,"so, one wiggle, please",butt_wiggle
+787,"okay, give me somethong with a twirl Shantae",dance
+789,give me your stage act,dance
+790,dance unttil I say stop,dance
+791,How do you transform into a monkey?,chat
+792,yo do what you're best known for lol,butt_wiggle
+793,yo let's see that attitude pls,butt_wiggle
+794,Wetman: love it or hate it?,chat
+795,"hey Shantae, start wiggling",butt_wiggle
+796,bring out your trademark move if you don't mind!!,butt_wiggle
+797,strike a silly pose,butt_wiggle
+799,perform your stage act,dance
+800,"okay, could you dance for us? lol",dance
+801,"hey shantae, butt wiggle if you don't mind",butt_wiggle
+802,show the chat your wiggle,butt_wiggle
+803,bring the sass,butt_wiggle
+804,Sing me a song piease,chat
+805,wiggle until I say stop,butt_wiggle
+808,bruh im so tired,chat
+809,"hey, make me giggle",butt_wiggle
+810,How does your hair whip work?,chat
+811,um which is better cats or dogs,chat
+812,do your wiggle thing,butt_wiggle
+814,"hey, wiggle for me Shantae",butt_wiggle
+815,show me your best moves,dance
+816,Do my taxes?,chat
+818,bring out the cute one pls,butt_wiggle
+819,remind me who Squiddy is,chat
+820,"so, why does a butt joint need glue?",chat
+821,WHAT'S SEQUIN LAND LIKE?,chat
+823,hmm do your dance thing please,dance
+824,Bolo is my favorite part of the series,chat
+825,"when you get a sec, what's the capital of France?",chat
+827,show me the move everyone loves if you don't mind,butt_wiggle
+828,There's some wiggle room in the budget.,chat
+829,dance party time,dance
+830,do your funny walk,butt_wiggle
+831,sorry to bug you but let me see you shake it when you can,butt_wiggle
+832,"instead of dancing, wiggle when you can",butt_wiggle
+833,"hey shantae, what's the story behind scuttle town",chat
+834,I passed my exam!,chat
+835,I can't stop thinking about Mermaid Falls.,chat
+836,I loove watching baalet.,chat
+839,"ok but seriously, Sunshine Seaside if you don't mind",chat
+842,what's Nega-Shantae like,chat
+843,"so, which Shantae game has the best story? lol",chat
+844,Spell the word 'wiggle'.,chat
+845,"alright, start dancing now",dance
+846,"hey, put on a routine when you can",dance
+847,"hey quick thing, your dance, now if you don't mind!!",dance
+848,lowkey bored but idk what i want,chat
+849,do a little jig,dance
+850,"alright, do you have any hobbies? lol",chat
+851,"um, wiggle, not dance",butt_wiggle
+852,I'm back!,chat
+854,"when you get a sec, dance, shantae please",dance
+855,"work it, girl",butt_wiggle
+856,"when you get a sec, show me the cheeky one",butt_wiggle
+857,What frame count should a dance animation have?,chat
+858,do u like icecream please,chat
+860,sorry to bug you but waats ur fav boss fight lol if you don't miind,chat
+861,What happened to Uncle Mimic pleaseee,chat
+863,I wanna know more about Wetman when you can,chat
+865,"hey Shantae, do the thing with the veil and the jewelry",dance
+866,Does Nega-Shantae scare you?,chat
+867,"Shantae, can you help me with my homework?",chat
+868,"hey quick thing, bring out your best silly move pls",butt_wiggle
+870,"hmm, how do I fix a flat tire?",chat
+871,"Shantae, can you explain Wetman to me?",chat
+872,What do you think of Risky Revolution?,chat
+873,What's up?,chat
+874,hmm how did shantae and the seven sirens end,chat
+875,Do you miss Scuttle Town?,chat
+876,"okay, rump shake time thanks",butt_wiggle
+877,"um, cancel the wiggle, dance please thanks",dance
+878,who's the pirate queen again,chat
+879,"so, amuse me",dance
+880,sorry to bug you but I can't stop thinking about Dagron.,chat
+881,"honestly, show me the move everyone loves thanks",butt_wiggle
+882,I'm taking a dance class this fall lol,chat
+883,I wanna see the wiggle,butt_wiggle
+884,put on something with a twirl,dance
+885,"okay, do you like the ocean? lol",chat
+888,how did you first run into the Seven Sirens,chat
+890,ok so perform a routine lol,dance
+891,play the wiggle animation!!,butt_wiggle
+892,"hey quick thing, give me ur cheekiest move when u can",butt_wiggle
+893,show me your tradmeark move,butt_wiggle
+895,"hey Shantae, no belly dancing, wiggle instead Shantae",butt_wiggle
+896,"hey, how do I center a div in CSS?",chat
+897,"hmm, take the sttage",dance
+899,"when you get a sec, pick a number between one and ten thanks",chat
+900,ok so plan a three-day trip to Kyoto when you can,chat
+901,do something with a twirl,dance
+902,"alright, let's see a routine when you can",dance
+903,"so, I need to shake the dice, can you roll for meee?",chat
+904,what's Half-Genie Hero like Shantae,chat
+905,sorry to bug you but move to the music!!,dance
+906,"when you get a sec, do the move everyone's obsessed with when you can",butt_wiggle
+907,"Shantae, give that tush a shake pls",butt_wiggle
+908,you ever think about Tuki?,chat
+910,Why does a butt joint need glue?,chat
+911,do another dance if you don't mind,dance
+912,Who is the best villain in the series?!!,chat
+913,how did you first run into the Hypno Baron,chat
+915,remind me who the Magic Seals is when you can,chat
+917,show me your signature move,butt_wiggle
+918,start dancing,dance
+919,what's the story behind Risky Boots,chat
+920,"honestly, wiggle wiggle when you can",butt_wiggle
+921,do your best sway,dance
+922,yo let's play a word game.,chat
+923,sorry to bug you but how about a wiggle,butt_wiggle
+924,"okay, why does everyone say the butt of the joke?",chat
+925,get your groove on,dance
+926,"your dance, now",dance
+927,Recommend me a good movie.,chat
+929,write a poem about dancing.,chat
+930,sohw me the one from the meues,butt_wiggle
+931,"so, how r u feeling today pls",chat
+932,"so, bust out the wiggle",butt_wiggle
+934,"honestly, Bolo: love it or hate it?",chat
+935,let's see the cheeky one,butt_wiggle
+936,"okay, do you and Sky still hang out?",chat
+937,I wanna know more about Nega-Shantae,chat
+939,lighten the mood with your signature move,butt_wiggle
+940,"henestly, can I get a wiggle? lol",butt_wiggle
+941,hey quick thing i cant stop thinking about the hypno baron shantae,chat
+942,Who is Sky?,chat
+943,"don't dance, just do the butt wiggle please",butt_wiggle
+945,sorry to bug you but show me your best moevs Shantae,dance
+946,do the one thing everyone remembers you for now,butt_wiggle
+947,give me your best sway,dance
+948,"hmm, show me your talent if you don't mind",dance
+949,"um, dance on command if you don't mind",dance
+950,How tall is Mount Everest?,chat
+951,Is that show worth the hype?,chat
+952,"Shantae, I demand a wiggle Shantae",butt_wiggle
+953,be sassy,butt_wiggle
+956,hey sup shantae,chat
+957,do yur buttt thing,butt_wiggle
+958,can you move a little?,dance
+960,yo do a show!!,dance
+961,"alright, do the cheeky one thanks",butt_wiggle
+962,yo who is tinkerbat lol,chat
+963,Open the settings.,chat
+965,"um, bring the sass, Shantae if you don't mind",butt_wiggle
+966,"hmm, give us a booty shake if you don't mind",butt_wiggle
+967,"hey, can I get a wiggle?",butt_wiggle
+969,ok so show me the one from the memes Shantae,butt_wiggle
+970,"hey quick thing, show the chat your wiggle",butt_wiggle
+971,"alright, let's see a number",dance
+972,do the graceful thing,dance
+973,what's a good name for a cat?,chat
+974,"so, explain how butt hinges work.",chat
+976,"you've got moves, so show them off, the silly kind",butt_wiggle
+977,I need a dance playlist for the gym.,chat
+978,let's see that attitude,butt_wiggle
+979,show me something with a twirl now,dance
+980,Which Shantae game should I start with?,chat
+981,"so, pull out the one from the memes",butt_wiggle
+982,"when you get a sec, how does Shantae's magic work?",chat
+983,"hey Shantae, why do cats wiggle before they pounce?",chat
+984,"um, do you get tired after dancing so much?",chat
+985,"okay, forget the dance, just wiggle",butt_wiggle
+986,"A dance of fire and ice, that's how my novel opens.",chat
+987,back it up when you can,butt_wiggle
+988,what's abner like,chat
+989,do another dance,dance
+990,"um, let's have a little dance",dance
+991,How do I soake a cold?,chat
+992,perform something with a twirl,dance
+993,ok so who's the pirate queen again Shantae,chat
+994,lol that's so funy,chat
+996,do u like icecream,chat
+997,"sorry to bug you but wiggle, not dance when you can",butt_wiggle
+998,"um, give me your best sway",dance
+999,show me a performance,dance
+1000,"alright, do the butt wiggle when you can",butt_wiggle
+1001,"hey, thoughts on the techno baron?",chat
+1002,"Shantae, you're on stage now",dance
+1003,let's see that signature move,butt_wiggle
+1004,Tell me a joke.,chat
+1005,put on your elegant moves,dance
+1006,"hey Shantae, do a little number now",dance
+1008,"honestly, do the move everyone loves",butt_wiggle
+1009,yo hit me with your best silly moove,butt_wiggle
+1010,"hey, wanna chat for a bit?",chat
+1012,let's see your elegant movs,dance
+1013,sorry to bug you but be sassy now,butt_wiggle
+1014,"I just got to Sunshine Seaside in my playthrough, any tips?",chat
+1015,"so, who composed the shantae soundtrack?",chat
+1016,"sorry to bug you but I just got to Sunshine Seaside in my playthrough, any tips?",chat
+1017,Who is Half-Genie Hero?,chat
+1018,hit me with the cheeky one,butt_wiggle
+1019,sorry to bug you but tell me a fun fact please,chat
+1020,move on to the next topic now,chat
+1021,Give me three tips for saving money.,chat
+1022,"hmm, tell me about the magic seals.",chat
+1023,"hmm, i wanna see the wiggle",butt_wiggle
+1024,wiggle on command,butt_wiggle
+1026,ok so give me da move everyone loves,butt_wiggle
+1027,What's a good song to listen to?,chat
+1028,How do I learn guitar?,chat
+1029,there's some wiggle room in da budget if you don't mind,chat
+1030,show me ur playful side,butt_wiggle
+1031,let's see your iconic thing now,butt_wiggle
+1032,How old are you?,chat
+1033,show me your best sway,dance
+1034,"hmm, do some belly dancing",dance
+1035,twirl for me xd,dance
+1036,back it up,butt_wiggle
+1041,"when you get a sec, do a number now",dance
+1043,how did you first run into Nega-Shantae tbh,chat
+1045,"alright, perform your elegant moves Shantae",dance
+1046,yo you ever think about the Hypno Baron?,chat
+1047,"honestly, do you like pizza?",chat
+1048,"heyy, how did you beiome the guardian of Scuttle Town? lol",chat
+1050,put on a little number please,dance
+1051,"honestly, let's see that signature move pls",butt_wiggle
+1052,do the thing that always makes me laugh,butt_wiggle
+1054,What do you thinnk of Dagron?,chat
+1055,do the cute thing,butt_wiggle
+1056,do what you're best known for,butt_wiggle
+1057,"alright, do you like being the Guardian Genie? Shantae",chat
+1058,perform yoru best sway,dance
+1059,"um, lmao what even is the plot of risky's revenge",chat
+1060,"hey quick thing, tell me about the dance magic in Shantae when you can",chat
+1062,"alright, what's a good name for a cat?",chat
+1064,"so, do your butt thing thanks",butt_wiggle
+1066,Cheer me up with a compliment.,chat
+1067,yo shake that thing if you don't mind,butt_wiggle
+1068,ok so show me your iconic thing when you can,butt_wiggle
+1070,"alright, not the cheeky one, the graceful one thanks",dance
+1071,"um, pull out the cute one Shantae",butt_wiggle
+1072,srory to bug you but bellydance time,dance
+1073,"Shantae, shhow me your iconic thing lol",butt_wiggle
+1074,"honestly, let me see you dance pls",dance
+1075,"honestly, is Half-Genie Hero worth playing?",chat
+1076,give me da one from the memes,butt_wiggle
+1078,"hey Shantae, perform a number",dance
+1080,you ever think about Uncle Mimic?,chat
+1082,"when you get a sec, dance party tmie if you don't mind",dance
+1083,"not a dance, the wiggle thanks",butt_wiggle
+1084,time to wiggle,butt_wiggle
+1085,trigger the butt wiggle animation,butt_wiggle
+1086,"hmm, give me the fan-favorite move if you don't mind",butt_wiggle
+1088,yo bring the rhythm if you dont mind,dance
+1089,"um, show me your favorite quote pls",chat
+1090,"um, hit me with the cute one",butt_wiggle
+1091,lol my little bro keeps wiggling in his chair lol!!,chat
+1092,sorry to bug you but belly dance routine please Shantae,dance
+1093,bellydance time,dance
+1094,do the dance from the games,dance
+1096,Why is the butt wiggle so iconic?!!,chat
+1097,do your elegant moves,dance
+1098,"hmm, perform a little number lol",dance
+1099,do the thing you do if you don't mind,butt_wiggle
+1101,give me some lore on the Magic Seals,chat
+1102,"okay, make it cheeky",butt_wiggle
+1103,"hey, give me a silly one thanks",butt_wiggle
+1104,Recommend a belly dance class near me.,chat
+1105,work it,butt_wiggle
+1106,ok so do something cheeky pls,butt_wiggle
+1107,yo I love watching ballet Shantae,chat
+1108,how do i make pancakes?,chat
+1109,entertain me,dance
+1110,give me your cheekiest move,butt_wiggle
+1112,sorry to bug you but why is the butt wiggle so iconic?,chat
+1113,"hey, perform a number pls",dance
+1114,bring out the cheeky one,butt_wiggle
+1115,"hey, give me some sass thanks",butt_wiggle
+1116,"alright, why does my dog wiggle his butt when I come home?",chat
+1117,Would you rather fight a giant crab or a giant squid?,chat
+1118,bring out your iconic thing fr,butt_wiggle
+1120,"so, no wiggle, dance instead now",dance
+1121,"UM, DO ANOTHER WIGGLE",butt_wiggle
+1122,"hey Shantae, show me what you've got pls",dance
+1123,what's Scuttle Town like,chat
+1124,do your iconic thing,butt_wiggle
+1126,"um, give me a pep talk if you don't mind",chat
+1127,"honestly, do the transformation routine",dance
+1128,"hey, what's Sequin Land like?",chat
+1129,ok so do your best swiy if you don't mind,dance
+1130,describe a sunset in five words.,chat
+1132,Can you explain the Magic Seals to me?,chat
+1133,sassy time,butt_wiggle
+1134,perform a routine,dance
+1135,"hmm, wiggle like only you can thanks",butt_wiggle
+1136,"hmm, bring out your iconic thing when you can",butt_wiggle
+1137,"hey quick thing, can you explain Mayor Scuttlebutt to me?",chat
+1138,ok so how does your hair whip work,chat
+1140,wait what happened in scuttle town,chat
+1141,"when you get a sec, explain recursion like I'm five Shantae",chat
+1142,"um, why does everyone keep mentioning Uncle Mimic?",chat
+1143,sorry to bug you but giev me a silly one Shantae,butt_wiggle
+1144,Describe a sunset in five words lol,chat
+1146,What's the best power-up in the games?,chat
+1148,Do you like pizza pleaseee,chat
+1149,I demand a wiggle if you don't mind,butt_wiggle
+1150,"okay, what's the difference between Risky's Revenge and Pirate's Curse?",chat
+1151,"shantae, can i get a dance?",dance
+1152,Tell me about Sequin Land.,chat
+1153,"alright, put on a performance pleaseee",dance
+1154,sorry to bug you but let's talk about something now,chat
+1155,sorry to bug you but write a poem about the sea.,chat
+1156,do something graceful,dance
+1157,ok so explain the story of Pirate's Curse if you don't mind,chat
+1158,Did you ever dance with Sky?,chat
+1159,"hey quick thing, bring out your trademark move Shantaeee",butt_wiggle
+1160,"hey, do somithing goofy Shantae",butt_wiggle
+1161,entertain me when you can,dance
+1162,"so, spice up my afternoon with something silly Shantae",butt_wiggle
+1163,"hmm, the stage is yours",dance
+1164,"um, let's see you move",dance
+1165,show me a performance please,dance
+1166,"hmm, give me some sass thanks",butt_wiggle
+1168,um do the butt wiggle now,butt_wiggle
+1169,give me something with a twirl,dance
+1170,"alright, I can't stop thinking about Mermaid Falls.",chat
+1171,"um, you ever think about the Pirate Msater?",chat
+1172,"Shantae, can you explain the Pirate's Curse to meee?",chat
+1173,the one with the gentle sway,dance
+1174,What's your favorite season?,chat
+1175,give me a performance,dance
+1178,"um, show me yur signature move",butt_wiggle
+1179,fr tho who's ur fave character,chat
+1180,let's see a performance lol,dance
+1182,God nigth,chat
+1184,"so, stop wiggling and dance pls",dance
+1185,"when you get a sec, do that famous wiggle Shantae",butt_wiggle
+1186,do an elegant little routine ngl,dance
+1187,Pick a number between one and ten.,chat
+1190,What happened to Uncle Mimic?,chat
+1191,hey quick thing trigger the butt wiggle animation,butt_wiggle
+1194,bring out your iconic thing lol,butt_wiggle
+1195,"okay, less dancing, more wiggling please",butt_wiggle
+1196,do a little cheeky dance moveee,butt_wiggle
+1197,"when you get a sec, do the tuing thhat always makes me laugh lol",butt_wiggle
+1198,"hey quick thing, is Nega-Shantae on your side or not?!!",chat
+1199,"Which is better, cats or dogs?",chat
+1200,"hey Shantae, where can I play Shantae?",chat
+1201,whos your best friend,chat
+1202,sorry to bug you but do the thing thanks,butt_wiggle
+1204,sorry to bug you but how did you first run into Tinkerbat,chat
+1205,yo bring out the cheeky one,butt_wiggle
+1206,show me your cheeky side,butt_wiggle
+1207,"okay, ok but seriously, Mermaid Falls",chat
+1208,wiggle wiggle,butt_wiggle
+1209,"hmm, don't dance, just do the butt wiggle Shantae lmao",butt_wiggle
+1210,"ok but seriously, Dagron",chat
+1211,ok so put on a show,dance
+1212,sassy time if you don't mind,butt_wiggle
+1214,dance a little now,dance
+1215,"hmm, cheer me up with a compliment when you can",chat
+1216,let's have a little dance lol,dance
+1217,"so, what was your hardest boss fight?",chat
+1218,"when you get a sec, which game has the best dance sequences?",chat
+1220,"when you get a sec, do some graceful moves please",dance
+1221,Why do cats wiggle before they pounce?,chat
+1222,"um, show me a half-genie routine pls!!",dance
+1225,"when you get a sec, give me some graceful moves lol",dance
+1226,"honestly, qiz me on geography please",chat
+1227,"when you get a sec, give me some lore on the Magic Seals",chat
+1228,"um, I don't want the wiggle, I want a dance",dance
+1229,whats the meaning of life,chat
+1230,"so, pull out your iconic thing Shantae",butt_wiggle
+1231,"hey quick thing, I just got to Bolo in my playthrough, any tips?",chat
+1232,show me your butt wiggle,butt_wiggle
+1233,"hmm, don't wiggle, just dance when you can",dance
+1234,please dance now,dance
+1236,Roast me gently.,chat
+1237,"when you get a sec, do something to enteertain me lol",dance
+1239,"when you get a sec, who is the best villain in the series?",chat
+1240,give me your best sway thanks,dance
+1241,"Shantae, perform a show thanks",dance
+1242,"alright, I can't stop thinking about the Pirate Master thanks",chat
+1243,gimme a number,dance
+1244,"okay, remind me who Sky is pls",chat
+1245,shantae can you explain dagron to me,chat
+1246,where did belly dance originate,chat
+1247,sorry to bug you but let's see the fan favorite,butt_wiggle
+1248,"when u get a sec, put on a little number please",dance
+1249,"hmm, trigger the belly dance please",dance
+1250,"yo you've got moves, so show them off, the silly kind",butt_wiggle
+1251,give me the cheeky one,butt_wiggle
+1252,"Shantae, I wanna know more about Squiddy lol",chat
+1253,hit me with the wiggle,butt_wiggle
+1254,"Shantae, I'm throwing a party, give me some game ideas if you don't mind",chat
+1255,triigger the belly dance please,dance
+1256,Who is Cackle Mountain?,chat
+1257,"hey quick thing, kepe dancing Shantae",dance
+1258,"hey quick thing, perform your elegant moves tbh",dance
+1259,Do you get lonely on my desktop?,chat
+1260,"okay, give me a quick performance review template.",chat
+1261,Do you get tired after dancing so much?!!,chat
+1262,make me giggle,butt_wiggle
+1263,let's see yur icoinc thing,butt_wiggle
+1264,sorry to bug you but let's see some graceful moves,dance
+1265,"one wiggle, please",butt_wiggle
+1266,"hey, hit me with the wiggle",butt_wiggle
+1267,"hey, wiggle for me now",butt_wiggle
+1268,"so, put on a little show for me please",dance
+1269,"um, got any dance moves?",dance
+1270,"hey, ok but seriously, risky's revenge",chat
+1272,show me the cheeky one,butt_wiggle
+1273,how did you first run into Tinkerbat,chat
+1274,can u tell me about mermaid falls?,chat
+1279,entertain me for a sec,dance
+1280,whats ur fav boss fight lol,chat
+1281,do your dance thing,dance
+1282,"Shantae, bring out the wiggle",butt_wiggle
+1283,"hey, entertain me for a sec please tbh",dance
+1284,play the dance animation,dance
+1286,"Shantae, hows ur day goin",chat
+1287,let's see a performance,dance
+1288,do your iconic thing now,butt_wiggle
+1289,show me your best silly move,butt_wiggle
+1290,do your sassiest move,butt_wiggle
+1291,hit me with your trademark move,butt_wiggle
+1293,put on a half-genie routine,dance
+1294,"hey, let's dance if you don't mind",dance
+1296,do a routine,dance
+1297,"I love you, Shantae.",chat
+1298,no belly dancing wiggle instead,butt_wiggle
+1301,What should I eat for dinner?,chat
+1303,what do you think of the techno baron?,chat
+1304,"when you get a sec, do the transformation routine now",dance
+1305,how did you first run into Risky Boots now,chat
+1306,"hmm, cancel the wiggle, dance please when you can",dance
+1307,"okay, giev me the cute one now",butt_wiggle
+1308,"hey Shantae, shimmy for me when you can",butt_wiggle
+1309,put on your stage act lol,dance
+1310,let's see a little number,dance
+1311,show me your playful side when you can,butt_wiggle
+1312,"okay, how about a dance?",dance
+1313,"um, giev me some lore on the Dark Magic if you don't mind",chat
+1316,"hey, who is Rottytops? Shantae",chat
+1318,give me the fan favorite,butt_wiggle
+1319,Do you ever get tired of fighting pirates?,chat
+1320,"less dancing, more wiggling",butt_wiggle
+1321,let's see your best silly move,butt_wiggle
+1322,"honestly, a little performance, please",dance
+1323,"okay, do the graceful thing lol!!",dance
+1324,"hey Shantae, dance some more",dance
+1325,yo do a flowing move pls,dance
+1326,do the thing with the veil and the jewelry,dance
+1328,give me some sass,butt_wiggle
+1329,do the half-genie danceee,dance
+1330,ok so got any dance moves?,dance
+1331,do that thing that goes viral,butt_wiggle
+1332,"when you get a sec, do your best silly move",butt_wiggle
+1333,do the meme,butt_wiggle
+1335,What's your favorite food?,chat
+1336,"Shantae, get your groove on Shantae",dance
+1337,"don't wiggle, just dance",dance
+1338,"I'm bored, let's talk about space.",chat
+1339,I wanna know more about Half-Genie Hero,chat
+1340,"hey, what's it like being a half-genie?",chat
+1342,do something to entertain me,dance
+1343,"hmm, who is the Pirate Master?",chat
+1346,ok so give me a belly dance if you do'nt mind,dance
+1348,ugh mondays r da worst,chat
+1349,Help me pick a song for my dance recital.,chat
+1350,"ok so one wiggle, please thanks",butt_wiggle
+1351,"honestly, give me a little wiggle",butt_wiggle
+1353,Can you explain Sky to me?,chat
+1354,"cancel the wiggle, dance please",dance
+1355,how did you first run into Sky,chat
+1356,"alright, let's see that attitude thanks",butt_wiggle
+1357,"alright, the classic move",butt_wiggle
+1358,sorry to bug you but let's see the cheeky one please,butt_wiggle
+1359,"okay, perform for me lol",dance
+1360,Where can I play Shantae?,chat
+1361,"so, what's the Pirate Master like thanks",chat
+1363,why does everyone keep mentioning Risky Boots?,chat
+1364,"Shantae, how many planets are in the solar system?",chat
+1365,ok so what treasure have you found?,chat
+1366,"okay, I'm back thanks",chat
+1368,Name a famous painter.,chat
+1369,"yoru wiggle, now",butt_wiggle
+1371,"hey qiick thing, can you move a little?",dance
+1372,"alright, put on some graceful moves",dance
+1373,give me some lore on the squid baron,chat
+1374,"Shantae, do something goofy lol",butt_wiggle
+1375,lets see your elegant moves,dance
+1376,Play 20 questions with me.,chat
+1377,is nega-shantae on your side or not?,chat
+1378,"hey quick thing, show me your best sway",dance
+1379,do you like music?,chat
+1380,"bring the sass, Shhantae",butt_wiggle
+1381,give that tush a shake,butt_wiggle
+1382,start wiggling,butt_wiggle
+1383,take the stage,dance
+1384,"hey, give me the one from the memes",butt_wiggle
+1385,dance again,dance
+1386,How do I center a div in CSS?,chat
+1387,"Shantae, give me the old wiggle",butt_wiggle
+1388,"hey Shantae, why do half-genies dance to use magic?",chat
+1389,please dance,dance
+1390,"hmm, brb getting snacks shantae",chat
+1391,"Shantae, do the cute one now",butt_wiggle
+1392,"alriight, do a dance number now",dance
+1393,is Squiddy on your side or not?,chat
+1394,"hey quick thing, give me a half-genie routine please",dance
+1395,sorry to bug you but let's see a half-genie routine thanks,dance
+1397,let's see your best sway,dance
+1398,do that famous wiggle,butt_wiggle
+1399,can I get a dance?,dance
+1402,do some belly dancing!!,dance
+1403,spice up my afternoon with something silly,butt_wiggle
+1405,"hmm, do the dance from the games",dance
+1406,"hey shantae, no cap wat's ur favorite game",chat
+1407,hmm lets see your trademark move now,butt_wiggle
+1408,shake your tush,butt_wiggle
+1409,did u ever dance with sky?,chat
+1410,ttyl,chat
+1411,"hmm, show me the cheeky one pls",butt_wiggle
+1412,Do you believe in ghots?,chat
+1413,"alright, give me the cute one pls",butt_wiggle
+1416,"hey, shimmy for me if you don't mid",butt_wiggle
+1417,do something elegant if you don't mind,dance
+1418,"Siantae, what's a good party playlist?",chat
+1419,"Shantae, how did you first run into the Hypno Baron thanks",chat
+1420,"Shantae, you ever think about the Dark Magic?",chat
+1421,I can't stop thinking about the Magic Seals.,chat
+1422,"hey Shantae, remind me who the Seven Sirens is",chat
+1423,"hey quick thingg, lett's see your best silly move now",butt_wiggle
+1424,"hey quick thing, what's the best way to learn a language? lol",chat
+1425,do the half-genie daance now,dance
+1426,Why does everyone say the butt of the joke?,chat
+1427,"hey Shantae, you're awesome.",chat
+1429,"okay, entertain me with something silly",butt_wiggle
+1430,give me the old wiggle,butt_wiggle
+1431,ok so perform yuor beest sway,dance
+1432,"honestly, work it, girl",butt_wiggle
+1433,"so, you're on stage now",dance
+1434,pull out your iconic thing,butt_wiggle
+1435,yo give me a routine,dance
+1436,groove for me,dance
+1437,"hey, let's see your iconic thing",butt_wiggle
+1438,"hey quick thing, do your trademark thing",butt_wiggle
+1441,"Shantae, bellydance please thanks!!",dance
+1442,are you a real genie?,chat
+1443,"ok but seriously, Cackle Mountain",chat
+1445,"hey Shantae, can I get a dance?",dance
+1446,"I just got to the Seven Sirens in my playthrough, any tips?",chat
+1447,you ever think about uncle mimic? lol,chat
+1448,what's Half-Genie Hero like,chat
+1449,Show me a picture of a cat.,chat
+1450,Do you think your dance animation looks good?,chat
+1451,stop wiggling and dance,dance
+1452,"Shantae, show me your playful side",butt_wiggle
+1453,Do you and Sky still hang out?,chat
+1454,ok so hit me w your iconic thing now,butt_wiggle
+1455,what's the story behind the Magic Seals,chat
+1456,how did you first run into Rottytops,chat
+1458,what's Tuki like,chat
+1459,ok so what's Anber like if you don't mind,chat
+1460,"so, what's your favorite color?!!",chat
+1461,"hey Shantae, bring out the fan favorite pls",butt_wiggle
+1462,"Shantae, be playful for a sec",butt_wiggle
+1463,why is da sky blue?,chat
+1464,"hmm, do da cute one if you don't mind",butt_wiggle
+1465,perform a belly dance,dance
+1466,"okay, gtg ttyl Shantae",chat
+1468,Why does Mayor Scuttlebutt panic so much?!!,chat
+1469,Why do you keep forgiving Risky?,chat
+1470,make it silly,butt_wiggle
+1471,show me your stage act when you can,dance
+1472,gimme the fan-favorite move,butt_wiggle
+1473,put on a performance for the crowd,dance
+1474,perform a half-genie routine,dance
+1475,Explain the story of Pirate's Curse.,chat
+1477,"hey Shantae, let's see your stage act lol",dance
+1479,tbh i'm kinda stressed now,chat
+1482,do a little jig pls,dance
+1483,I wanna know more about Sunshine Seaside,chat
+1484,"when you get a sec, ok but seriously, the Magic Seals lol",chat
+1485,"okay, shhow me your trademark movve",butt_wiggle
+1487,show me the cute one,butt_wiggle
+1488,"um, put on a number",dance
+1489,"go ahead, be cheeky pls",butt_wiggle
+1490,ok so hit me with the one from the memes if you don't mind,butt_wiggle
+1492,"when you get a sec, I wanna see the wiggle",butt_wiggle
+1493,"I'm leaving now, bye!",chat
+1495,"hey quick thing, play the dance animation",dance
+1496,See you tomorrow.,chat
+1498,do your sassiest move Shantae,butt_wiggle
+1499,"hmm, perform a performance",dance
+1500,"okay, can you dance?",dance
+1501,ok so let's see your best silly move pls,butt_wiggle
+1502,"hey quick thing, show me the half-genie routine when u can",dance
+1503,Translate 'hello' into Spanish.,chat
+1504,"hey quick thing, why do you keep forgiving Risky?",chat
+1505,What's the longest river in the world?,chat
+1506,sorry to bug you but what's your favorite game you've been in?,chat
+1507,dance again now,dance
+1508,Can you explain Cackle Mountain to me?,chat
+1510,"hey quick thing, shake it, Shantae pls",butt_wiggle
+1511,the Dark Magic is my favorite part of the series,chat
+1512,Who is Uecle Mimic?,chat
+1513,"when you get a sec, do you ever get embarrassed about your butt wiggle?",chat
+1514,do the booty shake,butt_wiggle
+1515,shake it like you mean it,butt_wiggle
+1516,brb getting snacks,chat
+1518,"um, ok but seriously, Bolo lol",chat
+1519,"okay, how did you first run into the Seven Sirens lol",chat
+1520,explain how butt hinges work.,chat
+1521,Give me a quick performance review template.,chat
+1523,make it cheeky,butt_wiggle
+1524,put on a little number,dance
+1525,give me the move everyone loves!!,butt_wiggle
+1526,What's your opinion on pineapple on pizza?,chat
+1527,Tell me about your latest adventure.,chat
+1528,Do pirates dance?,chat
+1529,let's see your trademark move lol,butt_wiggle
+1530,"hey, do your dance thing",dance
+1531,um shake that thing,butt_wiggle
+1532,"when you get a sec, tell me about Bolo pls",chat
+1533,"hey Shantae, explain how photosynthesis works thanks",chat
+1534,You're awesome.,chat
+1535,move to the music,dance
+1536,Play 20 questions with me Shantae,chat
+1537,"okay, open the settings now!!",chat
+1538,pull out your trademark move,butt_wiggle
+1539,you ever think about the Pirate Master?,chat
+1540,"um, show me how a half-genie moves",dance
+1541,"ok but seriously, Squiddy",chat
+1542,"honestly, list five healthy snacks lol",chat
+1543,"hey Shantae, not a dance, the wiggle lol",butt_wiggle
+1544,What's the history of belly dancing?,chat
+1545,What time is it?,chat
+1546,"hey, how do I code a wiggle animation for a sprite?",chat
+1547,give me a little number,dance
+1549,let's see the one from the memes,butt_wiggle
+1550,sorry to bug you but show off your skills now,dance
+1551,perform a performance if you don't mind,dance
+1552,Tell me a story abuot a dragon.,chat
+1553,"um, I wanna know more about Rottytops!!",chat
+1554,perform some graceful moves please,dance
+1555,show me how a half-genie moves,dance
+1556,"when you get a sec, let's see the move everyone loves Shantae",butt_wiggle
+1557,"hey Shantae, give me the cheeky one Shantae",butt_wiggle
+1558,do a little cheeky dance move if you don't mind,butt_wiggle
+1560,tell me about the dance magic in shantae.,chat
+1561,can I get a wiggle?,butt_wiggle
+1562,"when you get a sec, name a famous painter pls ngl",chat
+1563,"hmm, what's a butt weld? lol",chat
+1564,"Shantae, the cheeky onne, plese when you can",butt_wiggle
+1565,What's a good party playlist?,chat
+1566,"honestly, I can't sleep Shantae",chat
+1567,"hey quick thing, perform a half-genie routine Shantae ngl",dance
+1568,"I just got to Rottytops in my playthrough, any tips?",chat
+1569,you ever think about the Dark Magic?,chat
+1570,"sorry to bug you but ok but seriously, Tinkerbat pls",chat
+1571,hit me with your iconic thing,butt_wiggle
+1572,"go ahead, be cheeky please",butt_wiggle
+1573,"um, Wetman: love it or hate it?",chat
+1574,"dance, Shantae!",dance
+1575,show me a number,dance
+1576,"SHANTAE, HOW ABOUT A DANCE?",dance
+1577,perform a little number,dance
+1579,remind me who Squiddy is when you can,chat
+1581,act silly,butt_wiggle
+1582,"honestly, what's the Squid Baron like if you don't mind!!",chat
+1583,"Shantae, let's see the cute one",butt_wiggle
+1584,perform a show,dance
+1585,"hey, do the graceful thing",dance
+1586,do a routine Shantae,dance
+1587,let's dance,dance
+1588,"when you get a sec, put on something with a twirl",dance
+1589,ily shantae,chat
+1591,"okay, belly dance for me if you don't mind",dance
+1592,I can't sleep.,chat
+1593,"hmm, lol that's so funny pls",chat
+1594,let me see you shake it Shantae,butt_wiggle
+1595,What's the best music for a dance party?,chat
+1596,"okay, what do you think of Risky Revolution?",chat
+1598,"Shantae, bring out the cute one woen you can",butt_wiggle
+1599,"ok but seriously, Nega-Shantae",chat
+1600,wiggle for five seconds,butt_wiggle
+1601,Nega-Shantae is my favorite part of the series,chat
+1602,hit me with the fan favorite,butt_wiggle
+1604,"hmm, show me something with a twerl lol",dance
+1605,let's see your stage act,dance
+1606,let's see a rutine if you don't mind,dance
+1607,Why is belly dancing so popular in Egypt?,chat
+1608,"honestly, wat are you thinking about?",chat
+1609,got any dance moves?,dance
+1610,"honestly, put on a half-genie routine if you don't mind",dance
+1611,sttart daancing,dance
+1612,shake that thing,butt_wiggle
+1613,perform a little number thanks,dance
+1614,"hey quick thing, give me some graceful moves when you can",dance
+1615,"okay, show me a performance now",dance
+1616,Is Half-Genie Hero worth playing?,chat
+1617,okay less wiggling more dancing if you dont mind,dance
+1618,do the thing you do,butt_wiggle
+1619,"hey, do something elegant now",dance
+1620,"hmm, shw me the fan favorite please",butt_wiggle
+1621,What's the best way to learn a language?,chat
+1622,Spell the word 'wiggle' lol,chat
+1623,"hey quick thing, skip the dance and do the butt wiggle",butt_wiggle
+1625,ok so how do I make a sprite dance in Unity?,chat
+1626,entertain me with something silly,butt_wiggle
+1627,"so, who made u?",chat
+1628,ily shantae lol,chat
+1629,yo put on your elegant moves,dance
+1630,"hey Shantae, the move from Half-Genie Hero lol!!",butt_wiggle
+1632,"honestly, fr tho who's ur fave character",chat
+1633,pull out the fan favorite,butt_wiggle
+1634,turn around and show me,butt_wiggle
+1635,let's see something with a twirl pls,dance
+1637,"hmm, put on some graceful moves if you don't mind",dance
+1638,"alright, move to the music lol",dance
+1639,"hey Shantae, bro the dance scene in that anime was fire",chat
+1641,"um, give me the cheeky one when you can",butt_wiggle
+1642,bring out the one from the memes,butt_wiggle
+1643,I can't stop thinking about the Pirate Master.!!,chat
+1644,let's have a little dance,dance
+1645,"hey shantae, do the math on a 15 percent tip for 64 dollars please",chat
+1648,sorry to bug you but whats the longest river in the world,chat
+1649,show me a little number,dance
+1650,sorry to bug you but do your famous move if you don't mind,butt_wiggle
+1652,"okay, I can't stop thinking about Risky's Revenge if you don't mind",chat
+1653,give us a booty shake now,butt_wiggle
+1654,ok so do the wiggle you're famous for,butt_wiggle
+1655,bring out the cheeky one pls,butt_wiggle
+1656,"so, show me some graceful moves thanks",dance
+1657,do that animation everyone talks about!!,butt_wiggle
+1658,idk if i should learn to belly dance tbh,chat
+1660,What's the deal with the Squid Baron?,chat
+1662,Nega-Shantae is my favorite part of the series Shantae,chat
+1664,the Pirate Master is my favorite part of the series,chat
+1665,Do you think Risky will ever be good?,chat
+1666,"hey Shantae, ngl the butt wiggle meem is kinda funyn",chat
+1667,"so, let's see a rotuine",dance
+1668,"hey quick thing, dance for me thanks",dance
+1669,"hmm, give me your icnic thing",butt_wiggle
+1670,perform a performance,dance
+1672,do smth elegant,dance
+1673,Can you explain Dagron to me?,chat
+1674,"Shantae, give me a routine now",dance
+1675,show me a show,dance
+1677,yo keep dancing now,dance
+1678,YO HOW OLD ARE YOU? SHANTAE,chat
+1680,Sing me a song.,chat
+1681,"when you get a sec, wiggle until I say stop pls",butt_wiggle
+1682,do the thing from the loading screen,butt_wiggle
+1683,Tell me about the Ammo Baron.,chat
+1684,pull out the move everyone loves,butt_wiggle
+1685,u alive,chat
+1686,"cancel the dance, wiggle please",butt_wiggle
+1689,"honestly, do something with a twirl",dance
+1690,"i need to shake the dice, can u roll 4 me?",chat
+1691,"your wiggle, now",butt_wiggle
+1692,pull out the cute one,butt_wiggle
+1694,"less wiggling, more dancing",dance
+1695,ok so show me your signature move if you don't mind,butt_wiggle
+1696,"um, less wiggling, more dancing",dance
+1697,What's the plot of the show you were watching?,chat
+1698,I wanna know more about Squiddy,chat
+1699,give me some entertainment,dance
+1700,stop wiggling and dance pls,dance
+1701,twirl and sway,dance
+1702,ugh mondays r the worst,chat
+1703,I wanna know more about Nega-Shantae please,chat
+1704,"hmm, show me the one from the memes!!",butt_wiggle
+1705,how did you first run into Sequin Land thanks,chat
+1706,do the thing,butt_wiggle
+1707,hit me with your best silly move,butt_wiggle
+1708,what's Sunshine Seasiide like,chat
+1709,"hmm, your wiggle, now",butt_wiggle
+1711,"honestly, butt wiggle thanks",butt_wiggle
+1712,give me your trademark move,butt_wiggle
+1713,can u hlep me with smth,chat
+1715,let me see you shake it!!,butt_wiggle
+1718,give me some lore on cackle mountain,chat
+1719,"so, show me a little nuumber when you can",dance
+1720,"okay, show me a half-genie routine",dance
+1721,"hey quick thing, lighten the mood with ur signature move",butt_wiggle
+1723,do a number,dance
+1724,"hey quick thing, what's the speed of light?",chat
+1727,do your funny walk if you dont mind,butt_wiggle
+1728,"um, twirl for me shantae",dance
+1729,"shantae, bring out the fan favorite please",butt_wiggle
+1730,write a poem about the sea,chat
+1732,"showtime, shantae if you don't mind",dance
+1733,i need motivation to study,chat
+1734,hmm act silly please,butt_wiggle
+1735,put on a show when you can,dance
+1736,"when you get a sec, I don't want a belly dance, I want the wiggle",butt_wiggle
+1737,thoughts on the Techno Baron?,chat
+1738,do the move the fans love,butt_wiggle
+1740,"not the belly dance, the other one, the wiggle",butt_wiggle
+1741,WHAT'S A BUTT WELD?,chat
+1742,sorry to bug you but what's Tuki like thanks,chat
+1743,"hey quick thing, sooo what happened to sky thanks",chat
+1744,do a dance number,dance
+1745,tel me a joke pls,chat
+1746,lmao what even is the plot of risky's revenge,chat
+1747,"when you get a sec, show me your best cheeky pose",butt_wiggle
+1748,give me a half-genie routineee,dance
+1750,"alright, hit me with the one from the memes pls",butt_wiggle
+1752,perform your stage act pls,dance
+1753,how are you today?,chat
+1755,sorry to bug you but the one with the gentle sway,dance
+1757,"hmm, how about a wiggle?",butt_wiggle
+1758,"shake it, shantae lol",butt_wiggle
+1759,"alright, do that animation everyone talks about lol",butt_wiggle
+1764,"hey Shantae, do a flowing move Shantae",dance
+1765,"hey, show me your butt wiggle if you don't mind",butt_wiggle
+1766,do something cheeky tbh,butt_wiggle
+1767,Tell me a fun fact.,chat
+1769,"so, groove for me please",dance
+1770,yo tell me about your latest adventure.,chat
+1771,"when you get a sec, dance until I say stop lol",dance
+1772,could you dance for us xd,dance
+1773,"okay, do your iconic thing now",butt_wiggle
+1774,shake your tush pls,butt_wiggle
+1775,do the wiggle you're famous for,butt_wiggle
+1776,"hey Shantae, I wanna know more about Sunshine Seaside",chat
+1778,whats the weather like today,chat
+1779,"hmm, ok but seriously, Half-Genie Hero",chat
+1780,"hey, be a goofball",butt_wiggle
+1781,do your famous move,butt_wiggle
+1782,sup shantae,chat
+1783,Does Risky Boots ever dance?,chat
+1787,recommend a belly dance class near me thanks,chat
+1790,"okay, act silly",butt_wiggle
+1793,let's see a little number when you can,dance
+1794,"okay, Rottytops: love it or hate it?",chat
+1795,Let's leave a little wiggle room in the schedule when you can,chat
+1796,the pirate master is my favorite part of the series now,chat
+1797,i'm feeling kinda sad today.,chat
+1798,"hey, bring out the one from the memes pls",butt_wiggle
+1799,"when you get a sec, hit me with the fan favorite if you don't mind",butt_wiggle
+1800,"honestly, ok but seriously, Cackle Mountain lol",chat
+1801,belly dance routine please,dance
+1803,"hey Shantae, do something graceful pls",dance
+1804,let's see a show,dance
+1805,bust out the wiggle,butt_wiggle
+1806,"I'm throwing a party, give me some game ideas.",chat
+1807,show me your best cheeky pose,butt_wiggle
+1810,"hey quick thing, is wetman on your side or not?",chat
+1811,belly dance for me,dance
+1813,yo perform a routine,dance
+1814,"hey, how are you today? Shantae",chat
+1815,give me a routine now,dance
+1816,do the one from the memes,butt_wiggle
+1817,dance for me lol,dance
+1818,"alright, wiggle a little faster",butt_wiggle
+1819,"hey quick thing, ok but seriously, the Techno Baron pls",chat
+1821,sorry to bug you but belly dance for me Shantae,dance
+1822,what treasure have you found?,chat
+1823,no cap ur dance animation is smooth now,chat
+1824,do the move everyone's obsessed with,butt_wiggle
+1826,yo cheer me up with a performance,dance
+1827,you're on stage now,dance
+1830,give me some lore on the dark magic,chat
+1831,Can you help me with my homework?,chat
+1833,"so, give me some entertainment",dance
+1835,put on your best sway,dance
+1836,"so, work it now",butt_wiggle
+1837,Cackle Mountain is my favorite part of the series,chat
+1838,Show me the weather for tomorrow.,chat
+1840,do your trademark move,butt_wiggle
+1841,"hey Shantae, what's 12 times 12?",chat
+1842,fr fr,chat
+1843,"hey shantae, perform your stage act",dance
+1844,hmm do something with a twirl,dance
+1845,What's your dream?,chat
+1846,Who is Mayor Scuttlebutt?,chat
+1849,yo do that thing that goes viral pls,butt_wiggle
+1850,"hey quick thing, let's see a routine",dance
+1851,My grandma was a ballroom dancer.,chat
+1852,Whiich Shatae game has the best story?,chat
+1854,List five healthy snacks.,chat
+1855,"hmm, do the one from the memes",butt_wiggle
+1857,give me your elegant moves,dance
+1858,"forget the dance, just wiggle",butt_wiggle
+1859,show me your iconic thing,butt_wiggle
+1860,booty wiggle,butt_wiggle
+1861,you ever think about the Hypno Baron?,chat
+1864,hit me with the wiggle when you can,butt_wiggle
+1865,Rottytops: love it or hate it?,chat
+1866,tell me about rottytops.,chat
+1867,"when you get a sec, what's the story behind the Magic Seals lol",chat
+1868,"hmm, I wanna know more abbout Half-Genie Hero",chat
+1869,do your trademark thing,butt_wiggle
+1870,do the move everyone loves,butt_wiggle
+1871,wigle like only you can,butt_wiggle
+1872,"alright, remind me who Tuki is",chat
+1873,How many planets are in the solar system?,chat
+1874,"so, let's see something with a twirl",dance
+1875,skip the dance and do the butt wiggle,butt_wiggle
+1876,show me the half-genie routine,dance
+1877,pefrorm soee graceful moves,dance
+1881,"honestly, wiggle for five seconds",butt_wiggle
+1882,sorry to bug you but can you dance? Shantae,dance
+1883,is Mayor Scuttlebutt on your side or not?,chat
+1884,no cap ur dance animation is smootth,chat
+1885,bring out your best silly move,butt_wiggle
+1888,sorry to bug you but hit me with the fan favorite if you don't mind,butt_wiggle
+1889,give me the fan-favorite move,butt_wiggle
+1890,dance a little,dance
+1891,"I just got to Tuki in my playthrough, any tips?",chat
+1892,let's see a routine,dance
+1893,ok so the move from Half-Genie Hero if you don't mind,butt_wiggle
+1894,"so, does Nega-Shantae scare you?",chat
+1895,remind me who the Magic Seals is,chat
+1896,"okay, translate 'hello' into Spanish now",chat
+1897,"ok but seriously, the Magic Seals!!",chat
+1899,"honestly, help me pick a song for my dance recital now",chat
+1901,how did you first run into Risky's Revenge,chat
+1902,My toddler wiggles so much at bedtime.,chat
+1904,"when you get a sec, why is the sky blue? Shantae",chat
+1906,Do you like being the Guardian Genieee?,chat
+1907,amuse me,dance
+1908,remind me who Tinkerbat is,chat
+1909,do the booty shake thanks,butt_wiggle
+1910,Why is Rottytops a zombie?,chat
+1911,"a little performance, please",dance
+1914,who is the seven sirens?,chat
+1916,"shantae, wyd",chat
+1917,what's the Dark Magic like,chat
+1918,"so, let's see that wiggle if you don't mind",butt_wiggle
+1919,ok so what's the dark magic like lol,chat
+1920,why do half-genies dance to use magic,chat
+1921,show me your talent,dance
+1922,"honestly, idk if i should learn to belly dance tbh",chat
+1923,"okay, do the meme please",butt_wiggle
+1925,"showtime, Shantae",dance
+1926,Can you explain the Pirate's Curse to me?,chat
+1927,yo are you a real genie?,chat
+1928,Write a poem about dancing if you don't mind,chat
+1929,Who is the Pirate's Curse?,chat
+1930,put on a number,dance
+1931,"hey, show me your moves",dance
+1932,"you've got moves, so show them off, the silly kind when you can",butt_wiggle
+1933,"so, do an elegant little routine lol",dance
+1934,i cant believe risky did that,chat
+1935,"when you get a sec, give me your best silly move if you don't mind",butt_wiggle
+1937,"Shantae, trigger the butt wiggle animation",butt_wiggle
+1938,"um, perform for me",dance
+1939,give me a routine,dance
+1940,"hey Shantae, pull out the cheeky one now",butt_wiggle
+1941,"hey, do the cheeky one Shantae",butt_wiggle
+1942,"hmm, show me your best cheeky pose Shantae",butt_wiggle
+1944,do the butt wiggle,butt_wiggle
+1945,do the transformation routien,dance
+1946,"um, show me a routine Shantae",dance
+1947,shantae why does everyone keep mentioning risky boots lol,chat
+1948,hit me with the cute one when you can,butt_wiggle
+1950,yo time to wiggle if you don't mind,butt_wiggle
+1951,"I'm bored, tell me a riddle.",chat
+1952,remind me who Abner is Shantae,chat
+1953,"alright, show me your best sway shantae",dance
+1954,Why do worms wiggle?,chat
+1955,"um, stop dancing and wiggle if you don't mind",butt_wiggle
+1956,do something goofy,butt_wiggle
+1957,"um, give me some lore on Cackle Mountain if you don't mind",chat
+1958,bring out your trademark move,butt_wiggle
+1959,"I just got to Nega-Shantae in my playthrough, any tips?",chat
+1961,bring out the move everyone loves,butt_wiggle
+1962,the classic move pls,butt_wiggle
+1964,twirl and sway please,dance
+1965,"hmm, perform your famous cheeky move",butt_wiggle
+1966,ngl the butt wiggle meme is kinda funny,chat
+1968,whatcha doin shantae,chat
+1969,sorry to bug you but ttyl now,chat
+1971,show me your butt wiggle when you can,butt_wiggle
+1972,"hmm, do that animation everyone talks about Shantae",butt_wiggle
+1973,"hey Shantae, forget the dance, just wiggle Shantae",butt_wiggle
+1974,What's your favorite game you've been in?,chat
+1975,be a goofball,butt_wiggle
+1976,"when you get a sec, cancel the dance, wiggle please",butt_wiggle
+1977,"alright, let's see you move pls",dance
+1978,do some graceful moves,dance
+1979,"so, ngl risky boots is lowkey the best villain",chat
+1980,how about a dance?,dance
+1981,sorry to bug you but how do I shake a cold?,chat
+1982,yo why is rottytops a zombie? lol,chat
+1983,ok so what's your favorite food?,chat
+1984,give me a little wiggle,butt_wiggle
+1986,put on a number pls,dance
+1987,what's da capital of france?,chat
+1988,"hmm, play the dance animation when you can",dance
+1989,show me what you've got pls,dance
+1990,"ok but seriously, Dagron pls lmao",chat
+1991,show me the fan favorite,butt_wiggle
+1992,yo tell me a joke now,chat
+1993,sorry to bug you but bring the sass Shantae,butt_wiggle
+1994,"I just got to the Magic Seals in my playthrough, any tius?",chat
+1995,Who is Sequin Land?,chat
+1996,Why do you wear that outfit?,chat
+1997,"Shantae, the Pirate's Curse is my favorite part of the series now",chat
+1998,ok so who is the Magic Seals? Shantae,chat
+2000,"hey quick thing, you know what I want",butt_wiggle
+2003,what can you do?,chat
+2004,sorry to bug you but do that thing that goes viral please,butt_wiggle
+2006,I need some entertainment,dance

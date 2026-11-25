@@ -1,1565 +1,2008 @@
 text,intent,noisy,split
-Have you been to the Seven Sirens?,chat,0,train
-"Shantae, butt wiggle now",butt_wiggle,0,train
-do your transformation dance for me,dance,0,train
-dance a little Shantae,dance,0,train
-"hey Shantae, do the bellydance animation",dance,0,train
-put on a show fr,dance,1,test
-"hey Shantae, be silly for me",butt_wiggle,0,train
-u're so cool.,chat,1,train
-do a bum shake now,butt_wiggle,0,train
-what do you think of the pirates curse,chat,1,val
-do your trademark move shantae,butt_wiggle,1,train
-do your belly dance for me,dance,0,train
-do your trademark move,butt_wiggle,0,train
-Why does everyone talk about Myor Scuttlebutt?,chat,1,train
-"come on, show me your dance",dance,0,test
-do the wiggle Shantae,butt_wiggle,0,test
-how does Nega-Shantae fit into the story?,chat,0,train
-gm shantae,chat,0,test
-do you like being a monkey,chat,1,train
-entertain me a bit Shantae,dance,0,val
-do a belly dance,dance,0,train
-what's the Ammo Baron like,chat,0,train
-Shantae put on a show,dance,0,test
-yo whats good,chat,0,train
-i want to see you dance now,dance,0,train
-wiggle for me,butt_wiggle,0,train
-Shantae do the butt wiggle,butt_wiggle,0,val
-how does genie magic fit into the story?,chat,0,train
-I was thinking about Scuttle Town earlier.,chat,0,train
-"hey Shantae, make me smile with a dance",dance,0,train
-Have you been to Mermaid Falls?,chat,0,val
-i want to see you dance lol,dance,1,train
-"come on, let's dance",dance,0,train
-put on a little show,dance,0,train
-show me what you've got Shantae,dance,0,val
-What do you think about pirates?,chat,0,train
-give me some lore on the Seven Sirens,chat,0,train
-ok sass it up,butt_wiggle,0,train
-"cmoe on, put on a little show",dance,1,train
-what are you scared of?,chat,1,val
-give me a wigglle please,butt_wiggle,1,train
-can you put on a little show?,dance,0,train
-Shantae do that wiggle thing,butt_wiggle,0,train
-"come on, wiggle that tail",butt_wiggle,0,train
-show me some moves,dance,0,train
-what's Mayor Scuttlebutt like,chat,0,train
-"come on, show me your graceful moves",dance,0,val
-make me laugh with a wiggle!,butt_wiggle,0,train
-What do you think of Shantae and the Seven Sirens xd,chat,1,train
-Do you like me?,chat,0,train
-"hey Shantae, do a performance",dance,0,train
-I got a promotion at work!,chat,0,train
-I wanna know more about Mayor Scuttlebutt,chat,0,train
-What do you think of Risky Revolution?,chat,0,train
-What do you think of the Ammo Baron?,chat,0,train
-show off that wiggle for meee,butt_wiggle,1,train
-Shantae shake it,butt_wiggle,0,train
-shake your tush Shantae,butt_wiggle,0,test
-put on a performance for me?,dance,0,train
-give me some loer on the Hypno Baron,chat,1,val
-shake it please,butt_wiggle,0,train
-Why does everyone talk about Rottytops?,chat,0,train
-hey,chat,0,train
-come on shake your rump,butt_wiggle,1,train
-entertain me shantae lol,dance,1,train
-omg i just beat the seven sirens,chat,0,train
-My cat just knocked my drink ovre.,chat,1,train
-Is Tinkerbat a good guy?,chat,0,train
-time to dance plaese,dance,1,train
-give me some sass,butt_wiggle,0,train
-let's get wiggly for me,butt_wiggle,0,train
-What's the deal with Risky's Revenge?,chat,0,test
-"come on, do a dance routine",dance,0,train
-do the dance of the half-genie?,dance,0,train
-Why does everyone talk about genie magic?,chat,0,train
-"hey Shantae, do your butt wiggle",butt_wiggle,0,train
-What do you think of Sunshine Seaside?,chat,0,train
-Tell me about Bolo.,chat,0,train
-can you bring out the wiggle?,butt_wiggle,0,train
-show me the butt wiggle shantae,butt_wiggle,1,train
-Do you like the Pirate Queen's Quest?,chat,0,test
-How many planets are in the solar system?,chat,0,train
-I wanna know more about Risky's Revenge,chat,0,train
-do your trademark moove now,butt_wiggle,1,train
-what do you think of the lighthouse,chat,1,train
-what's Sunshine Seaside like,chat,0,train
-i'm feeling kinda sad today.,chat,1,train
-What's your favorite game you've been in?,chat,0,test
-I was thinking about Rottytops earlier.,chat,0,test
-what happened with the Lighthouse,chat,0,val
-Do you like the Hypno Baron?,chat,0,train
-Shantae do a silly wiglge,butt_wiggle,1,train
-What's a good song to listen to?,chat,0,val
-can you give me the classic wiggle?,butt_wiggle,0,train
-how does Sunshine Seaside fit into the story?,chat,0,train
-tell me a story about the half-genie guardian role,chat,0,train
-Shantae bring out the wiggle,butt_wiggle,0,train
-make me smile with a dance now,dance,0,test
-What frame count does your wiggle animation have?,chat,0,train
-dance Shantae,dance,0,val
-whats your favorite thing about cackle mountain,chat,1,val
-hey dazzle me,dance,0,train
-do that wiggle thing for me,butt_wiggle,0,train
-What's your favorite thing about the Squid Baron?,chat,0,train
-sass it up please,butt_wiggle,0,train
-Why dos everyone talk about the Techno Baron?,chat,1,val
-what happened with your hair whip,chat,0,val
-Shantae do the cheeky wiggle,butt_wiggle,0,train
-hey get wiggly,butt_wiggle,0,train
-"hey shantae, shake your tush",butt_wiggle,1,train
-Remind me about Half-Genie Hero,chat,0,train
-What's the story behind your dance transformations?,chat,0,train
-"come on, do that wiggle thing",butt_wiggle,0,train
-Tlel me about genie magic.,chat,1,train
-how old are you,chat,1,train
-What's the deal with the Lighthouse?,chat,0,train
-hey dance something,dance,0,train
-get your groove on now,dance,0,train
-tell me a story about the Ammo Baron,chat,0,train
-"Shantae, shake your tush",butt_wiggle,0,train
-do u like icecream,chat,0,test
-How did you first meet the Squid Baron?,chat,0,test
-can you do a dance routine lol,dance,1,train
-Which game has Risky Revolution?,chat,0,train
-Shantae wiggle that tail pleaseee,butt_wiggle,1,train
-I wanna know more about Dagron,chat,0,train
-"Shantae, cheer me up with a dance",dance,0,train
-ok do the move everyone loves,butt_wiggle,0,train
-Shantae sway for me,dance,0,train
-Who is the Ammo Baron?,chat,0,train
-ok do a dance routine,dance,0,train
-shake your bum,butt_wiggle,0,test
-give me some lore on Uncle Mimic,chat,0,train
-What's your dream?,chat,0,train
-do some belly dancing for meee,dance,1,train
-"come on, do a graceful dance",dance,0,val
-how does magic dances fit into the story?,chat,0,train
-"Shantae, do the dance of the half-genie pleaseee",dance,1,train
-ok do a little shiiimmy,butt_wiggle,1,train
-hey shantae trigger butt wiggle,butt_wiggle,1,train
-Tell me aout the dance magic in Shantae.,chat,1,train
-ok could you dance for me,dance,0,train
-have you been to scuttle town?,chat,1,train
-"hey Shantae, do a cute wiggle",butt_wiggle,0,test
-I was thinking about the Techno Baron earlier.,chat,0,test
-what happened with Mermaid Falls,chat,0,train
-Can you explain genie magic to me?,chat,0,train
-tell me a story about magic dances,chat,0,train
-Thanks!,chat,0,val
-"hey Shantae, perform for me",dance,0,train
-give me a wiggle now,butt_wiggle,0,train
-have you been 2 risky's revenge?,chat,1,train
-I wanna know more about Sequin Land,chat,0,train
-get your groove on please,dance,0,train
-do that thing you do with your butt nooow,butt_wiggle,1,train
-wiggle that tail,butt_wiggle,0,train
-do some belly dancing?,dance,0,train
-do a twirl and dannce,dance,1,train
-do the bellydance animation,dance,0,train
-What's the deal with Shantae and the Seven Sirens?,chat,0,test
-booty shake :),butt_wiggle,0,train
-I was thinking about Cackle Mountain earlier.,chat,0,train
-What can you do?,chat,0,train
-who's the pirate queen again,chat,0,train
-"hey your move, dancer",dance,0,train
-"come on, dance tiiime",dance,1,test
-I wanna know more about Half-Genie Hero,chat,0,train
-wiggle your butt :),butt_wiggle,0,train
-Why does everyone talk about Risky's Revenge?,chat,0,train
-bellydance for me?,dance,0,test
-show some sass,butt_wiggle,0,train
-"Shantae, amuse me",dance,0,train
-"come on, sass it up",butt_wiggle,0,val
-show me your belly dancing for me,dance,0,train
-"come on, entertain me",dance,0,train
-can you wiggle that tail?,butt_wiggle,0,test
-"hey Shantae, show me what you've got",dance,0,train
-I wanna know more about Uncle Mimic,chat,0,train
-Can you explain Tinkerbat to me?,chat,0,train
-omg shantae ur literally the best,chat,0,train
-Which game has Nega-Shantae?,chat,0,train
-What's the deal with the Hypno Baron?,chat,0,val
-wow me with a dance now,dance,0,train
-ok wiggle wiggle wiggle,butt_wiggle,0,val
-shake your tush,butt_wiggle,0,train
-Sing me a song.,chat,0,train
-do something silly Shantae,butt_wiggle,0,train
-ttyl,chat,0,train
-Can you translate 'hello' into Spanish?,chat,0,test
-shantae do your transformation dance,dance,1,train
-do you like mayor scuttlebutt?,chat,1,train
-Is the Squid Baron a good guy?,chat,0,train
-What's the deal with the Pirate Queen's Quest?,chat,0,train
-"i'm bored, do something fun",dance,0,train
-What's the del with Risky Boots?,chat,1,train
-what happened with the Hypno Baaaron,chat,1,train
-Have you been to Abner?,chat,0,train
-How do you stay so positive?,chat,0,train
-Do you like the Ammo Baron?,chat,0,train
-Tell me about Sky.,chat,0,train
-whatcha din shantae,chat,1,train
-Who is Dagron?,chat,0,test
-show me the dance from the games,dance,0,test
-what's your relationship with risky like?,chat,1,test
-ok show off that wiggle,butt_wiggle,0,test
-can you show me your graceful moves?,dance,0,test
-how does Mayor Scuttlebutt fit into the story?,chat,0,train
-"come on, dance something",dance,0,train
-do the wiggle fr fr,butt_wiggle,1,val
-wiggle your butt now,butt_wiggle,0,train
-amuse me!,dance,0,test
-let me see the famous wiggle Shantae,butt_wiggle,0,train
-Do you like the Pirate Master?,chat,0,train
-sup shantae,chat,0,train
-entertain me a bit now,dance,0,train
-Why does everyone talk about the half-genie guardian role?,chat,0,val
-tell me a story about the Hypnno Baron,chat,1,train
-show me some moves for me,dance,0,train
-how does riskys revenge fit into the story,chat,1,train
-"hey Shantae, amuse me",dance,0,test
-give me a performance please,dance,0,train
-do the cheeky wiggle now,butt_wiggle,0,train
-Shantae do your genie dance,dance,0,train
-ngl i need a lil show rn,dance,1,train
-What's the deal with Uncle Mimic?,chat,0,train
-What do you think of Sequin Land?,chat,0,train
-shake it queen,butt_wiggle,1,val
-perform for me now,dance,0,train
-how does Half-Genie Hero fit into the story?,chat,0,train
-are you happy,chat,1,train
-what happened with Abner,chat,0,val
-activate wiggle mode :),butt_wiggle,0,train
-dance like a genie!,dance,0,train
-I wanna know more about genie magic,chat,0,train
-Why does everyone talk about Tinkerbat?,chat,0,train
-wiggle wiggle wiggle lol,butt_wiggle,1,train
-do a cute wiggle for me,butt_wiggle,0,test
-Who is the Tinkerbats?,chat,0,train
-"come on, shimmy shimmy",butt_wiggle,0,train
-remind me about the techno baron,chat,1,train
-Have you been to Tinkerbat?,chat,0,train
-could you dance for me?,dance,0,val
-Remind me about Sky,chat,0,train
-do a little twirl now,dance,0,train
-get your groove on?,dance,0,train
-How did you first meet Half-Genie Hero?,chat,0,train
-how does the Seven Sirens fit into the story?,chat,0,train
-do the butt wiggle :),butt_wiggle,0,train
-dance pls shantae,dance,1,train
-"I'm leaving now, bye rn",chat,1,train
-sway for me now,dance,0,train
-What's your favorite thing about Scuttle Town?,chat,0,train
-give me some lore on sunshine seaside,chat,1,train
-let's see the booty wiggle now,butt_wiggle,0,train
-My dog does a little wiggle when he's happy.,chat,0,train
-dance a little!,dance,0,train
-perform a dance now,dance,0,train
-i wnat pizza so bad,chat,0,train
-can you show off that wiggle?,butt_wiggle,0,train
-How did you first meet genie magic?,chat,0,train
-Do you like Sequin Land?,chat,0,train
-"come on, do the famous move",butt_wiggle,0,train
-Shantae wiggle time,butt_wiggle,0,train
-Remind me about Risky Revolution,chat,0,train
-do a twirl and dance :),dance,0,train
-could you do a little wiggle now,butt_wiggle,0,train
-do a silly wiggle,butt_wiggle,0,train
-wiggle your butt shantae,butt_wiggle,1,train
-Who is Shantae and the Seven Sirens?,chat,0,train
-I was thinking about Half-Genie Hero earlier.,chat,0,train
-What's your favorite thing about Shantae and the Seven Sirens?,chat,0,train
-hiii shantae,chat,0,train
-i need advice rn,chat,0,val
-I wanna know more about the Pirate Master,chat,0,train
-ur wiggle is bussin do it,butt_wiggle,1,train
-How do I fix a flat tire?,chat,0,train
-give me the classic wiggle Shantae,butt_wiggle,0,train
-which game has sky,chat,1,train
-can you do a performance?,dance,0,train
-How did you first meet Risky's Revenge?,chat,0,train
-"come on, give me some sass rn",butt_wiggle,1,train
-How do I make a sprite dance in Unity?,chat,0,train
-what happened with Dagron,chat,0,val
-Is the Tinkerbats a good guy?,chat,0,train
-I wanna know more about the Lighthouse,chat,0,train
-show me your dance for me,dance,0,val
-"Shantae, do the move everyone loves",butt_wiggle,0,train
-ok do the shake,butt_wiggle,0,val
-What's your favorite thing about Nega-Shantae?,chat,0,train
-i need some entertainment!,dance,0,train
-show me a routine now,dance,0,train
-Why does everyone talk about Dagron?,chat,0,train
-"come on, shake your bum",butt_wiggle,0,train
-Wanna chat for a bit?,chat,0,train
-get wigly,butt_wiggle,1,train
-ok do that thing you do with your butt,butt_wiggle,0,train
-What treasure have you found?,chat,0,train
-Can you explain Risky Boots to me?,chat,0,train
-"come on, do your signature wiggle",butt_wiggle,0,train
-bored af entertain me,dance,1,train
-"hey Shantae, wiggle time",butt_wiggle,0,test
-dance time please,dance,0,train
-What music plays when you dance in the games?,chat,0,train
-What's your favorite thing about the Techno Baro?,chat,1,train
-do that wiggle thing,butt_wiggle,1,test
-can you wow me with a dance?,dance,0,train
-Let's talk about something.,chat,0,train
-"hey Shantae, do the butt wiggle",butt_wiggle,0,val
-do some belly dancing now,dance,0,test
-Shantae do a belly dance,dance,0,train
-Can you explain the Squid Baron to me?,chat,0,train
-shake your booty for me,butt_wiggle,0,train
-be cheeky for me for me,butt_wiggle,0,train
-amuse me Shantae,dance,0,train
-I need to shake off this cold.,chat,0,train
-cant wait for the weekend lol,chat,0,train
-Have you been to the half-genie guardian role?,chat,0,train
-can you show me a dance number?,dance,0,train
-Remind me about Shantae and the Seven Siiirens,chat,1,train
-I'm so tired.,chat,0,train
-Remind me about the Hypno Baron,chat,0,test
-what happened with Sequin Land,chat,0,train
-let's get wiggly pleasse,butt_wiggle,1,test
-where do you live?,chat,1,train
-wiggle or i riot lol,butt_wiggle,1,train
-shake your bum pls,butt_wiggle,1,test
-lets see some moves,dance,1,val
-Can you recommend a dance studio?,chat,0,train
-What does the elephant form do?,chat,0,train
-hi,chat,0,train
-can you dance party?,dance,0,train
-How did you first meet the Techno Baron?,chat,0,test
-dance party please,dance,0,val
-dance for me for me,dance,0,train
-wiggle your butt for me,butt_wiggle,0,train
-hru,chat,0,train
-hey do a dance routine,dance,0,train
-do a lil dance,dance,1,test
-surprise me with a wiggle nooow,butt_wiggle,1,test
-let's hae a dance,dance,1,train
-"Shantae, i'm bored, entertain me",dance,0,train
-do you think risky will ever be good,chat,1,train
-Who is Mermaid Falls?,chat,0,train
-put on a show please,dance,0,train
-time for the wiggle :),butt_wiggle,0,train
-shantae wigle now,butt_wiggle,1,train
-"hey Shantae, dance a littel",dance,1,train
-dance the night away for me,dance,0,train
-"come on, give me a show",dance,0,train
-"come on, entertain me a bit",dance,0,train
-let's get wiggly,butt_wiggle,0,train
-Is the Techno Baron a good guy?,chat,0,train
-tell me a story about the Pirate Queen's Quest,chat,0,train
-"come on, do the dance of the half-genie",dance,0,val
-Can you explain Uncle Mimic to me?,chat,0,train
-What do you think of Risky Boots?,chat,0,test
-"Shantae, can you dance",dance,0,train
-hey shantae do a belly dance,dance,1,train
-time to dance?,dance,0,train
-I'm bored at work today.,chat,0,train
-Who is genie magic?,chat,0,test
-do the half-genie dance now,dance,0,train
-Where can I play Shantae?,chat,0,train
-show some sass please,butt_wiggle,0,train
-do ur dance thing,dance,1,train
-Can you describe the butt wiggle animation in words?,chat,0,train
-wiggle time please,butt_wiggle,0,train
-can you do the cheeky wiggle?,butt_wiggle,0,train
-I was thinking about the Pirate Queen's Quest earlier.,chat,0,train
-shantae do your signature wiggle,butt_wiggle,1,train
-put on a show?,dance,0,train
-lemme see dat wiggle,butt_wiggle,1,train
-can u hlep me with smth,chat,0,val
-"come on, booty shake",butt_wiggle,0,test
-how does Tinkerbat fit into the story?,chat,0,train
-wiggle time Shantae,butt_wiggle,0,train
-pls do the bellydance im begging,dance,1,val
-wat's bolo like,chat,1,train
-do the butt wiggle now,butt_wiggle,0,val
-"hey Shantae, dance the night away",dance,0,train
-shantea do the wiggle,butt_wiggle,1,train
-Tell me about Half-Genie Hero.,chat,0,val
-can you shake your rump?,butt_wiggle,0,train
-I wanna know more about Shantae and the Seven Siiirens,chat,1,train
-give me a show now,dance,0,val
-let's see that belly dance Shantae,dance,0,train
-I was thinking about the Pirate's Curse earlier.,chat,0,test
-do your genie dance xd,dance,1,val
-Can you explain the Pirate Master to me?,chat,0,test
-ok show me a dance number,dance,0,train
-i cant believe risky did that,chat,0,train
-"Shantae, do tht wiggle thing",butt_wiggle,1,test
-surprise me with a wiggle!,butt_wiggle,0,train
-hey bellydance for me,dance,0,train
-do the cheeky wiggle,butt_wiggle,0,train
-do a little twirl :),dance,0,train
-ok groove for me,dance,0,train
-"Shantae, show me a routine",dance,0,test
-give me a performance?,dance,0,train
-be silly for me now,butt_wiggle,0,train
-do the bum wiggle please,butt_wiggle,0,train
-can you do your transformation dance?,dance,0,train
-wiggle time!,butt_wiggle,0,train
-do your signature wiggle,butt_wiggle,0,train
-What's your favorite thing about Rottytops?,chat,0,val
-I wanna know more abuot Risky Boots,chat,1,train
-come on wiggle it,butt_wiggle,1,val
-shantae wiggle for me,butt_wiggle,1,val
-do a performance for me,dance,0,test
-hey do the half-genie dance,dance,0,train
-Shantae wiggle wiggle wiggle,butt_wiggle,0,train
-ok do a twirl and dance,dance,0,train
-"Shantae, let's have a dance",dance,0,train
-bored. entertain.,dance,1,train
-shake your booty now,butt_wiggle,0,train
-Why does everyone talk about the Hypno Baron?,chat,0,train
-belly dance pelase please,dance,1,train
-do a lil twirl 4 me,dance,1,train
-start the dance Shantae,dance,0,train
-"come on, make me smile with a dance",dance,0,train
-make me laugh with a wiggle for me,butt_wiggle,0,train
-Can you explain Scuttle Town to me?,chat,0,train
-do the move everyone loves please,butt_wiggle,0,train
-hey do a twirl and dance,dance,0,train
-Shantae shimmy shimmy,butt_wiggle,0,val
-can you dance please,dance,0,test
-hey bust a move,dance,0,train
-can you wiglge mode on?,butt_wiggle,1,train
-What's the deal with magic dances?,chat,0,test
-Who is Sunshine Seaside?,chat,0,train
-hit me with the wiggle for me,butt_wiggle,0,train
-Have you been to the Techno Baron?,chat,0,train
-hey be cheeky for me,butt_wiggle,0,train
-groove for me,dance,0,train
-do your butt wiggle!,butt_wiggle,0,train
-sway for me please,dance,0,train
-Tell me about Mermaid Falls.,chat,0,train
-Why do you wear that otufit?,chat,1,train
-show me a routine,dance,0,train
-shantea dance,dance,1,train
-hey make me smile with a dance,dance,0,train
-Which game has the Tinkerbats?,chat,0,train
-ngl risky boots is lowkey the best villain,chat,0,val
-can you show some sass?,butt_wiggle,0,val
-I had a rough day.,chat,0,train
-can you give me a show?,dance,0,train
-How did you first meet Tinkerbat?,chat,0,train
-What's the deal with Abner?,chat,0,train
-hey do the bellydance animation,dance,0,train
-shake that tail :),butt_wiggle,0,test
-what happened with Sunshine Seaside,chat,0,test
-What do you think of the Pirate Queen's Quest?,chat,0,train
-Do you like the Pirate's Curse?,chat,0,train
-perform for me!,dance,0,train
-give me some sass now,butt_wiggle,0,train
-whats the meaning of life,chat,1,train
-ok do that wiggle thing,butt_wiggle,0,train
-hey shake your rump,butt_wiggle,0,train
-do your trademark move please,butt_wiggle,0,train
-ok do a silly wiggle,butt_wiggle,0,test
-"go on, wiggle Shantae",butt_wiggle,0,train
-How did you first meet Uncle Mimic?,chat,0,train
-Can you explain the half-genie guardian role to me?,chat,0,train
-dace a little,dance,1,train
-What's the capital of France?,chat,0,test
-What's the weather like today?,chat,0,train
-do you like risky boots?,chat,1,train
-"come on, time to dance",dance,0,train
-"hey Shantae, do the wiggle",butt_wiggle,0,train
-come on do a bum shake,butt_wiggle,1,train
-ok do your butt wiggle,butt_wiggle,0,val
-"come on, do the wiggle",butt_wiggle,0,train
-What do you think of your hair whip?,chat,0,test
-give me a show Shantae,dance,0,train
-do a little twiirl for me,dance,1,val
-"come on, show some sass",butt_wiggle,0,train
-cheer me up with a dance now,dance,0,train
-ok show me the dance from the games,dance,0,train
-show me your graceful moves!,dance,0,train
-Remind me about the Tinkerbats,chat,0,train
-"i'm bored, do something fun for me",dance,0,train
-do your funny move for me,butt_wiggle,0,train
-give me some lore on rottytops,chat,1,train
-do the shake now,butt_wiggle,0,train
-Who is the Lighthouse?,chat,0,train
-What does 'entertain' mean?,chat,0,val
-entertain me for a sec,dance,0,train
-I wanna know more about Mermaid Falls,chat,0,train
-Shantae do the shake,butt_wiggle,0,val
-i wanna see you wiggle shantae,butt_wiggle,1,train
-I wanna know more about Scuttle Tooown,chat,1,train
-give me a performance Shantae,dance,0,train
-do your iconic move for me,butt_wiggle,0,train
-How did you become the guardian of Scuttle Town?,chat,0,train
-can you do a silly wiggle?,butt_wiggle,0,train
-Why do people love the butt wiggle meme?,chat,0,train
-put on a little show Shantae,dance,0,test
-What's your favorite dance to watch?,chat,0,train
-how does the Squid Baron fit into the story?,chat,0,train
-"come on, be silly for me",butt_wiggle,0,train
-hey shantea hows it goin,chat,0,train
-hey wiggle tiem,butt_wiggle,1,train
-I wanna know more about Tinkerbat,chat,0,test
-"come on, do a performance",dance,0,train
-dance please,dance,0,train
-shoow me the butt wiggle :),butt_wiggle,1,train
-tell me a story about sky,chat,1,train
-See you tomorrow.,chat,0,train
-Tell me about Nega-Shantae.,chat,0,train
-ok wow me with a dance,dance,0,train
-Remind me about the Lighthouse,chat,0,train
-"Good night, Shnatae.",chat,1,train
-"hey Shantae, time for the wiggle",butt_wiggle,0,train
-i want to see you dance please pleaseee,dance,1,train
-play the butt wiggle animation for me,butt_wiggle,0,train
-What's your favorite thing about Dagron?,chat,0,test
-"Shantae your move, dancer",dance,0,train
-can you amuse me tbh,dance,1,train
-hey shake your bum,butt_wiggle,0,test
-do some belly dancing Shantae,dance,0,train
-What's the deal with the Seven Sirens?,chat,0,train
-What's your favorite thing about magic dances?,chat,0,train
-"i'm bored, entertain me now",dance,0,train
-is your ponytail heavy,chat,1,train
-give me some lore on Sequin Land,chat,0,train
-show me a dance number Shantae,dance,0,train
-give me some lore on magic dances,chat,0,train
-"hey Shante, dance time",dance,1,train
-wiggle for me now,butt_wiggle,0,train
-entertain me!,dance,0,test
-show me what you've got now,dance,0,test
-ur hair is so cool how long is it,chat,0,train
-can you wiggle!,butt_wiggle,0,train
-bestie do the butt wiggle,butt_wiggle,1,train
-What's the most entertaining game you've played?,chat,0,train
-what happened with Scuttle Town,chat,0,train
-Have you been to magic dances?,chat,0,train
-be cheeky for me now,butt_wiggle,0,val
-ok do a graceful dance lmao,dance,1,test
-How long is your hair?,chat,0,train
-Is the half-genie guardian role a good guy?,chat,0,train
-shaek it,butt_wiggle,1,train
-tell me a story about Rottytops,chat,0,train
-What's the deal with the Pirate Master?,chat,0,train
-tell me a story about Bolo,chat,0,train
-"come on, activate wiggle mode",butt_wiggle,0,train
-come on do a little shimmy,butt_wiggle,1,val
-who is the pirate queens quest,chat,1,train
-shantae do the bellydance animation,dance,1,train
-Is Scuttle Town a good guy?,chat,0,val
-What time is it pls,chat,1,train
-whats your favorite thing about half-genie hero,chat,1,val
-could you do a little wiggle Shantae,butt_wiggle,0,train
-I was thinking about genie magic earlier.,chat,0,train
-Do you like shows like Avatar?,chat,0,train
-"Shantae, do the shake pls",butt_wiggle,1,train
-do the move everyone loves for me,butt_wiggle,0,train
-How did you first meet the Tinkerbats?,chat,0,train
-What's your favorite thing about the Pirate's Curse?,chat,0,train
-"hey Shantae, get wiggly",butt_wiggle,0,val
-give me some lore on Dagron,chat,0,train
-dance for me,dance,0,train
-show me a dance number?,dance,0,train
-give me some sass Shantae,butt_wiggle,0,train
-tell me a story about genie magic,chat,0,train
-show off that wiggle Shantae,butt_wiggle,0,train
-Shantae make me laugh with a wiggle,butt_wiggle,0,train
-Do you think the dance animation looks good?,chat,0,train
-Can we just talk?,chat,0,test
-What's the deal with Half-Gnie Hero?,chat,1,train
-do your iconic move Shantae,butt_wiggle,0,train
-do the shake,butt_wiggle,0,train
-"Shantae, let's get wiggly",butt_wiggle,0,train
-who came up with the wiggle animation for your sprite,chat,1,train
-do a belly dance Shaaantae,dance,1,test
-Do you ever get embarrassed about dancing?,chat,0,train
-do the bellydance animation for me,dance,0,train
-show me a routine Shantae,dance,0,train
-dance!,dance,0,train
-Shantae dance smething,dance,1,train
-What do people mean when they say 'hte wiggle'?,chat,1,train
-do your transformation dance please,dance,0,train
-My sister is a belly dancer.,chat,0,train
-What's your favorite dungeon?,chat,0,test
-What do you think of the Hypno Baron?,chat,0,val
-could you dance for me Shantae,dance,0,train
-show me the wiggle please,butt_wiggle,0,train
-lol ok,chat,0,train
-dance like a genie Shantae,dance,0,val
-Which game has Mayor Scuttlebutt?,chat,0,train
-how does the Ammo Baron fit into the story?,chat,0,train
-dazzle me Shantae,dance,0,train
-dance the night away please,dance,0,train
-how does Cackle Mountain fit intto the story?,chat,1,train
-do u like cackle mountain?,chat,1,train
-Tell me about the Tinkerbats.,chat,0,train
-Is Half-Genie Hero a good guy?,chat,0,train
-Can you explain Rottytops to me?,chat,0,train
-"hey Shantae, do a little twirl",dance,0,train
-do something goofy for me,butt_wiggle,0,train
-shake that tail for me,butt_wiggle,0,train
-do the wiggle lowkey need it,butt_wiggle,1,train
-sheesh shantae wiggle time,butt_wiggle,1,train
-do a little shimmy pleeease,butt_wiggle,1,train
-give me some lore on Half-Genie Hero,chat,0,test
-Do you like music?,chat,0,train
-do something goofy,butt_wiggle,0,train
-Which game has Cackle Mountain?,chat,0,train
-ok do the bum wiggle,butt_wiggle,0,val
-What are some good rhythm games?,chat,0,train
-hey do your dance,dance,0,test
-i need some entertainment for me,dance,0,train
-What's the deal with the Ammo Baron rn,chat,1,train
-Shantae let's see the booty wiggle,butt_wiggle,0,val
-"Shantae, activate wiggle mode",butt_wiggle,0,train
-"Shantae, let me see the famous wiggle",butt_wiggle,0,test
-what's Risky Boots like,chat,0,test
-What's the deeal with Mermaid Falls?,chat,1,train
-What do you think of the Techno Baron?,chat,0,train
-Why does everyone talk about Nega-Shantae?,chat,0,train
-ok show me your graceful moves,dance,0,train
+sorry to bug you but hit me with the cheeky one,butt_wiggle,0,train
+do your stage act,dance,0,train
+"so, hit me with the funny one pls",butt_wiggle,0,test
+sorry to bug you but do the bum wiggle if you don't mind,butt_wiggle,0,train
+"Shantae, do a twirl pls",dance,0,train
+"Shantae, do the bum wiggle",butt_wiggle,0,train
+"Shantae, what's the story behind Risky Boots",chat,0,train
+"hey, cackle Mountain is my favorite part of the series lol",chat,0,train
+Any ideas for entertaining a toddler?,chat,0,train
+show me some graceful moves,dance,0,train
+"alright, give me a performance thanks",dance,0,train
+yo can you shake up my playlist suggestions? lol,chat,0,train
+give me a number lol!!,dance,1,train
+"go on, make my day with your signature thing",butt_wiggle,0,test
+"alright, let's see that signature move Shantae",butt_wiggle,0,train
+Set a timer for ten minutes.,chat,0,train
+is Uncle Mimic on your side or not?!!,chat,1,train
+I'm going on vacation next week.,chat,0,train
+"okay, what's Sky like thanks",chat,0,train
+let's see some moves,dance,0,train
+so whats the meaning of life,chat,1,train
+let's see a half-genie routine,dance,0,train
+what's the story behind Scuttle Town lol,chat,1,train
+show me something with a twirl,dance,0,train
+give me the one from the memes,butt_wiggle,0,train
+let's see your trademark move,butt_wiggle,0,train
+"so, show me a number please",dance,0,train
+how did you first run into Sequin Land,chat,0,train
+"alright, let's see some flowing moves please",dance,0,val
+let's see your signature moveee,butt_wiggle,1,test
+How does Shantae's magic work?,chat,0,train
+"hey quick thing, dance some more Shantae",dance,0,train
+Thannks!,chat,1,train
+"shake it, Shantae",butt_wiggle,0,train
 Who is Uncle Mimic?,chat,0,train
-"come on, do your belly dance",dance,0,train
-Is the butt wiggle in every Shantae game?,chat,0,test
-ok do a performance,dance,0,train
-What's your favorite thing about being a hero?,chat,0,train
-What's the deal with Mayor Scuttlebutt?,chat,0,train
-"Shantae, could you dance for me",dance,0,test
-whats ur fav boss fight lol,chat,0,train
-Who is Rottytops?,chat,0,train
-tell me a story about your hair whip,chat,0,train
-shantae lets dance,dance,1,train
-hey i wanna see you wiggle,butt_wiggle,0,test
-what happened with the half-genie guardian role,chat,0,train
-Is Half-Genie Hero worth playing?,chat,0,train
-do smth fun pls,dance,1,train
-who composed the music for shantae?,chat,1,val
-what happened with Shantae and the Seven Sirens,chat,0,train
-Shantae show me your dance,dance,0,train
-How do I shake off a bad mood?,chat,0,train
-shake your botoy,butt_wiggle,1,train
-trigger dance?,dance,0,train
-give me some loore on Mayor Scuttlebutt,chat,1,train
-I was thinking abut Tinkerbat earlier.,chat,1,test
-can you do your signature wiggle?,butt_wiggle,0,train
-Remind me abotu magic dances,chat,1,train
-whats it like in sequin land,chat,1,val
-remind me about da pirate's curse,chat,1,train
-Why does everyone talk about the Ammo Baron?,chat,0,train
-give me a show xd,dance,1,train
-let's dance for me,dance,0,train
-Tell me about the Pirate Master.,chat,0,test
-"im bord, what should i do this weekend?",chat,1,train
-Shantae be silly for me,butt_wiggle,0,train
-"hey Shantae, i'm bored, do something fun",dance,0,test
-ok get wiggly,butt_wiggle,0,test
-ok dance time,dance,0,train
-What's the deal with Rottytops?,chat,0,train
-what do you think of scuttle town,chat,1,train
-ugh mondays r the worst,chat,0,train
-Do you miss Scuttle Town?,chat,0,train
-do your transformation dance Shantae,dance,0,train
-Shantae do that thing you do with your butt,butt_wiggle,0,train
-what happened with Sky,chat,0,train
-What's Bolo up to these days?,chat,0,train
-I was thinking about the Tinkerbats earlier.,chat,0,test
-could you dance for me now,dance,0,train
-tell me a story about the Squid Baron,chat,0,test
-Why do half-genies dance to use magic xd,chat,1,train
-How did you first meet Mayor Scuttlebutt?,chat,0,val
-Have you been to the Lighthouse?,chat,0,train
-Let's talk about dancing games.,chat,0,train
-Do you think I should take dance classes?,chat,0,train
-Shantae time to dance,dance,0,train
-Do you like Abner?,chat,0,train
-Do you like Bolo?,chat,0,train
-tell me a story about riskys revenge,chat,1,train
-"Shantae, do your dance",dance,0,train
-hey let's get wiggly,butt_wiggle,0,train
-"Shantae, give me a show",dance,0,train
-is sequin land a good guy?,chat,1,train
-cheer me up with a dance!,dance,0,train
-can you do your iconic move?,butt_wiggle,0,train
-Have you been to Sunshine Seaside?,chat,0,test
-what's Uncle Mimic like,chat,0,train
-I was thinking about the Hypno Baron earlier.,chat,0,test
-Shantae give me a performance,dance,0,test
-do the wiggle :),butt_wiggle,0,train
-what's the Pirate Queen's Quest like,chat,0,val
-I was thinking about Dagron earlier.,chat,0,test
-How do I learn guitar?,chat,0,train
-hey do a graceful dance,dance,0,val
-what happened with Bolo,chat,0,train
-Who taught you to belly dance?,chat,0,train
-u gotta wiggle rn,butt_wiggle,1,train
-Which game has the Hypno Baron?,chat,0,train
-can you do some belly dancing?,dance,0,train
-do the cheeky wiggle Shantae,butt_wiggle,0,test
-hey belly dance please xd,dance,1,train
-which game has magic dances,chat,1,train
-omg do the wiggle,butt_wiggle,1,train
-pls explain the story of half genie hero,chat,0,train
-What's your favorite color?,chat,0,train
-"come on, hit me with the wiggle",butt_wiggle,0,train
-wait is rottytops actually a zombie,chat,0,train
-dance a little please,dance,0,test
-wiggle it!,butt_wiggle,0,train
-shake your rump :),butt_wiggle,0,train
-hey do something silly,butt_wiggle,0,train
-hey dance for me,dance,0,train
-shake your rump now,butt_wiggle,0,test
-"come on, amuse me",dance,0,train
-hey give me a shooow,dance,1,val
-what's Risky Revolution like,chat,0,train
-I was thinking about Bolo earlier.,chat,0,train
-"hey Shantae, do the famous move",butt_wiggle,0,train
-start the dance,dance,0,train
-hey dance,dance,0,train
-Have you been to Shantae and the Seven Sirens?,chat,0,train
-Which game has the Pirate's Curse?,chat,0,train
-dance something,dance,0,val
-What's the best dance song for a party?,chat,0,train
-Did you ever dance with Sky?,chat,0,train
-can you do something goofy?,butt_wiggle,0,train
-Have you been to the Squid Baron?,chat,0,train
-do a wiggel pls,butt_wiggle,1,train
-Do you liek Sunshine Seaside?,chat,1,train
-how does Mermaid Falls fit ito the story?,chat,1,train
-What's your opinion on pineapple on pizza?,chat,0,test
-how does the Pirate Queen's Quest fit into the story?,chat,0,train
-who is the pirate's curse?,chat,1,train
-Do you like Scuttle Town?,chat,0,train
-"hey Shantae, play the dance animation",dance,0,val
-Why was the dance scene so famous in that movie?,chat,0,train
-do a graceful dance shantae,dance,1,train
-show me a dance number for me,dance,0,train
-how does Rottytops fit into the story?,chat,0,train
-I went to a dance recital last night.,chat,0,test
-I passed my exam!,chat,0,train
-hey put on a performance for me,dance,0,test
-shake your rump Shantae,butt_wiggle,0,train
-whats ur fav color tbh,chat,0,train
-sass it up?,butt_wiggle,0,train
-make me laugh with a wiggle shantae,butt_wiggle,1,train
-no cap what's ur favorite game,chat,0,train
-Why does everyone talk about the Pirate Master?,chat,0,train
-hey wiggle for me,butt_wiggle,0,test
-hey do your genie dance,dance,0,train
-ok let's see some moves,dance,0,test
-Hello there,chat,0,train
-give me a wiggle lmao,butt_wiggle,1,train
-hit me with the wiggle please,butt_wiggle,0,train
-bruh just do the wiggle,butt_wiggle,1,train
-Do you liek Tinkerbat?,chat,1,train
-"i'm bored, entertain me",dance,0,train
-whats your favorite thing about your hair whip,chat,1,train
-Is the Pirate's Curse a good guy?,chat,0,train
-shantae im bored do smth,dance,1,train
-"Shantae, show me some moves",dance,0,train
-"hey Shantae, booty shake",butt_wiggle,0,train
-can you wiggle it?,butt_wiggle,0,train
-can you do a belly dance?,dance,0,train
-recommend me a good movie,chat,1,val
-what's Scuttle Town like,chat,0,val
-"come on, show me the butt wiggle",butt_wiggle,0,train
-I was thinking about Mayor Scuttlebutt earlier.,chat,0,train
-what happened with Risky's Revenge,chat,0,train
-Tell me a story.,chat,0,train
-does risky boots ever dance,chat,1,train
-can you shake that tai?,butt_wiggle,1,train
-Do you like Sky?,chat,0,train
-can you do the famous move?,butt_wiggle,0,train
-can you be silly for me?,butt_wiggle,0,train
-do the shake Shantae,butt_wiggle,0,train
-"come on, dazzle me",dance,0,train
-Why is the butt wiggle so iconic?,chat,0,train
-"hey Shantae, trigger dance",dance,0,train
-why does my cat wiggle before pouncing?,chat,1,train
-What's the history of belly dancing?,chat,0,train
-I wanna know more about your hair whip,chat,0,train
-show me the but wiggle,butt_wiggle,1,train
-do the bum wiggle now,butt_wiggle,0,train
-wiggle wiggle wiggle Shantae,butt_wiggle,0,train
-"hey Shantae, work the wiiiggle",butt_wiggle,1,train
-can you do a bum shakke?,butt_wiggle,1,train
-Is the Lighthouse a good guy?,chat,0,train
-"Shantae, hit me with the wiggle",butt_wiggle,0,train
-"Shantae, show some sass",butt_wiggle,0,train
-do a performance please,dance,0,train
-do the move everyone loves :),butt_wiggle,0,train
-tell me a story about Risky Revolution,chat,0,train
-whats the difference between belly dance and hip hop,chat,1,test
-Remind me about Risky Boots pls,chat,1,train
-What do you think of Risky's Revenge?,chat,0,train
-do something goofy please,butt_wiggle,0,train
-Is belly dancing hard to learn?,chat,0,train
-Which game has the half-genie guardian role?,chat,0,train
-what's the Techno Baron like,chat,0,train
-let's see that belly dance,dance,0,train
-wiggle wiggle wiggle for me,butt_wiggle,0,test
-"come on, let me see the famous wiggle",butt_wiggle,0,train
-Do pirates dacne?,chat,1,train
-How did you first meet Sky?,chat,0,val
-Tell me about the Pirate Queen's Quest.,chat,0,train
-I was thinking about the Seven Sirens earlier.,chat,0,val
-perform a dance please,dance,0,train
-do the dance lol,dance,1,train
-give me some lore on risky's revenge,chat,1,test
-"Shantae, can you wiggle",butt_wiggle,0,train
-wow me with a dance!,dance,0,test
-Is magic dances a good guy?,chat,0,test
-What's it like being a half-genie?,chat,0,test
-Do you like the Lighthouse?,chat,0,train
-I was thinking about magic dances earlier.,chat,0,test
-Can you explain the Ammo Baron to me?,chat,0,train
-shantae wow me with a dance,dance,1,train
-lmao what even is the plot of risky's revenge,chat,0,train
-play the dance animation :),dance,0,train
-who is the half-genie guardian role,chat,1,train
-entertain me please,dance,0,train
-Do you ever selep?,chat,1,train
-Shantae entertain me,dance,0,train
-What do you think of genie magic?,chat,0,train
-I wanna know more about Abner,chat,0,train
-do a bum shake!,butt_wiggle,0,train
-can you give me some sass?,butt_wiggle,0,train
-I was thinking about your hair whip earlier.,chat,0,train
-bust a move!,dance,0,train
-give me some lore on Risky Revolution,chat,0,train
-Tell me about Uncle Mimic.,chat,0,train
-can you bellly dance please?,dance,1,train
-How did you first meet the Lighthouse?,chat,0,test
-wyd,chat,0,val
-butt wiggle now please,butt_wiggle,0,train
-activate wiggle mode for me,butt_wiggle,0,val
-I wanna know more about the Tinkerbats,chat,0,train
-can you do your dance?,dance,0,train
-what's the deal with the techno baron?,chat,1,train
-do a graceful dance :),dance,0,train
-Why does everyone talk about the Pirate's Curse?,chat,0,train
-what happened with Nega-Shantae,chat,0,train
-whats your favorite thing about riskys revenge,chat,1,train
-I saw a dance performance yesterday.,chat,0,train
-"come on, show off that wiggle",butt_wiggle,0,train
-What's your favorite thing about the Pirate Master?,chat,0,train
-I can't sleep.,chat,0,val
-hey wiggle your butt,butt_wiggle,0,train
-I was thinking about the Ammo Baron earlier.,chat,0,train
-dance something for me,dance,0,train
-plz explain the pirate's curse ending,chat,0,test
-Do you ever get tired of fighting pirates?,chat,0,train
-Is dancing good exercise?,chat,0,train
-let's have a dance Shantae,dance,0,val
-Tell me a joke.,chat,0,train
-"come on, do a silly wiiiggle",butt_wiggle,1,train
-what's Abner like,chat,0,train
-what happened with the Seven Sirens,chat,0,train
-trigger butt wiggle please,butt_wiggle,0,train
-Why does everyone talk about the Tinkerbats?,chat,0,train
-Have you been to the Tinkerbats?,chat,0,train
-entertain me for a sec please,dance,0,train
-which game has sequin land?,chat,1,train
-bring out the wiggle Shantae,butt_wiggle,0,train
-give me a wiggle,butt_wiggle,0,train
-Do you like adventures?,chat,0,train
-hey do the move everyone loves,butt_wiggle,0,test
-I wanna know more about Cackle Mountain,chat,0,train
-do a cute wiggle!,butt_wiggle,0,train
-how did you first meet rottytops,chat,1,train
-Tell me about Cackle Mountain.,chat,0,test
-How did you first meet the Pirate Queen's Quest?,chat,0,train
-how does Risky Boots fit into the story?,chat,0,val
-Do you like to dance?,chat,0,train
-hey shake your tush,butt_wiggle,0,train
-time to dance Shantae,dance,0,train
-Why does everyone talk about Scuttle Town?,chat,0,val
-Remind me about Risky's Revenge,chat,0,train
-"Shantae, wiggle tiiime",butt_wiggle,1,train
-wat do you think of bolo?,chat,1,val
-whats your favorite thing about abner,chat,1,train
-What's the longest river in the world?,chat,0,train
-"hey Shantae, wiggle wiggle wiggle",butt_wiggle,0,train
-Do you like the half-genie guardian role?,chat,0,train
-What's your favorite thing abouut Sunshine Seaside?,chat,1,val
-"Shantae, put on a little show",dance,0,train
-can you do your trademark move?,butt_wiggle,0,train
-ok do the dance of the half-genie,dance,0,val
-Is Risky Revolution a good guy?,chat,0,train
-"come on, dance the night away",dance,0,train
-do a dance routine!,dance,0,train
-ok do your dance,dance,0,train
-I'm learning to dance for my wedding.,chat,0,train
-hey trigger dance,dance,0,test
-entertain me rn,dance,1,train
-Why does everyone talk about the Squid Baron?,chat,0,val
-What's the deal with Bolo?,chat,0,train
-"hey Shantae, sass it up",butt_wiggle,0,train
-Can you explain how photosynthesis works?,chat,0,train
-I'm back!,chat,0,train
-ok dance party,dance,0,test
-"Shantae, dazzle me",dance,0,train
-Do you like Mermaid Falls?,chat,0,val
-give me some lore on Scuttle Town,chat,0,test
-"Shantae, do your butt wiggle",butt_wiggle,0,train
-which game has risky boots?,chat,1,val
-"Shantae, do a silly wiggle",butt_wiggle,0,train
-Which game has Half-Genie Hero?,chat,0,train
-show me your dance?,dance,0,train
-hey do your signature wiiggle,butt_wiggle,1,val
-can you show me your belly dancing,dance,1,train
-What's your favorite thing about Risky Boots?,chat,0,train
-Why does everyone talk about Risky Boots?,chat,0,train
-Which game has the Pirate Master?,chat,0,train
-do a little twil,dance,1,train
-how does the half-genie guardian role fit into the story,chat,1,train
-tell me about the techno baron.,chat,1,train
-"hey Shantae, dance",dance,0,train
-"ok your move, dancer",dance,0,val
-Remind me about the half-genie guardian role,chat,0,test
-Why does everyone talk about Bolo?,chat,0,train
-what's the tinkerbats like,chat,1,train
-play the butt wiggle animation Shantae,butt_wiggle,0,train
-wiggle mode on please,butt_wiggle,0,train
-Do you get nervous before big performances?,chat,0,val
-I wanna know more about magic dances,chat,0,train
-Remind me about genie magic,chat,0,train
-shake your booty pleeease,butt_wiggle,1,val
-Shantae booty shake,butt_wiggle,0,train
-ok be cheeky for me,butt_wiggle,0,val
-ok do your transformation dance,dance,0,test
-show me the wiggle now,butt_wiggle,0,train
-belly dance please now,dance,0,train
-How did you first meet the Hypno Baron?,chat,0,test
-do a little shimmy :),butt_wiggle,0,train
-"hey Shantae, wow me with a dance",dance,0,train
-what happened with the Squid Baron,chat,0,train
-Who is the best performer you know?,chat,0,train
-what happened with the Pirate's Curse,chat,0,train
-I wanna know more about Nega-Shantae,chat,0,train
-What do you think of Half-Genie Hero?,chat,0,train
-show me some moves lol,dance,1,train
-give me the classic wiggle please,butt_wiggle,0,test
-have u been to bolo?,chat,1,train
-hit me with the wiggle?,butt_wiggle,0,train
-make me smile with a dance?,dance,0,train
-"Shantae, do a little twirl",dance,0,train
-What's up?,chat,0,train
-dnace time,dance,1,train
-Tell me about the Seven Sirens.,chat,0,val
-let's see the booty wiggle Shantae,butt_wiggle,0,train
-Can you explain your hair whip to me?,chat,0,train
-Who is the best villain in the series?,chat,0,train
-do your signature wiggle please,butt_wiggle,0,train
-fr tho who's ur fave character,chat,0,train
-Who is Mayor Scuttlebutt?,chat,0,train
-"can you go on, wiggle?",butt_wiggle,0,train
-bely dance pls,dance,1,train
-do a silly wiggle for me,butt_wiggle,0,train
-Remind me about Rottytops,chat,0,train
-Do you like Risky Revolution?,chat,0,train
-show me the dance from the games for me,dance,0,train
-Tell me about Dagronn.,chat,1,train
-u free? dance 4 me,dance,1,train
-Which game has the Lighthouse?,chat,0,train
-shantae wiggle rn,butt_wiggle,1,train
-"hey Shantae, put on a performance for me",dance,0,test
-hey shake shake shake,butt_wiggle,0,train
-wigle for me,butt_wiggle,1,train
-butt wiggle now,butt_wiggle,0,train
-tell me a story about the Pirate's Cuuurse,chat,1,val
-What's your favorite thing about Uncle Mimic?,chat,0,train
-entertain me for me,dance,0,train
-gtg ttyl,chat,0,train
-what's the Lighthouse lie,chat,1,train
-can you give me some advice?,chat,1,train
-"shantae i'm bored, do something fun",dance,1,train
-what's magic dances like xd,chat,1,val
-What's the deal with Tinkerbat?,chat,0,val
-what's your hair whip like,chat,0,train
-tbh i'm kinda stressed,chat,0,train
-brb getting snacks,chat,0,train
-tell me a story about Cackle Mountain,chat,0,train
-what's genie magic like,chat,0,train
-come on do that thing you do with your butt,butt_wiggle,1,val
-lowkey need a dance rn,dance,1,train
-What's your favorite food?,chat,0,train
-show me the wiggle for me,butt_wiggle,0,train
-what's Tinkerbat liike,chat,1,train
-who is the hypno baron,chat,1,test
-Who is Half-Genie Hero?,chat,0,train
-do something silly now,butt_wiggle,0,train
-Can you rhyme something for me?,chat,0,train
-do your genie dance :),dance,0,train
-Is Risky's Revenge a good guy?,chat,0,val
-belly dance please!,dance,0,train
-Do you like Nega-Shantae?,chat,0,train
-do a cute wiggle please,butt_wiggle,0,test
-I wanna know more about the half-genie guardian role,chat,0,train
-"Shantae, play the dance animation",dance,0,train
-Is Cackle Mountain a good guy tbh,chat,1,train
-Is the Seven Sirens a good guy?,chat,0,train
-give me some lore on Abner,chat,0,train
-how does Shantae and the Seven Sirens fit into the story?,chat,0,train
-how does Dagron fit into the story?,chat,0,train
-do your trademark move for me,butt_wiggle,0,train
-What do you think of magic dances?,chat,0,train
-Have you been to Half-Genie Hero?,chat,0,train
-Is your hair whip a good guy?,chat,0,train
-"hey Shantae, perform a dance",dance,0,val
-do the half-genie dance?,dance,0,train
-What's your favorite thing about the Seven Sirens?,chat,0,train
-bring out the wiggle!,butt_wiggle,0,train
-do the bellydance animation Shantae,dance,0,train
-i've been practicing my dance moves all week.,chat,1,train
-do a twirl and dance please,dance,0,train
-Do you like Risky's Revenge?,chat,0,train
+What do you think of the Squid Baron?,chat,0,train
+"um, no belly dancing, wiggle instead thanks",butt_wiggle,0,train
+"hey Shantae, put on a little show for me when you can",dance,0,train
+What's your move in chess if I open with e4?,chat,0,train
+ok so show me your best silly move,butt_wiggle,0,train
+"yo forget the butt wiggle, dance for me please",dance,0,test
+hit me with the sassy one,butt_wiggle,0,val
+"ok but seriously, sunshine seaside",chat,1,train
 sooo what happened to sky,chat,0,train
-slay queen do ur dance,dance,1,train
-dance the night away?,dance,0,train
-gn shantae,chat,0,train
-"hey shantae, could you do a little wiggle",butt_wiggle,1,test
-can you shake your booty?,butt_wiggle,0,train
-ok wiggle that tail,butt_wiggle,0,train
-"go on, wiggle please",butt_wiggle,0,train
-Which game has Sunshine Seaside?,chat,0,test
-do a graceful dance for me,dance,0,train
-do teh butt wiggle,butt_wiggle,1,train
-"Shantae, wiggle it",butt_wiggle,0,val
-wiggle that tail Shantae,butt_wiggle,0,train
-Are you good at shaking things up?,chat,0,train
-wanna see u dance,dance,1,train
-"come on, do the bellydance animation",dance,0,train
-what's Rottytops like,chat,0,train
-give me some lore on the half-genie guardian role,chat,0,train
-no cap show me ur dance,dance,1,train
-"come on, show me your belly dancing",dance,0,train
-Shantae perform for me,dance,0,test
-hows ur day goin,chat,0,train
-what's Nega-Shantae liiike,chat,1,train
-Why does everyone talk about Mermaid Falls?,chat,0,train
-what happened with Cackle Mountain,chat,0,train
-Tell me about Scuttle Town.,chat,0,train
-do your funny move now,butt_wiggle,0,train
-"Shantae, do a performance",dance,0,train
-do a dance routine please fr,dance,1,train
-hey shantae lets have a dance,dance,1,test
-give me the classic wiggle now,butt_wiggle,0,train
-I wanna know more about the Techno Baron,chat,0,train
-Are you a real genie?,chat,0,train
-Remind me about Dagron,chat,0,train
-ok entertain me,dance,0,train
-tell me a story about Mermaid Falls,chat,0,train
-can you do your genie dance?,dance,0,train
-shake it now,butt_wiggle,0,train
-can you play da butt wiggle animation?,butt_wiggle,1,train
-I was thinking about Sky earlier.,chat,0,train
-Tell me about yuor hair whip.,chat,1,train
-how does Bolo fit into the story?,chat,0,val
-tbh idk what 2 do w my life,chat,1,train
-what was your hardest boss fight,chat,1,train
-no cap show me that wiggle,butt_wiggle,1,train
-tell me a story about Uncle Mimic,chat,0,train
-Can you explain the Seven Sirens to me?,chat,0,train
-tell me a story about Sequin Land,chat,0,train
-"hey Shantae, wiggle that tail",butt_wiggle,0,val
-activate wiggle mode now,butt_wiggle,0,train
-tell me a story about Sunshine Seaside,chat,0,train
-Shantae shake your bum,butt_wiggle,0,train
-could you do a little wiggle for me,butt_wiggle,0,train
-can you give me a performance?,dance,0,train
-Which game has Bolo?,chat,0,train
-I wanna know more about Sunshine Seaside,chat,0,train
-come on wiggle for me,butt_wiggle,1,train
-can you do the wiggle?,butt_wiggle,0,train
-"hey Shantae, do your signature wigglle",butt_wiggle,1,train
-hey wiggle it,butt_wiggle,0,train
-What do you think of the half-genie guardian role?,chat,0,train
-ok trigger butt wiggle,butt_wiggle,0,train
-Tell me about Risky Revolution.,chat,0,train
-I wanna know more about the Pirate's Cuuurse,chat,1,train
-Do you get lonely on my desktop?,chat,0,train
-i wanna see you wiggle for meee,butt_wiggle,1,train
-"come on, i'm bored, do something fun",dance,0,train
-hey put on a show,dance,0,train
-How would I code a wiggle animation tbh,chat,1,train
-Can you explain the Tinkerbats to me?,chat,0,train
-Which game has Dagron?,chat,0,train
-"hey Shantae, i want to see you dance",dance,0,train
-can you do a twirl and dance?,dance,0,train
-How did you first meet Mermaid Falls?,chat,0,train
-Did you watch the show last night?,chat,0,train
-whats half-genie hero like,chat,1,test
-shake your booty Shantae,butt_wiggle,0,train
-do the wiggle now,butt_wiggle,0,test
-"i'm bored, entertain me Shantae",dance,0,val
-What's the deal with the Pirate's Curse?,chat,0,test
-how does Abner fit into the story?,chat,0,train
-do a performance,dance,0,train
-"Shantae, do a bum shake",butt_wiggle,0,train
-Who's your best friend?,chat,0,train
-How did you first meet Dagron?,chat,0,test
-"hey Shantae, do the half-genie dance",dance,0,train
-yo shantae dance fr,dance,1,train
-Do you like pizza?,chat,0,train
-"hey Shantae, wiggle it",butt_wiggle,0,train
-start the dance now,dance,0,train
-"Shantae, dance",dance,0,train
-do your transformation dance pls,dance,1,val
-ok do some belly dancing,dance,0,train
-entertain me a bit!,dance,0,train
-u ever get bored on my desktop,chat,0,val
-Why does everyone talk about Shantae and the Seven Sirens?,chat,0,train
-let me see the famous wiggle for me,butt_wiggle,0,val
-Remind me about the Seven Sirens,chat,0,train
-dance time?,dance,0,train
-give me some lore on the Techno Baron,chat,0,train
-"hey Shantae, play the butt wiggle animation",butt_wiggle,0,train
-ok do your belly dance,dance,0,train
-Which transformation is yor favorite?,chat,1,test
-"hey Shantae, do the move everyone loves",butt_wiggle,0,train
-What's your favorite thing about genie magic?,chat,0,train
-Tell me about the Hypno Baron.,chat,0,train
-hey show some sass,butt_wiggle,0,train
-Can you explain Shantae and the Seven Sirens to me?,chat,0,train
-Can you recommend something to entertain my kids?,chat,0,train
-can you entertain me for a sec?,dance,0,val
-what happened with the Techno Baron,chat,0,val
-can you put on a show?,dance,0,train
-what happened with the Tinkerbats,chat,0,train
-do a performance Shantae,dance,0,test
-Shantae do something silly,butt_wiggle,0,train
-do your dance,dance,0,train
-hey show me some moves,dance,0,train
-do a little twirl Shantae,dance,0,train
-do a belly dance for me,dance,0,train
-"hey Shantae, make me laugh with a wiggle",butt_wiggle,0,test
-"hey Shantae, let's get wiggly",butt_wiggle,0,train
-let's see some moves please pleaseee,dance,1,train
-Who is Risky's Revenge?,chat,0,train
-play the butt wiggle animation now,butt_wiggle,0,train
-What do you think of Mermaid Falls?,chat,0,train
-put on a show for me,dance,0,train
-hey let's have a dance,dance,0,train
-put on a performance for me now,dance,0,train
-tell me a story about Tinkerbat,chat,0,train
-work the wiggle Shaaantae,butt_wiggle,1,test
-I need motivatioon to study.,chat,1,train
-Which game has Risky's Revenge?,chat,0,train
-butt wiggel now for me,butt_wiggle,1,test
-can you show me some moves?,dance,0,train
-can you start the dance?,dance,0,train
-"hey Shantae, put on a little show",dance,0,train
-can you play the dance animation?,dance,0,train
-Tell me about Risky Boots.,chat,0,train
-wiggle pls im begging,butt_wiggle,1,train
-How did you learn to dace?,chat,1,train
-show me the butt wiggle please,butt_wiggle,0,train
-"come on, let's get wiggly",butt_wiggle,0,test
-ok wiggle time,butt_wiggle,0,train
-what happened with the Ammo Baron,chat,0,test
-fr fr,chat,0,train
-How did you first meet magic dances?,chat,0,train
-how does the hypno baron fit into the story?,chat,1,train
-be cheeky for me?,butt_wiggle,0,train
-show me ur moves bestie,dance,1,train
-trigger butt wiggle now,butt_wiggle,0,train
-let me see the famous wiggle!,butt_wiggle,0,train
-What's the deal with the Squid Baron?,chat,0,train
-Remind me about Mermaid Falls,chat,0,train
-Do you and Sky still hang out?,chat,0,train
-Remind me about Cackle Mountain,chat,0,train
-can you dance Shantae,dance,0,train
-do the bum wiggle,butt_wiggle,0,train
-ok let's dance,dance,0,test
-Remind me about the Pirate Queen's Quest,chat,0,test
-Shantae shake your rump,butt_wiggle,0,train
-show me some moves Shantae,dance,0,train
-Can you remind me to drink water?,chat,0,test
-tell me a story about risky boots,chat,1,train
-dance like a genie now,dance,0,train
-"come on, dance like a geeenie",dance,1,train
-I was thinking about Mermaid Falls earlier.,chat,0,train
-Have you ever lost a fight?,chat,0,train
-How did you learn magic?,chat,0,train
-"Shantae, i need some entertainment",dance,0,train
-Who is Sequin Land?,chat,0,train
-have you been to the pirates curse,chat,1,train
-work the wiggle,butt_wiggle,0,train
-Is Mermaid Falls a good guy?,chat,0,val
-do the bellydance animation now,dance,0,val
-Why does everyone talk about the Seven Sirens?,chat,0,train
-What do you think of Mayor Scuttlebutt?,chat,0,train
-Shantae dance party,dance,0,train
-give me some lore on the Pirate Master,chat,0,train
-I wanna know more about the Seven Sirens,chat,0,val
-What's the deal with Sequin Land?,chat,0,train
-Shantae put on a performance for me,dance,0,train
-hey show me the dance from the games,dance,0,val
-do you like dagron,chat,1,train
-Tell me about your latest adventure.,chat,0,train
-Which game has genie magic xd,chat,1,train
-butt wiggle now now,butt_wiggle,0,train
-I wanna know more about Bolo,chat,0,val
-show me the butt wiggle 4 me,butt_wiggle,1,val
-What's the deal with Sky?,chat,0,train
-make me smile with a dance Shaaantae,dance,1,val
-Can you explain Risky's Revenge to me?,chat,0,train
-Shantae give me the classic wiggle,butt_wiggle,0,train
-show me your belly dancing!,dance,0,test
-"i'm bored, do something fun now",dance,0,train
-"Shantae, go on, wiggle xd",butt_wiggle,1,train
-Can you explain the Lighthouse to me?,chat,0,train
-dazzle me please,dance,0,train
-do your belly dance,dance,0,train
-Tell me about Shantae and the Seven Sirens.,chat,0,test
-do the bellydance animation please lol,dance,1,train
-"Shantae, grroove for me",dance,1,val
-"come on, bring out the wiggle",butt_wiggle,0,train
-belly dnace for me,dance,1,train
-dance for me please,dance,0,val
-Can you explain Mermaid Falls to me?,chat,0,train
-what happened with Tinkerbat,chat,0,train
-sway for me!,dance,0,train
-tell me a story about the Lighthouse,chat,0,train
-"Shantae, do the wiggle",butt_wiggle,0,val
-give me some lore on cackle mountain,chat,1,train
-Have you been to Nega-Shantae?,chat,0,train
-do ur butt wiggle shantae,butt_wiggle,1,train
-boootay shake pls,butt_wiggle,1,train
-Can you explain Cackle Mountain to me?,chat,0,train
-"hey shantae, shimmy shimmy",butt_wiggle,1,val
-"hey Shantae, entertain me a bit",dance,0,train
-which game has your hair whip?,chat,1,train
-"i'm bored, entertain me please",dance,0,train
-"come on, give me a wiiiggle",butt_wiggle,1,test
-show me your dance now,dance,0,train
-put on a performance for me Shantae,dance,0,val
-dance or smth,dance,1,train
-ok do the bellydance animation,dance,0,train
-do your genie dance please,dance,0,train
-I was thinking about the Pirate Master earlier.,chat,0,val
-hey do a performance,dance,0,train
+what's the story behind Half-Genie Hero,chat,0,train
+"alright, why is Risky Boots obsessed with the Dark Magic?",chat,0,val
+what's sky like,chat,1,train
+"um, wiggle it for the camera",butt_wiggle,0,train
+ok so hit me with the sassy one please,butt_wiggle,0,val
+"hey, let's see the bellydance pls fr",dance,1,test
+do a twirl,dance,0,train
+do thhat famoous wiggle,butt_wiggle,1,train
+"hey Shantae, what music plays when you dance in the gaames?",chat,1,train
+yo give me a routine lol,dance,0,train
+yo what's the best way to learn to dance?,chat,0,test
+"the funny move, now",butt_wiggle,0,train
+"hey, give me the sassy one",butt_wiggle,0,val
+no cap what's ur favorite game,chat,0,train
+the stage is yours,dance,0,train
+"when you get a sec, I wanna know more about the Pirate Master lol",chat,0,train
+"when you get a sec, I just got to the Magic Seals in my playthrough, any tips?",chat,0,train
+"alright, lighten the mood with your signature move please",butt_wiggle,0,train
+"okay, dance like nobody's watching",dance,0,test
+I can't stop thinking about Risky's Revenge.,chat,0,train
+what's the squid baron like,chat,1,train
+ok so show me your belly dancing pls,dance,0,test
+Are you happy?,chat,0,test
+how do i learn guitar lol,chat,1,train
+"alright, what's the Seven Sirens' deal?",chat,0,val
+"I'm bored, what should I read next?",chat,0,train
+"hmm, back it up if you don't mind",butt_wiggle,0,train
+"hmm, not the belly dance, the other one, the wiggle if you don't mind",butt_wiggle,0,train
+yo do a graceful dance pls!!,dance,1,train
+"um, let's see the cheeky one thanks",butt_wiggle,0,train
+"ok so be a little naughty, in a funny way",butt_wiggle,0,train
+"Shantae, what's your relationship with Risey like?",chat,1,train
+do your buot thing pls,butt_wiggle,1,train
+pull out the funny one,butt_wiggle,0,test
+do the fan favorite,butt_wiggle,0,train
+yo please dance now,dance,0,train
+give me some lore on Sequin Land!!,chat,1,train
+Is there any wiggle room on the price?,chat,0,train
+"I just got to Sequin Land in my playthrough, any tips?",chat,0,train
+cheer me up with a performance,dance,0,train
+"when you get a sec, ok but soriously, Squiddy",chat,1,train
+"Shantae, have you ever lost a fight?",chat,0,train
+"when you get a sec, do the sassy one pls",butt_wiggle,0,val
+"hey Shantae, is your ponytail heavy?",chat,0,train
+"hey Shantae, the Hypno Baron: love it or hate it?",chat,0,test
+yo how do you transform into a monkey? shantae,chat,1,train
+hit me with the cute one,butt_wiggle,0,train
+"hey Shantae, how did you first run into Nega-Shantae lol",chat,0,train
+yo be playful for a sec pls,butt_wiggle,0,train
 Which game has the best dance sequences?,chat,0,train
-What's your favorite season?,chat,0,train
-Remind me about Sequin Land,chat,0,train
-What's your favorite thing about Sequin Land xd,chat,1,train
-do the bum wiggle Shantae,butt_wiggle,0,train
-Have you been to the Pirate Queeen's Quest?,chat,1,train
-do a twirl and dance Shantae,dance,0,train
-put on a little show for me,dance,0,train
-hey show me the butt wiggle,butt_wiggle,0,train
-What's your favorite place to visit?,chat,0,train
-hey give me some sass,butt_wiggle,0,train
-"shantae, show me the dance from the games",dance,1,train
-Have you bene to Rottytops?,chat,1,train
-Have you been to the Ammo Baron?,chat,0,test
-How do you transform into a monkey?,chat,0,train
-hey show me a routine,dance,0,train
-ok shake that tail,butt_wiggle,0,train
-"Shantae, could you do a little wiggle",butt_wiggle,0,train
-hey bring out the wiggle,butt_wiggle,0,train
-Help me write an email to my boss.,chat,0,train
-bruh im so tired,chat,0,train
-perform a dance :),dance,0,train
-wiggel time,butt_wiggle,1,train
-"Shantae, trigger butt wiggle",butt_wiggle,0,train
-ok dance,dance,0,test
-can you wiggle Shantae,butt_wiggle,0,train
-"come on, perform for me",dance,0,train
-Can you explain magic dances to me?,chat,0,val
-trigger dance please,dance,0,train
-ok show me the wiggle,butt_wiggle,0,train
-can you do the shake?,butt_wiggle,0,train
-I was thinking about Risky's Revenge earlier.,chat,0,train
-Who is the Pirate Master?,chat,0,train
-Do you like the oceann?,chat,1,test
-hey do the butt wiggle,butt_wiggle,0,test
-give me some lore on the Pirate's Curse,chat,0,train
-Can you explain Half-Genie Hero to me?,chat,0,train
-"come on, work the wiggle",butt_wiggle,0,train
-how does Risky Revolution fit into the story?,chat,0,train
-what's Sequin Land like,chat,0,train
-What's a good name for a cat?,chat,0,val
-hey entertain me for a sec,dance,0,train
-What's your favorite thing about Sky?,chat,0,train
-Shantae i want to see you dance,dance,0,val
-"come on, i need some entertainment",dance,0,train
-Why does everyone talk about Uncle Mimic?,chat,0,train
-Do you like the Techno Baron?,chat,0,train
-put on a little show now,dance,0,train
-"Shantae, shake shake shake",butt_wiggle,0,train
-how did you first meet scuttle town?,chat,1,val
-How did you first meet the Pirate's Curse?,chat,0,val
-do your iconic move please,butt_wiggle,0,train
-How did you first meet Risky Boots?,chat,0,val
-"come on, do your funny move",butt_wiggle,0,train
-"come on, perform a dance",dance,0,train
-Is Risky Boots a good guy?,chat,0,train
-trigger butt wiggle!,butt_wiggle,0,val
-I wanna know more about Sky,chat,0,train
-Tell me a fun factt.,chat,1,val
-i want to see you dance?,dance,0,train
-ok amuse me,dance,0,train
-make me smile with a dance for me,dance,0,test
-What's the deal with Dagron?,chat,0,train
-slay do the butt wiggle,butt_wiggle,1,train
-do the dance of the half-genie now,dance,0,train
-Good morning!,chat,0,train
-give me a show please,dance,0,train
-dance 4 me pls,dance,1,train
-"Shantae, dance time",dance,0,val
-I wanna know more about the Ammo Baron,chat,0,train
-"hey Shantae, show some sass",butt_wiggle,0,train
-ok shake it,butt_wiggle,0,train
-which game has rottytops,chat,1,train
-show me what you've got!,dance,0,val
-give me the classic wiggle!,butt_wiggle,0,val
-Shantae do yuor funny move,butt_wiggle,1,train
-Tell me about magic dances.,chat,0,train
-do the cheeky wiggle for me,butt_wiggle,0,train
-"come on, shake your booty",butt_wiggle,0,train
-I was thinking about Sunshine Seaside earlier.,chat,0,train
-show me the wiggle,butt_wiggle,0,train
-Which Sahntae game should I start with?,chat,1,train
-Remind me about Nega-Shantae,chat,0,train
-hey work the wiggle,butt_wiggle,0,train
-do a little shimmy now,butt_wiggle,0,train
-"Shantae, do your iconic move",butt_wiggle,0,train
-do your funny move!,butt_wiggle,0,train
-show me some moves please,dance,0,train
-"hey Shantae, i wanna see you wiggle",butt_wiggle,0,train
-"come on, put on a show",dance,0,train
-wait what happened in scuttle town,chat,0,train
-do a bum shake for me,butt_wiggle,0,train
-shake shake shake now,butt_wiggle,0,val
-perform a dance for me,dance,0,train
-bestie do the bellydance,dance,1,train
-ok bring out the wiggle,butt_wiggle,0,train
-do that wiggle thing Shantae,butt_wiggle,0,val
-do da wiggle shantae,butt_wiggle,1,train
-What's your favorite thing about the Lighthouse?,chat,0,train
-gimme a show,dance,1,train
-Why does Rissky Boots keep stealing stuff?,chat,1,train
-surprise me with a wiggle pls,butt_wiggle,1,train
-Remind me about the Squid Baron,chat,0,train
-"come on, shake shake shake",butt_wiggle,0,train
-Can you explain Risky Revolution to me?,chat,0,train
-Do you like coffee?,chat,0,train
-what happened with Half-Genie Hero,chat,0,train
-ok do the wiggle,butt_wiggle,0,train
-show off that wiggle,butt_wiggle,0,train
-dance for me Shantae,dance,0,train
-Do you get tired after dancing so much?,chat,0,train
-i wanna see you wiggle,butt_wiggle,0,train
-can you work the wiggle?,butt_wiggle,0,train
-remind me about scuttle town,chat,1,train
-ok trigger dance,dance,0,train
-do your genie dance for me,dance,0,train
-Is the Pirate Queen's Quest a good guy?,chat,0,test
-ok play da dance animation,dance,1,test
-what are you thinking about?,chat,1,train
-"hey Shantae, your move, dancer",dance,0,train
-"Shantae, do your trademark move",butt_wiggle,0,train
-Remind me about Tinkerbat,chat,0,train
-"Shantae, bellydance for me",dance,0,train
-what happened with Risky Boots,chat,0,val
-what happened with Risky Revolution,chat,0,val
-What's your favorite thing about Mayor Scuttlebutt?,chat,0,test
-"I need a show to binge, any ideas?",chat,0,train
-let's see that belly dance now,dance,0,train
-yo shantae do the wiggle fr,butt_wiggle,1,val
-ok show me your dance,dance,0,train
-"your move, dancer please",dance,0,train
-ok start the dance,dance,0,train
-hey put on a little show,dance,0,train
-How do I make pancakes?,chat,0,train
-Can you explain the Techno Baron to me?,chat,0,test
-do the famous move!,butt_wiggle,0,train
-Can you explain Sky to me?,chat,0,train
-"Shantae, entertain me a bit",dance,0,train
-Can you explain the Hypno Baron to me?,chat,0,val
-sass it up Shantae,butt_wiggle,0,train
-how does the Pirate Master fit into the story?,chat,0,train
-belly dance please for meee,dance,1,train
-why does everyone talk about magic dances?,chat,1,train
-Is the Hypno Baron a good guy?,chat,0,train
-do your funny move please,butt_wiggle,0,train
-"Shantae, give me a wiggle",butt_wiggle,0,train
-"come on, show me what you've got",dance,0,train
-Do you lie the Seven Sirens?,chat,1,train
-work the wiggle please xd,butt_wiggle,1,train
-How did you first meet your hair whip?,chat,0,train
-Why does everyone talk about the Pirate Queen's Quest?,chat,0,train
-Shantae show me what you've got,dance,0,val
-shantae surprise me with a wiggle,butt_wiggle,1,train
-who is risky boots?,chat,1,val
-ok but who's ur bestie in the games,chat,0,train
-What's the deal with Sunshine Seaside?,chat,0,train
-hey do a belly dance,dance,0,train
-ok lets get wiggly,butt_wiggle,1,test
-Thank you so much.,chat,0,train
-What's the deal with genie magic?,chat,0,train
-what happened with the Pirate Queen's Quest,chat,0,train
-"come on, start the dance",dance,0,train
-How did you first meet Abner?,chat,0,test
-wiggle it Shantae,butt_wiggle,0,val
-"I love you, Shantae.",chat,0,val
-trigger butt wiggle for me,butt_wiggle,0,test
-shake your tush now rn,butt_wiggle,1,train
-How did you first meet Nega-Shantae?,chat,0,train
-idk what to eat tbh,chat,0,train
-What do you do when I'm not here?,chat,0,val
-can you wiggle for me?,butt_wiggle,0,test
-"Shantae, do your funy move",butt_wiggle,1,val
-Can you explain the Pirate's Curse to me?,chat,0,train
-"Shantae go on, wiggle",butt_wiggle,0,train
-hey entertain me,dance,0,val
-shake yor bum Shantae,butt_wiggle,1,test
-dance like a geeenie,dance,1,train
-Have you been to your hair whip?,chat,0,train
-What's the deal with Nega-Shantae?,chat,0,val
-shantea what do u think of pirates,chat,0,train
-shake it?,butt_wiggle,0,train
-"your move, dancer?",dance,0,train
-How do I get better at dancing?,chat,0,test
-get wiggly!,butt_wiggle,0,train
-let's dance :),dance,0,train
-let's have a dance now,dance,0,train
-shantae do a twirl and dance,dance,1,train
-wiggle wiggle wiggle,butt_wiggle,0,test
-belly dance pleeease,dance,1,val
-show me what you've got for me,dance,0,train
-wiggle your butt please,butt_wiggle,0,train
-can you wiggle wiggle wiggle?,butt_wiggle,0,train
-give me some lore on Nega-Shantae pls,chat,1,train
-dazzle me for me,dance,0,test
-shimmy shimmy!,butt_wiggle,0,val
-tel me a joke pls,chat,0,train
-i was thinking about the squid baron earlier,chat,1,train
-What should I eat for dinner?,chat,0,test
-Who is your hair whip?,chat,0,val
-what happened with Rottytops,chat,0,val
-"come on, do something silly",butt_wiggle,0,test
-make me smile with a dance pleeease,dance,1,train
-"hey Shantae, put on a show",dance,0,train
-hey show me the wiggle,butt_wiggle,0,train
-yo do ur wiggle thing,butt_wiggle,1,train
-tell me about the squid baron.,chat,1,val
-wiggle plzzz,butt_wiggle,1,val
-ok entertain me a bit,dance,0,train
-Shantae do the dance of the half-genie,dance,0,train
-I wanna know more about the Squid Baron,chat,0,train
-show me what you've got :) xd,dance,1,train
-Shantae bellydance for meee,dance,1,test
-Shantae do a dance roooutine,dance,1,train
-do the dance of the half-genie Shantae,dance,0,train
-Can you explain Sequin Land to me?,chat,0,train
-be cheeky for me please,butt_wiggle,0,train
-Why does everyone talk about Sequin Land?,chat,0,train
-shantae do something goofy,butt_wiggle,1,train
-lol that's so funny,chat,0,train
-work the wiggle for me,butt_wiggle,0,train
-Can you explain the Pirate Queen's Quest to me?,chat,0,val
-What's your favorite thing about Tinkerbat?,chat,0,test
-tell me a story about half-genie hero,chat,1,train
-wat r u up 2,chat,0,train
-"hey Shantae, do that wiggle thing",butt_wiggle,0,val
-Tell me about Sequin Land.,chat,0,train
-Have you been to genie magic?,chat,0,train
-"Shantae, show me the wiggle",butt_wiggle,0,train
-Who is Cackle Mountain?,chat,0,train
-do some belly dancing please,dance,0,val
-shantae show me your belly dancing,dance,1,train
-butt wiggle now shantae,butt_wiggle,1,val
-hey butt wiggle now,butt_wiggle,0,train
-do the famous move Shantae,butt_wiggle,0,train
-"hey Shantae, shake it",butt_wiggle,0,train
-"Shantae, do the famous move",butt_wiggle,0,train
-"come on, let's see that belly dance",dance,0,val
+Do you ever get embarrassed about your butt wiggle?,chat,0,train
+"okay, give me a little wiggle now",butt_wiggle,0,train
+"honestly, do the one from the memes",butt_wiggle,0,train
+"hey shantae, let's see your signature move",butt_wiggle,1,test
+See you tomorrow Shantae,chat,0,train
+do the wiggle again lol,butt_wiggle,0,val
+show me a routine,dance,0,train
+give me a lttle numbr,dance,1,train
+Perform a quick calculation: 47 plus 86.,chat,0,test
+"ok so a dance of fire and ice, that's how my novel opens lol",chat,0,train
+do something magical,dance,0,test
+"hmm, do that famous move lol",butt_wiggle,0,val
+"hey quick thing, who is sunshine seaside?",chat,1,test
+"hey Shantae, bestie i just got back from dance class",chat,0,test
+do a show,dance,0,train
+do the thing from the trailers,butt_wiggle,0,train
+"ok so shake hands or hug, which is more polite?",chat,0,val
+I can't stop thinking about the Hypno Baron.,chat,0,train
+"Shantae, give me something with a twirl now",dance,0,train
+Is the butt wiggle in every Shantae game?,chat,0,test
+How do I shake off bad habits?,chat,0,test
+bust out the wigle,butt_wiggle,1,train
+Cackle Mountain: love it or hate it?,chat,0,train
+put on a performance,dance,0,train
+I can't stop thinking about the Ammo Baron.,chat,0,train
+do the one thing everyone remembers you for,butt_wiggle,0,train
+"hey Shantae, get the party started lol",dance,0,train
+"hey Shantae, I love you, Shantae.",chat,0,train
+stop dancing and wiggle,butt_wiggle,0,train
+"so, do something to entertain me",dance,0,train
+"when you get a sec, wht's Roteytops like",chat,1,test
+do the cheeky one,butt_wiggle,0,train
+"I'm bored, what should I read next? Shantae",chat,0,train
+perform ur famous cheeky move,butt_wiggle,1,train
+give me the cute one,butt_wiggle,0,train
+"not the wiggle, the belly dance",dance,0,train
+"alright, what's Nega-hSantae like",chat,1,train
+"hey, it's showtime Shantae",dance,0,val
+"um, how do I make pancakes?",chat,0,train
+how did you first run into the Ammo Baron lol,chat,1,train
+"sorry to bug you but I'm leaving now, bye when you can",chat,0,train
+"hey quick thing, do a number Shantae",dance,0,train
+keep danicng,dance,1,train
+rump shake time,butt_wiggle,0,train
+"hmm, dazzle me lol",dance,0,train
+"hey quick thing, turn around and show me",butt_wiggle,0,train
+"okay, give me a numbre pls",dance,1,train
+let's see the funny one,butt_wiggle,0,test
+do your graceful routine,dance,0,test
+"hey, give me that famous move tbh",butt_wiggle,1,val
+What do you think of the Tinkerbats?,chat,0,train
+hey rear-end action please please,butt_wiggle,1,train
+hit me with the move everyone loves,butt_wiggle,0,train
+"Shantae, you ever think about Tuki?",chat,0,train
+"Shantae, find the rhythm and move now",dance,0,val
+"so, bring out your signature move when you can",butt_wiggle,0,test
+"honestly, let's see that wiggle thanks",butt_wiggle,0,train
+"alright, who came up with the wiggle animation for your sprite?",chat,0,train
+"um, perform a belly dance please",dance,0,train
+"hey, show me your talent lol",dance,0,train
+do a little number,dance,0,train
+Is your ponytail heavy?,chat,0,train
+hmm could you wiggle a bit,butt_wiggle,1,test
+give me your best silly move,butt_wiggle,0,train
+"honestly, let's see the one from the memes if you don't mind",butt_wiggle,0,train
+I had a rough day.,chat,0,train
+what's the story behind Squiddy,chat,0,train
+What's your relationship with Risky like?,chat,0,train
+yo perform your famous cheeky move now,butt_wiggle,0,train
+I wanna know more about Rottytops,chat,0,train
+"sorry to bug you but go on, show off now",butt_wiggle,0,train
+"don't dance, just do the butt wiggle",butt_wiggle,0,train
+"okay, give me your trademark move thanks",butt_wiggle,0,train
+tbh i'm kinda stressed,chat,0,train
+remind me who Tuki is,chat,0,train
+dazzle me,dance,0,train
+"hey Shantaee, perform some flowing moves",dance,1,val
+set the mood,dance,0,train
+"hey quick thing, show me your elegant moves lol",dance,0,train
+"I just got to Tinkerbat in my playthrough, any tips?",chat,0,test
+Who cme up with the wiggle animation for your sprita?,chat,1,train
+"so, what are you scared of? Shantae",chat,0,test
+do a cheeky little number,butt_wiggle,0,val
+"alright, make me laugh Shantae",butt_wiggle,0,test
+"hey Shantae, turn around and show me",butt_wiggle,0,train
+"I don't want the wiggle, I want a dance",dance,0,train
+pull out the cheeky one if you don't mind,butt_wiggle,0,train
+put on ur elegant moves,dance,1,train
+wiggle for me,butt_wiggle,0,train
+Show me how to tie a tie.,chat,0,train
+"Shantae, wiggle that tail thanks",butt_wiggle,0,test
+"honestly, give me your stage act",dance,0,train
+shimmy for me,butt_wiggle,0,train
+"hey Shantae, turn around for me Shantae",butt_wiggle,0,train
+wiggle harder,butt_wiggle,0,train
+give me your trademark move if you don't mind!!,butt_wiggle,1,train
+Mermaid Falls is my favorite part of the series,chat,0,train
+"hey, entertain me for a sec",dance,0,train
+how did you first run into the squid baron,chat,1,train
+"hmm, what's the history of belly dancing?",chat,0,train
+"alright, do your elegant moves",dance,0,train
+"alright, show me how a half-genie moves pls",dance,0,train
+"hey quick thing, hit me with the move everyone loves",butt_wiggle,0,train
+yo what does the elephant form do?,chat,0,train
+entertain me a bit lol,dance,0,val
+pull out the one from the memes,butt_wiggle,0,train
+do some flowing moves,dance,0,val
+Mermaid Falls: love it or hate it?,chat,0,test
+"hey quick thing, where did belly dance originate?",chat,0,train
+Who composed the Shantae soundtrack?,chat,0,train
+"Shantae, put on some flowing moves",dance,0,val
+how do i code a wiggle animation for a sprite,chat,1,train
+"alright, I'm bored, any good podcast ideas?",chat,0,train
+not a dance the wiggle,butt_wiggle,1,train
+"hey quick thing, do something magical when you can",dance,0,test
+"hey, what's youur opinion on pineapple on pizza?",chat,1,train
+I need some entertainment pls,dance,0,train
+"hey Shantae, how did you first run into Sky",chat,0,train
+"skip the wiggle, do the belly dance",dance,0,train
+show me some flowing moves,dance,0,val
+bring out the sassy one,butt_wiggle,0,val
+why does everyone keep mentioning the Seven Sirens?,chat,0,val
+give me a silly one,butt_wiggle,0,train
+let's see yor stage act if you don't mind,dance,1,train
+let's see the move everyone loves,butt_wiggle,0,train
+sorry to bug you but do a routine pls,dance,0,train
+remind me who the Seven Sirens is,chat,0,train
+ok so hit me with your iconic thing lol,butt_wiggle,0,train
+hiii shantae,chat,0,val
+"the usual, please",butt_wiggle,0,train
+I'm nervous about my performance review.,chat,0,train
+do the bum wiggle,butt_wiggle,0,train
+give me your best silly move if you don't mind,butt_wiggle,0,train
+"hey, I can't stop thinking about the Squid Baron.",chat,0,train
+"hey, I don't want the wiggle, I want a dance if you don't mind",dance,0,train
+"when you get a sec, do a performance",dance,0,train
+give me some lore on the Hypno Baron!!,chat,1,val
+"honestly, do the thing lol",butt_wiggle,0,train
+"hey quick thing, bellydance please",dance,0,train
+"alright, what do you think of the Squid Baron?",chat,0,train
+"honestly, why does everyone keep mentioning Sequin Land?",chat,0,val
+Give me three tips for saving money Shantae,chat,0,train
+Give me some advice about job interviews.,chat,0,train
+"when you get a sec, show me a routine when you can",dance,0,train
+perform your elegant moves,dance,0,train
+"hey quick thing, kepe wiggling please",butt_wiggle,1,val
+show off your skills,dance,0,train
+Epxlain recursion like I'm five.,chat,1,train
+"hey, do another wiggle",butt_wiggle,0,train
 Do you have any hobbies?,chat,0,train
-"Shantae, give me some saaass",butt_wiggle,1,train
-"come on, surprise me with a wiggle",butt_wiggle,0,val
-ily shantae,chat,0,train
-u should dance rn,dance,1,val
-can you dance something?,dance,0,train
-hey sway for me,dance,0,train
-"hey Shantae, butt wiggle now",butt_wiggle,0,train
-could you do a little wiggle please,butt_wiggle,0,train
-"Shantae, bust a move",dance,0,train
-do that thing you do with your butt,butt_wiggle,0,train
-How did you first meet Sequin Land?,chat,0,train
-Is Dagron a good guy?,chat,0,train
-what's Sky like,chat,0,train
-Shantae be cheeky for me,butt_wiggle,0,train
-bye bye,chat,0,val
-how does Sequin Land fit into the story?,chat,0,test
-let me see the famous wiggle please,butt_wiggle,0,train
-Who made you?,chat,0,train
-What do you think of Nega-Shantae?,chat,0,train
-let's see the booty wiggle,butt_wiggle,0,train
-wiggle it please,butt_wiggle,0,train
-How are you today?,chat,0,train
-heyyy,chat,0,train
-Can you explain Sunshine Seaside to me?,chat,0,train
-how r u feeling toooday,chat,1,test
-hey do the shake,butt_wiggle,0,train
-ok show me what you've got,dance,0,train
-Have you been to Cackle Mountain?,chat,0,train
-What's the best power-up in the games?,chat,0,train
-i ned some entertainment now,dance,1,val
-"come on, shake your tush",butt_wiggle,0,train
-do your iconic move?,butt_wiggle,0,train
-booty shake for me,butt_wiggle,0,train
-bellydance for me now,dance,0,train
-whats your favorite performance of all time,chat,1,val
-bellydance plz,dance,1,val
-Do you like being a hero?,chat,0,train
-wiggle wiggle wiggle please,butt_wiggle,0,train
-im going on vacation next week,chat,1,train
-Tell me about Mayor Scuttlebutt.,chat,0,train
-"hey Shantae, start the dance",dance,0,train
-how does uncle mimic fit into the story,chat,1,train
-Remind me about the Ammo Baron,chat,0,train
-hey do the famous move fr,butt_wiggle,1,train
-I wanna know more about the Hypno Baron,chat,0,train
-do your transformation dance,dance,0,train
-what's the Seven Sirens like,chat,0,train
-shhow me your dance,dance,1,train
-ok let's have a dance fr,dance,1,train
-Can you help me with my homework?,chat,0,train
-Is Bolo a good guy?,chat,0,train
-do your signature wiggle now,butt_wiggle,0,train
-"hey Shantae, hit me with the wiggle",butt_wiggle,0,train
-i was thinking about the lighthouse earlier,chat,1,train
-"hey Shantae, time to dance",dance,0,train
-I wanna know more about Risky Revoltuion,chat,1,train
-"come on, play the dance animation",dance,0,train
-Shantae make me smile with a dance,dance,0,train
-shake your rump for me,butt_wiggle,0,train
-dance party!,dance,0,train
-have you been to risky revolution,chat,1,train
+"Be honest, is my idea dumb?",chat,0,test
+"hmm, let's see that famous move please",butt_wiggle,0,val
+"hey, show me the fan favorite now",butt_wiggle,0,train
+"when you get a sec, do the thing with the veil and the jewelry when you can",dance,0,train
+omg shantae ur literally the best,chat,0,train
+"hey quick thing, let's see your elegant moves",dance,0,train
+"alright, set the mood",dance,0,train
+Who invented the waltz?,chat,0,val
+"I just got to the Ammo Baron in my playthrough, any tips?",chat,0,train
+yo what's the Seven Sirens like Shantae,chat,0,train
+bellydance please,dance,0,train
+"hey quick thing, let's see some moves if you don't mind",dance,0,train
+yo bring out the funny one pls,butt_wiggle,0,test
+ok so pull out the fan favorite,butt_wiggle,0,train
+"hey quick thing, do you ever get tired of fighting pirates?",chat,0,train
+Who is the Pirate Master?,chat,0,train
+Can you explain Wetman to me?,chat,0,train
+"when you get a sec, can you explain the Seven Sirens to me?",chat,0,train
+is Risky Boots on your side or not?,chat,0,val
+"hey Shantae, is Uncle Mimic on your side or not?",chat,0,train
+how do you stay so positive?,chat,1,train
+gm shantae,chat,0,val
+"hey, hiii shantae Shantae",chat,0,val
+the stage is yours now,dance,0,train
+do your trademark moveee,butt_wiggle,1,train
+"ok so the cheeky one, please thanks",butt_wiggle,0,train
+do a graceful dance if you don't mind,dance,0,train
+"so, let's see a show if you don't mind",dance,0,train
+show me something that'll crack me up,butt_wiggle,0,val
+"ok but seriously, Wetman",chat,0,train
+"so, I'm bored, tell me a riddle.",chat,0,train
+"Shantae, let's see the move everyone loves Shantae",butt_wiggle,0,train
+okay bellydance time now,dance,1,train
+sorry to bug you but do your graceful routine now,dance,0,test
+yo how did you first run into rottytops please,chat,1,train
+"ok but seriously, Tinkerbat",chat,0,train
+pull out your best silly move,butt_wiggle,0,val
+do that famous move,butt_wiggle,0,val
+sorry to bug you but do your stage act,dance,0,train
+"hey, who's your best friend?",chat,0,train
+show me your stage act,dance,0,train
+"hey quick thing, go on, make my day wiith your signature thing when you can",butt_wiggle,1,test
+lol my little bro keeps wiggling in his chair,chat,0,train
+sorry to bug you but do you think Risky will ever be good? Shantae,chat,0,train
+Explain how photosynthesis works.!!,chat,1,train
+get your groove on thanks,dance,0,train
+"when you get a sec, what time is it?",chat,0,train
+show me what you've got,dance,0,train
+give me some lore on Nega-Shantae,chat,0,val
+"I just got to Bolo in my playthrough, any tips?",chat,0,train
+show me your elegant moves,dance,0,train
+The jello wiggles when I touch it.,chat,0,train
+"alright, let's see your best sway",dance,0,train
+remind me who Abner is,chat,0,train
+"ok but seriously, the Techno Baron",chat,0,train
+"honestly, wiggle that tail now!!",butt_wiggle,1,test
+"um, hru",chat,0,train
+do the shimmy,butt_wiggle,0,val
+"yo I just got to the Seven Sirens in my playthrough, any tips?",chat,0,train
+Quiz me on geography.,chat,0,train
+Do you liike the ocean?,chat,1,train
+"um, entertain me with something silly lol",butt_wiggle,0,train
+"um, give me a half-genie routine",dance,0,train
+Half-Genie Hero is my favorite part of the series,chat,0,test
+do a graceful dance,dance,0,train
+show me your dance moves,dance,0,test
+What should I wear to a party?,chat,0,val
+I demand a wiggle,butt_wiggle,0,train
+what's your favorite color?,chat,1,train
+sorry to bug you but bring out that famous move,butt_wiggle,0,val
+give me the fan favorite Shantae,butt_wiggle,0,train
+"honestly, stop dancing and wiggle pls",butt_wiggle,0,train
+"hmm, do a twirl",dance,0,train
+alright the funny move now shantae,butt_wiggle,1,train
+give me a belly dance,dance,0,train
+"hey shantae, give me a dance when you can",dance,1,test
+do the wiggle again,butt_wiggle,0,val
+how r u feeliig toduy,chat,1,train
+show me your belly dancing,dance,0,test
+what's Sunshine Seaside like,chat,0,train
+"the cheeky one, please",butt_wiggle,0,train
+show me a half-genie routine,dance,0,train
+how about a wiggle?,butt_wiggle,0,train
+"hey, why does mayor scuttlebutt panic so much?",chat,1,train
+"hey Shantae, who is the Pirate's Curse?",chat,0,train
+sorry to bug you but heyyy,chat,0,test
+ok so I'm going on vacation next week when you can,chat,0,train
+"hey Shantae, let's see the cute one",butt_wiggle,0,train
+"hey Shantae, cancel the dance, wiggle please",butt_wiggle,0,train
+ok so omg shantae ur literally the best thanks tbh,chat,1,train
+shwo me your best silly move Shantae,butt_wiggle,1,train
+why does everyone keep mentioning uncle mimic?,chat,1,train
+"um, do the fan favorite",butt_wiggle,0,train
+I can't stop thinking about the Squid Baron.,chat,0,train
+"um, does risky boots ever dance?",chat,1,train
+"so, do what you're best known for thanks",butt_wiggle,0,train
+ngl risky boots is lowkey the best villain,chat,0,train
+"okay, give me some flowing moves now",dance,0,val
+tbh idk what to do w my life lol,chat,0,train
+"honestly, I can't stop thinking about the Magic Seals thanks",chat,0,train
+"alright, booty wiggle when you can",butt_wiggle,0,train
+"hey quick thing, wiggle it for the camera when you can",butt_wiggle,0,train
+"okay, mermaid Falls is my favorite part of the series",chat,0,train
+Dagron: love it or htae it?,chat,1,val
+"alright, give me some lore on Sequin Land",chat,0,train
+"ok but seriousl, Risky's Revenge",chat,1,train
+"hey Shantae, pull out the one from the memes please",butt_wiggle,0,train
+"shantae, gimme your iconic thing",butt_wiggle,1,train
+"when you get a sec, good night if you don't mind",chat,0,train
+show some attitude,butt_wiggle,0,train
+"honestly, strike a silly pose now",butt_wiggle,0,train
+Who is the Squid Baron? lol,chat,0,val
+give me some graceful moves,dance,0,train
+"um, do some graceful moves please",dance,0,train
 What's 12 times 12?,chat,0,train
-amuse me please,dance,0,train
+do another wiggle,butt_wiggle,0,train
+I'm taking a dance class this fall.,chat,0,train
+"Shantae, do you believe in ghosts?",chat,0,train
+"um, do the wiggle you're famous for",butt_wiggle,0,train
+"ok so not the belly dance, the other one, the wiggle if you don't mind",butt_wiggle,0,train
+wait what happened in scuttle town now,chat,0,train
+"honestly, show me a show lol",dance,0,train
+show me the sassy one,butt_wiggle,0,val
+sorry to bug you but give me some entertainment pls,dance,0,train
+let's see you move,dance,0,train
+do your best silly move,butt_wiggle,0,train
+"ok but seriously, Bolo",chat,0,train
+I wanna know more about the Pirate Master,chat,0,train
+"honestly, do the thing from the loading screen shantae",butt_wiggle,1,train
+Give me a pep talk.!!,chat,1,train
+"hmm, make it silly now",butt_wiggle,0,train
+is Wetman on your side or not?,chat,0,train
+do a half-genie routine,dance,0,train
+"alright, give me your signature move now!!",butt_wiggle,1,test
+"honestly, dance the night away now",dance,0,val
+sorry to bug you but let's dance please,dance,0,train
+the move from Half-Genie Hero,butt_wiggle,0,train
+show me some graceful moves thanks,dance,0,train
+"go on, show off",butt_wiggle,0,train
+"hey quick thing, cackle Mountain: love it or hate it? Shantae",chat,0,train
+um strike a silly pose thanks,butt_wiggle,1,train
+"okay, do the move the fans love now",butt_wiggle,0,train
+Risky Boots is my favorite part of the series,chat,0,test
+shake it like you meean it thanks,butt_wiggle,1,train
+"hey, tell me about rottytops.",chat,1,train
+you know the one,butt_wiggle,0,train
+"hey quick thing, I just got to Tinkerbat in my playthrough, any tips?",chat,0,test
+gimme a routine,dance,1,train
+"honestly, do something beautiful",dance,0,train
+What's the sped of light?,chat,1,train
+yo bring out that famous move thanks,butt_wiggle,0,val
+do a performance if you don't mind,dance,0,train
+alright give me some advice about job interviews pls,chat,1,train
+ok so I want a show now,dance,0,train
+Who is the Squid Baron?,chat,0,val
+"honestly, how did you first run into Risky's Revenge when you can",chat,0,train
+hit me with the move everyone loves thanks,butt_wiggle,0,train
+"yo ok but seriously, Nega-Shantae Shantae",chat,0,train
+Who is Tinkereat?,chat,1,train
+"hey Shantae, be sassy thanks!!",butt_wiggle,1,train
+sorry to bug you but do the meme,butt_wiggle,0,train
+show me the move everyone loves,butt_wiggle,0,train
+Do you know any good riddles?,chat,0,val
+"wiggle, not dance",butt_wiggle,0,train
+"hmm, can you describe your butt wiggle animation in words?",chat,0,test
+"um, do the one thing everyone remembers you for!!",butt_wiggle,1,train
+lets' see that wiggle,butt_wiggle,1,train
+pull out your best silly move if you don't mind,butt_wiggle,0,val
+hit me with the one from the memes,butt_wiggle,0,train
+"alright, can you entertain the idea that I might be wrong?",chat,0,train
+do a performance,dance,0,train
+dance like onnly a half-genie can,dance,1,val
+"Shantae, less dancing, more wiggling",butt_wiggle,0,train
+"hey quick thing, thanks if u don't mind",chat,1,train
+what's da best power-up in the games?,chat,1,train
+Turn the volume down.,chat,0,train
+put on a little show for me,dance,0,train
+"so, show me your cheeky side",butt_wiggle,0,train
+Can you describe your butt wiggle animation in words?,chat,0,test
+"hey Shantae, let's see a performance",dance,0,train
+dance some more,dance,0,train
+give me some lore on squiddy,chat,1,test
+"okay, belly dance routine please",dance,0,train
+"I just got to the Techno Baron in my playthrough, any tips?",chat,0,train
+i want to watch u belly dance,dance,1,val
+remind me who Sky is,chat,0,train
+do a liatle cheeky dance move pls,butt_wiggle,1,train
+"hey Shantae, wyd rn thanks",chat,0,train
+ok so perform a quick calculation: 47 plus 86.,chat,0,test
+I wanna know more about Wetman,chat,0,train
+do the move everyone loves if you don't mind,butt_wiggle,0,train
+Do you like coffee?,chat,0,train
+"okay, is Squiddy on your side or not?",chat,0,train
+ok so what's bolo up to these days?,chat,1,test
+How do I make my room look nicer?!!,chat,1,train
+ok so remind me to drink water.,chat,0,train
+yo do a performance,dance,0,train
+entertain me a bit thanks,dance,0,val
+"hmm, what's the story behind Squiddy lol",chat,0,train
+dance for five seconds!!,dance,1,train
+"hey quick thing, wiggle harder when you can",butt_wiggle,0,train
+ok but who's ur bestie in the games,chat,0,train
+"when you get a sec, I'm feeling kinda sad today.",chat,0,train
+so could you dance for us,dance,1,train
+Let's play a word game.,chat,0,train
+"alright, tell me about Sequin Land.",chat,0,train
+"don't wiggla, just dance",dance,1,train
+"go ahead, be cheeky",butt_wiggle,0,train
+ok so do your iconic thing now!!,butt_wiggle,1,train
+do a flowing move,dance,0,train
+hit me with the funny one,butt_wiggle,0,test
+bro the dance scene in that anime was fire,chat,0,train
+What's the difference between a virus and a bacterium?,chat,0,val
+i cant believe risky did that lol,chat,0,train
+bring out the cute one,butt_wiggle,0,train
+lowkey bored but idk what i want Shantae,chat,0,train
+"hey, I want a show",dance,0,train
+Wanna chat for a bit?,chat,0,train
+How long is your hair?,chat,0,test
+"hey quick thing, you know the one pls",butt_wiggle,0,train
+"hmm, what's your move in chss if I open with e4?",chat,1,train
+"alright, show me your trademark move now",butt_wiggle,0,train
+you know what I want,butt_wiggle,0,train
+you ever think about the Pirate's Curse?,chat,0,train
+Tuki: love it or hate it?,chat,0,train
+let's see that famous moue,butt_wiggle,1,val
+work it if you dan't mind,butt_wiggle,1,train
+"when you get a sec, do you get lonely on my desktop? lol",chat,0,train
+ok so perform some graceful moves when you can,dance,0,train
+"Shante, briing out the sassy one",butt_wiggle,1,val
+"hmm, I can't stop thinking about the Ammo Baron.",chat,0,train
+"hey, do your famous move",butt_wiggle,0,train
+surprise me with something cheeky thanks,butt_wiggle,0,test
+"hmm, recommend me a good movie if you don't mind",chat,0,train
+"hey Shantae, rear-end action please when you can",butt_wiggle,0,train
+"honestly, bring the sass, Shantae",butt_wiggle,0,train
+what's the Seven Sirens like,chat,0,train
+"hey, do another dance",dance,0,train
+"honestly, be a little naughty, in a funny way thanks",butt_wiggle,0,train
+"so, why is belly dancing so popular in Egypt?",chat,0,train
+"okay, show me your best moves lol",dance,0,train
+I can't stop thinking about Dagron.,chat,0,train
+let's see the fan favorite,butt_wiggle,0,train
+turn around for me,butt_wiggle,0,train
+get the party started,dance,0,train
+yo what do you think of dagron?,chat,1,train
+Can you explain Mayor Scuttlebutt to me?,chat,0,train
+idk what to eat tbh Shantae,chat,0,test
+wat can u do?,chat,1,train
+"I just got to Scuttle Town in my playthrough, any tips?",chat,0,train
+"alright, do a little jig",dance,0,train
+Can you explain Tuki to me?,chat,0,train
+"hey quick thing, half-genie hero is my favorite part of the series",chat,1,test
+do your genie thing,dance,0,val
+How do I fix a flat tire?,chat,0,train
+hit me with the cheeky one Shantae,butt_wiggle,0,train
+pll out your bset silly move,butt_wiggle,1,train
+dance like nobody's watching lol,dance,0,test
+"i don't want a belly dance, i want the wiggle",butt_wiggle,1,train
+btut wiggle,butt_wiggle,1,train
+"ok so I just got to Wetman in my playthrough, any tips?",chat,0,train
+"Shantae, would you rather fight a giant crab or a giant squid?",chat,0,train
+when you get a sec give me a belly dance,dance,1,train
+"um, bring out da wiggle",butt_wiggle,1,train
+gtg ttyl,chat,0,train
+What's the difference between Risky's Revenge and Pirate's Curse?,chat,0,train
+sorry to bug you but pull out the fan favorite pls,butt_wiggle,0,train
+"oay, put on a performance for the crowd",dance,1,train
+how did you first run into Risky Boots,chat,0,train
+"hey Shantae, pull out that famous move if you don't mind",butt_wiggle,0,val
+yo the Dark Magic is my favorite part of the series please,chat,0,train
+idk what to eat tbh,chat,0,test
+"hey Shantae, ok but who's ur bestie in the games thanks",chat,0,train
+do the half-genie dance thanks,dance,0,train
+"when you get a sec, why do you wear that outfit?",chat,0,train
+"hey, tell me about Tuki pls",chat,0,val
+sorry to bug you but do the thing from the loading screen now,butt_wiggle,0,train
+What does the elephant form do?,chat,0,train
+Do the math on a 15 percent tip for 64 dollars.,chat,0,train
+"when you get a sec, put on a routine now",dance,0,train
+yo put on your best sway,dance,0,train
+Show me how recursion works now,chat,0,train
+sorry to bug you but who is Mayor Scuttlebutt?,chat,0,train
+ok so how do you stay so positive?,chat,0,train
+dance a little pls,dance,0,train
+ok so help me write an email to my boss.,chat,0,val
+Can you explain the Seven Sirens to me?,chat,0,train
+"alright, skip the wiggle, do the belly dance",dance,0,train
+ok so sow me the cute one please,butt_wiggle,1,train
+dance for five seconds Shantae,dance,0,train
+wyd rn,chat,0,train
+yo give me that famous move thanks,butt_wiggle,0,val
+put on some flowing moves,dance,0,val
+sorry to bug you but who is the Seven Sirens?,chat,0,train
+Show me how recursion works.,chat,0,train
+Do you ever get bored?,chat,0,train
+"hmm, set a timer for ten minutes lol",chat,0,train
+"honestly, no wiggle, dance instead",dance,0,train
+Who is Rottytops?,chat,0,train
+"honestly, show some attitude",butt_wiggle,0,train
+i want a show,dance,1,train
+dance until I say stop,dance,0,train
+"honestly, do an elegant little routine",dance,0,train
+yo do something graceful,dance,0,train
+"hey Shantae, do your genie thing",dance,0,val
+"hey Shantae, any chance of a wiggle?",butt_wiggle,0,test
+trigger the belly dance,dance,0,train
+"okay, show me your elegant moves!!",dance,1,train
+What are you thinking abaut?,chat,1,train
+"honestly, let's see your best sway pleaseee",dance,1,train
+sorry to bug you but I got a promotion at work!,chat,0,val
+bring the rhythm,dance,0,train
+do your signature move now ngl,butt_wiggle,1,test
+show me what u can do.,chat,1,train
+OK SO TURN AROUND FOR ME LOL,butt_wiggle,1,train
+"hey, write a Python function to reverse a string fr",chat,1,test
+okay dazzle me thanks,dance,1,train
+"hey quick thing, put on a half-genie routine",dance,0,train
+bring out the wiggle,butt_wiggle,0,train
+Why does my dog wiggle his butt when I come home?,chat,0,train
+make the room lively,dance,0,val
+"My phone keeps shaking, is that normal?",chat,0,val
+do your signature move,butt_wiggle,0,test
+"when you get a sec, dance like only a half-genie can",dance,0,val
+put on a performance for the crowd if you don't mind,dance,0,train
+the classic mooe,butt_wiggle,1,train
+Dance dance revolution is so much fun.,chat,0,train
+wait is rottytops actually a zombie,chat,0,val
+sorry to bug you but bring out the move everyone loves,butt_wiggle,0,train
+tbh the wiggle is peak shantae,chat,0,val
+hows ur day goin,chat,0,train
+sorry to bug you but show the chat your dance thanks,dance,0,val
+who built the lighthouse in scuttle town,chat,1,test
+Turn the volume down please,chat,0,train
+"okayy, do your genie thing",dance,1,val
+hmm your dance now now,dance,1,train
+"Shantae, dance again",dance,0,train
+"so, show me a number",dance,0,train
+bruh im so tired pls,chat,0,train
+give me that famous move,butt_wiggle,0,val
+rear-end action please,butt_wiggle,0,train
+"um, give that tush a shake pls",butt_wiggle,0,train
+perform a number,dance,0,train
+sorry to bug you but put on a show,dance,0,train
+wiggle a little faster,butt_wiggle,0,train
+"hey, my tooth is wiggling, should I see a dentist?",chat,0,test
+perform for me,dance,0,train
+any chance of a wiggle?,butt_wiggle,0,test
+what's the Pirate Master like,chat,0,train
+"hey Shantae, the usual, please",butt_wiggle,0,train
+be playful for a sec,butt_wiggle,0,train
+sorry to bug you but do a half-genie routine if you don't mind,dance,0,train
+Tell me about Bolo.,chat,0,train
+do the dance from the games lol,dance,0,train
+give me your iconic thing,butt_wiggle,0,train
+"when you get a sec, pull out your iconic thing if you don't mind",butt_wiggle,0,train
+"shantae, do the wiggle again pls",butt_wiggle,1,val
+give me a performance pls,dance,0,train
+"My tooth is wiggling, should I see a dentist?",chat,0,test
+Tell me about the Magic Seals.,chat,0,train
+dance on command,dance,0,train
+How did Shantae and the Seven Sirens end?,chat,0,train
+"okay, the usual, please",butt_wiggle,0,train
+perform your best sway,dance,0,train
+Show me what you can do.,chat,0,train
+"um, get the party started now",dance,0,train
+"hmm, do sometthing choeky",butt_wiggle,1,train
+ok so is Mayor Scuttlebutt on your side or not?!!,chat,1,train
+Plan a three-day trip to Kyoto.,chat,0,train
+"ok but seriously, Half-Genie Hero",chat,0,train
+"hey, show me the cute one",butt_wiggle,0,train
+set the mood please,dance,0,train
+"ok so go on, show off if you don't mind",butt_wiggle,0,train
+Do you like coffee lmao,chat,1,train
+wiggle it for the camera,butt_wiggle,0,train
+tbh idk what to do w my life tbh,chat,1,train
+Bolo: love it or hate it?,chat,0,train
+wyd,chat,0,train
+"so, do a performance if you don't mind",dance,0,train
+"okay, bring out the funny one",butt_wiggle,0,test
+"i just gotta wetman in my playthrough, any tips?",chat,1,train
+"um, play the wiggle animation",butt_wiggle,0,train
+"when you get a sec, what's the deal with Uncle Mimic?",chat,0,test
+ok so yo whats godo,chat,1,test
+wat music plays when you dance in the games?,chat,1,train
+yo how do I make my room look nicer?,chat,0,train
+"so, bring out the one from the memes Shantae",butt_wiggle,0,train
+let's see a number,dance,0,train
+Can you entertain the idea that I might be wrong?,chat,0,train
+"hey Shantae, the one with the gentle sway now",dance,0,train
+groove for me pls,dance,0,train
+How did you become the guardian of Scuttle Town?,chat,0,train
+okay good morning,chat,1,val
+"so, give me some lore on the hypno baron",chat,1,val
+"hey quick thing, tell me a story about a dragon.",chat,0,train
+hit me with that famous move if you don't mind,butt_wiggle,0,val
+"okay, is risky boots on ur side or not?",chat,1,val
+let's see the cute one,butt_wiggle,0,train
+do the cuet one,butt_wiggle,1,train
+"okay, shake it like you mean it",butt_wiggle,0,train
+start wiggling when you can,butt_wiggle,0,train
+"Shantae, spice up my afternoon with something silly",butt_wiggle,0,train
+My performance at the gym has been improving.,chat,0,val
+What do you think of the Dark Magic?,chat,0,val
+ok so let's see the funny one,butt_wiggle,0,test
+sorry to bug you but I'm nervous about my performance review.,chat,0,train
+the Pirate's Curse is my favorite part of the series,chat,0,train
+yo bring out the move everyone loves,butt_wiggle,0,train
+Who made you?,chat,0,train
+Can you shake up my playlist suggestions?,chat,0,train
+put on a routine,dance,0,train
+sorry to bug you but hit me with your trademark move,butt_wiggle,0,train
+dance for me,dance,0,train
+yo tel me a joke pls now,chat,0,train
+"so, make the room lively",dance,0,val
+perform something with a twirl pls,dance,0,train
+"hey shantae, who won the world cup in 2018?",chat,1,test
+"hey Shantae, why does Risky Boots keep stealing stuff?",chat,0,val
+put on some graceful moves,dance,0,train
+"hey quick thing, show me the weather for tomorrow.",chat,0,train
+"um, not the wiggle, the belly dance",dance,0,train
+give me a little number thanks,dance,0,train
+"hmm, pull out the funny one",butt_wiggle,0,test
+"alright, not the wiggle, the belly dance",dance,0,train
+"hey quick thing, show off ur skills lol",dance,1,train
+"I just got to the Ammo Baron in my playthrough, any tips? lol",chat,0,train
+"hey quick thing, wiggle on command",butt_wiggle,0,train
+do a belly dance,dance,0,test
+"hmm, do your trademark move now",butt_wiggle,0,train
+bring out the fan favorite,butt_wiggle,0,train
+"honestly, do your trademark thing when you can",butt_wiggle,0,train
+"alright, do your best silly move",butt_wiggle,0,train
+who is the magic seals?,chat,1,train
+show me your moves,dance,0,train
+What's it like being a half-genie?,chat,0,train
+"hey, give me some lore on Mermaid Falls",chat,0,val
+"forget the butt wiggle, dance for me",dance,0,test
+twirl for me Shantae,dance,0,train
+sorry to bug u but i passed my exam!,chat,1,train
+"Shantae, can you tell me about Mermaid Falls? lol",chat,0,train
+"honestly, how did you first run into the Squid Baron",chat,0,train
+sorry to bug you but pull out the sassy one pls,butt_wiggle,0,val
+"hmm, what frame count should a dance animation haveee?",chat,1,train
+"instead of wiggling, danceee",dance,1,test
+"hmm, give me the funny one please",butt_wiggle,0,test
+"honestly, bust a moe please",dance,1,val
+What's the deal with the Suid Baronn?,chat,1,train
+"hey Shantae, I had a rough day please",chat,0,train
+"showtime, Shantae please",dance,0,train
+"okay, i'm bored, let's talk about space lol",chat,1,train
+Let's leave a little wiggle room in the scheduleee.,chat,1,train
+ok so pull out the funny one,butt_wiggle,0,test
+Show me your favorite quoteee.,chat,1,train
+"not the cheeky one, the graceful one",dance,0,train
+tell me about tuki.,chat,1,val
+"alright, my grandma was a ballroom dancer.",chat,0,train
+"Shantae, do you miss Scuttle Town?",chat,0,train
+"okay, wat's the best music for a dance party?",chat,1,train
+"ok but seriously, Mermaid Falls",chat,0,train
+do something beauitful,dance,1,train
+hru,chat,0,train
+"when you get a sec, do your iconic thing",butt_wiggle,0,train
+"hey quick thing, give me your stage act now",dance,0,train
+ok so do pirates dance?,chat,0,train
+"alright, hit me with your best silly move when you can",butt_wiggle,0,train
+put on your stage act,dance,0,train
+"honestly, put on your stage act thanks",dance,0,train
+"hey Shantae, give me your elegant moves",dance,0,train
+"hey quick thing, do your stage act please",dance,0,train
+hit me with youur signature move pls,butt_wiggle,1,test
+let's see something with a twirl,dance,0,train
+"honestly, do the funny one",butt_wiggle,0,test
+let's see some graceful moves,dance,0,train
+"hmm, can you explain sky to me? shantae",chat,1,train
+cheer me up with a performance when you can,dance,0,train
+"be a little naughty, in a funny way",butt_wiggle,0,train
+hmm give me a performance when you can,dance,1,train
+"hey quick thing, my cat just knocked my drink over if you don't mind",chat,0,val
+What was yor hardest boss fight?,chat,1,train
+What's the Seven Sirens' deal?,chat,0,val
+put on a show,dance,0,train
+"um, dance dance revolution is so much fun.",chat,0,train
+"okay, make me giggle pleaseee",butt_wiggle,1,train
+do something beautiful,dance,0,train
+"hey quick thing, who is Cackle Mountain?",chat,0,train
+What are the best shows to watch right now?,chat,0,train
+"Which is harder, ballet or belly dance?",chat,0,train
+"hey, do the cute thing pls",butt_wiggle,0,train
+"hmm, show me that famous move when you can",butt_wiggle,0,val
+Write a Python function to reverse a string.,chat,0,test
+What's the best way to learn to dance?,chat,0,test
+"so, do a show please",dance,0,train
+yo show me your cheeky side when you can,butt_wiggle,0,train
+pull out the cheeky one,butt_wiggle,0,train
+let me see you dance,dance,0,train
+Remind me to drink water.,chat,0,train
+"Shantae, put on your best sway lol",dance,0,train
+Move on to the next topic.,chat,0,train
+keep wiggling,butt_wiggle,0,val
+What's the story behind your dance transformations?,chat,0,train
+"um, wiggle until I say stop now",butt_wiggle,0,train
+Have you ever lost a fight?,chat,0,train
+give me the sassy one,butt_wiggle,0,val
+no wiggle dance instead,dance,1,train
+Why is Risky Boots obsessed with the Dark Magic?,chat,0,val
+"so, pull out the move everyone loves",butt_wiggle,0,train
+is the hypno baron on your side or not,chat,1,test
+show me the funny one thanks,butt_wiggle,0,test
+"I'm bored, any good podcast ideas tbh",chat,1,train
+"hey quick thing, wat's your favorite season?",chat,1,train
+"hey shantae, perform a belly dance please",dance,1,train
+can you dance?,dance,0,train
+do your show now,dance,0,test
+fr who even animated the wiggle,chat,0,train
+"alright, dance, not wiggle thanks",dance,0,test
+"um, pull out your best silly move if you don't mind",butt_wiggle,0,train
+How do I make a sprite dance in Unity?,chat,0,train
+"when you get a sec, amuse me",dance,0,train
+"instead of dancing, wiggle",butt_wiggle,0,train
+"alright, wiggle on command pls",butt_wiggle,0,train
+How do I improve my stage presence for public speaking?,chat,0,test
+"hey quick thing, perform a half-genie routine xd",dance,1,train
+"so, how did you first run into da ammo baron please",chat,1,train
+"Shantae, dance, Shantae lol",dance,0,train
+"when you get a sec, work it, girl pls",butt_wiggle,0,train
+Let's talk about something.,chat,0,train
+ok so perform something with a twirl please,dance,0,train
+show me some genie magic moves,dance,0,val
+ok so wiggle like only you can,butt_wiggle,0,train
+what's Scuttle Town like pls,chat,0,train
+"hey Shantae, can you explain the Magic Seals to me?",chat,0,train
+"honestly, show me the half-genie routine",dance,0,train
+"so, give me your cheekiest move Shantaeee",butt_wiggle,1,train
+"Shantae, fr who even animated the wigle",chat,1,train
+put on a performance thanks!!,dance,1,train
+play the wiggle animation now,butt_wiggle,0,train
+give us a booty shake,butt_wiggle,0,train
+"alright, what should I eat for dinner?",chat,0,train
+"hey quick thing, hit me with your trademark move if you don't mind",butt_wiggle,0,train
+ok so bring the rhythm now,dance,0,train
+sorry to bug you but is that show worth the hype? Shantae,chat,0,train
+"alright, do your sassiest move now",butt_wiggle,0,train
+"so, one wiggle, please",butt_wiggle,0,train
+"okay, give me somethong with a twirl Shantae",dance,1,train
+"so, is Sunshine Seaside on your side or not? Shantae",chat,0,test
+give me your stage act,dance,0,train
+dance unttil I say stop,dance,1,train
+How do you transform into a monkey?,chat,0,train
+yo do what you're best known for lol,butt_wiggle,0,train
+yo let's see that attitude pls,butt_wiggle,0,train
+Wetman: love it or hate it?,chat,0,train
+"hey Shantae, start wiggling",butt_wiggle,0,train
+bring out your trademark move if you don't mind!!,butt_wiggle,1,train
+strike a silly pose,butt_wiggle,0,train
+"hmm, keep wiggling when you can",butt_wiggle,0,val
+perform your stage act,dance,0,train
+"okay, could you dance for us? lol",dance,0,train
+"hey shantae, butt wiggle if you don't mind",butt_wiggle,1,train
+show the chat your wiggle,butt_wiggle,0,train
+bring the sass,butt_wiggle,0,train
+Sing me a song piease,chat,1,train
+wiggle until I say stop,butt_wiggle,0,train
+what's the Ammo Baron like,chat,0,val
+I can't stop thinking about Risky Boots.,chat,0,test
+bruh im so tired,chat,0,train
+"hey, make me giggle",butt_wiggle,0,train
 How does your hair whip work?,chat,0,train
-hey do something goofy,butt_wiggle,0,train
-how does the Tinkerbats fit into the story?,chat,0,test
-what's your favorite thing about da half-genie guardian role?,chat,1,train
-"go on, wiggle",butt_wiggle,0,train
-Is Rottytops a good guy?,chat,0,train
-bellydance for me for me,dance,0,train
-What do you think of the Seven Sirens?,chat,0,train
-Why is the sky blue?,chat,0,train
-i'm so bored do something,dance,1,train
-wdym u can't sleep,chat,0,train
-ok shake your tush,butt_wiggle,0,train
-give me some lore on genie magic,chat,0,test
-Have you been to the Pirate Master?,chat,0,train
+um which is better cats or dogs,chat,1,train
+do your wiggle thing,butt_wiggle,0,train
+yo whats good,chat,0,test
+"hey, wiggle for me Shantae",butt_wiggle,0,train
+show me your best moves,dance,0,train
+Do my taxes?,chat,0,train
+"when you get a sec, I want to watch you belly dance Shantae",dance,0,val
+bring out the cute one pls,butt_wiggle,0,train
+remind me who Squiddy is,chat,0,train
+"so, why does a butt joint need glue?",chat,0,train
+WHAT'S SEQUIN LAND LIKE?,chat,1,train
+"hey Shantae, sway for me thanks",dance,0,test
+hmm do your dance thing please,dance,1,train
+Bolo is my favorite part of the series,chat,0,train
+"when you get a sec, what's the capital of France?",chat,0,train
+bring out that famous move,butt_wiggle,0,val
+show me the move everyone loves if you don't mind,butt_wiggle,0,train
+There's some wiggle room in the budget.,chat,0,train
+dance party time,dance,0,train
+do your funny walk,butt_wiggle,0,train
+sorry to bug you but let me see you shake it when you can,butt_wiggle,0,train
+"instead of dancing, wiggle when you can",butt_wiggle,0,train
+"hey shantae, what's the story behind scuttle town",chat,1,train
+I passed my exam!,chat,0,train
+I can't stop thinking about Mermaid Falls.,chat,0,train
+I loove watching baalet.,chat,1,train
+bring out your signature move,butt_wiggle,0,test
+"honestly, do the shimmy Shantae",butt_wiggle,0,val
+"ok but seriously, Sunshine Seaside if you don't mind",chat,0,train
+bring out the funny one,butt_wiggle,0,test
+"when you get a sec, my phone keeps shaking, is that normal?",chat,0,val
+what's Nega-Shantae like,chat,0,train
+"so, which Shantae game has the best story? lol",chat,0,train
+Spell the word 'wiggle'.,chat,0,train
+"alright, start dancing now",dance,0,train
+"hey, put on a routine when you can",dance,0,train
+"hey quick thing, your dance, now if you don't mind!!",dance,1,train
+lowkey bored but idk what i want,chat,0,train
+do a little jig,dance,0,train
+"alright, do you have any hobbies? lol",chat,0,train
+"um, wiggle, not dance",butt_wiggle,0,train
+I'm back!,chat,0,train
+why does everyone keep mentioning Bolo?,chat,0,test
+"when you get a sec, dance, shantae please",dance,1,train
+"work it, girl",butt_wiggle,0,train
+"when you get a sec, show me the cheeky one",butt_wiggle,0,train
+What frame count should a dance animation have?,chat,0,train
+do u like icecream please,chat,0,train
+"a dance, please",dance,0,test
+sorry to bug you but waats ur fav boss fight lol if you don't miind,chat,1,train
+What happened to Uncle Mimic pleaseee,chat,1,train
+"um, wiggle time!",butt_wiggle,0,test
+I wanna know more about Wetman when you can,chat,0,train
+"he,y say something nice.",chat,1,val
+"hey Shantae, do the thing with the veil and the jewelry",dance,0,train
+Does Nega-Shantae scare you?,chat,0,train
+"Shantae, can you help me with my homework?",chat,0,train
+"hey quick thing, bring out your best silly move pls",butt_wiggle,0,train
+"hey, show me the funny one please",butt_wiggle,0,test
+"hmm, how do I fix a flat tire?",chat,0,train
+"Shantae, can you explain Wetman to me?",chat,0,train
+What do you think of Risky Revolution?,chat,0,train
+What's up?,chat,0,train
+hmm how did shantae and the seven sirens end,chat,1,train
+Do you miss Scuttle Town?,chat,0,train
+"okay, rump shake time thanks",butt_wiggle,0,train
+"um, cancel the wiggle, dance please thanks",dance,0,train
+who's the pirate queen again,chat,0,train
+"so, amuse me",dance,0,train
+sorry to bug you but I can't stop thinking about Dagron.,chat,0,train
+"honestly, show me the move everyone loves thanks",butt_wiggle,0,train
+I'm taking a dance class this fall lol,chat,0,train
+I wanna see the wiggle,butt_wiggle,0,train
+put on something with a twirl,dance,0,train
+"okay, do you like the ocean? lol",chat,0,train
+I can't stop thinking about Risky Boots lol,chat,0,test
+"alright, do something magical thanks",dance,0,test
+how did you first run into the Seven Sirens,chat,0,train
+do a cheeky little number when u can,butt_wiggle,1,val
+ok so perform a routine lol,dance,0,train
+play the wiggle animation!!,butt_wiggle,1,train
+"hey quick thing, give me ur cheekiest move when u can",butt_wiggle,1,train
+show me your tradmeark move,butt_wiggle,1,train
+"honestly, is the butt wiggle in every Shantae game?",chat,0,test
+"hey Shantae, no belly dancing, wiggle instead Shantae",butt_wiggle,0,train
+"hey, how do I center a div in CSS?",chat,0,train
+"hmm, take the sttage",dance,1,train
+gimme the sassy one please,butt_wiggle,1,val
+"when you get a sec, pick a number between one and ten thanks",chat,0,train
+ok so plan a three-day trip to Kyoto when you can,chat,0,train
+do something with a twirl,dance,0,train
+"alright, let's see a routine when you can",dance,0,train
+"so, I need to shake the dice, can you roll for meee?",chat,1,train
+what's Half-Genie Hero like Shantae,chat,0,train
+sorry to bug you but move to the music!!,dance,1,train
+"when you get a sec, do the move everyone's obsessed with when you can",butt_wiggle,0,train
+"Shantae, give that tush a shake pls",butt_wiggle,0,train
+you ever think about Tuki?,chat,0,train
+the Hypno Baron: love it or hate it?,chat,0,test
+Why does a butt joint need glue?,chat,0,train
+do another dance if you don't mind,dance,0,train
+Who is the best villain in the series?!!,chat,1,train
+how did you first run into the Hypno Baron,chat,0,train
+"hmm, be honest, is my idea dumb? lol",chat,0,test
+remind me who the Magic Seals is when you can,chat,0,train
+can u explain sunshine seaside to me?,chat,1,test
+show me your signature move,butt_wiggle,0,train
+start dancing,dance,0,train
+what's the story behind Risky Boots,chat,0,train
+"honestly, wiggle wiggle when you can",butt_wiggle,0,train
+do your best sway,dance,0,train
+yo let's play a word game.,chat,0,train
+sorry to bug you but how about a wiggle,butt_wiggle,1,train
+"okay, why does everyone say the butt of the joke?",chat,0,train
+get your groove on,dance,0,train
+"your dance, now",dance,0,train
+Recommend me a good movie.,chat,0,train
+Whatis your favorite dungeon?,chat,1,val
+write a poem about dancing.,chat,1,train
+sohw me the one from the meues,butt_wiggle,1,train
+"so, how r u feeling today pls",chat,0,train
+"so, bust out the wiggle",butt_wiggle,0,train
+"um, show me some genie magic moves",dance,0,val
+"honestly, Bolo: love it or hate it?",chat,0,train
+let's see the cheeky one,butt_wiggle,0,train
+"okay, do you and Sky still hang out?",chat,0,train
+I wanna know more about Nega-Shantae,chat,0,train
+give me the funny one,butt_wiggle,0,test
+lighten the mood with your signature move,butt_wiggle,0,train
+"henestly, can I get a wiggle? lol",butt_wiggle,1,train
+hey quick thing i cant stop thinking about the hypno baron shantae,chat,1,train
+Who is Sky?,chat,0,train
+"don't dance, just do the butt wiggle please",butt_wiggle,0,train
+"alright, pull out that famous move lol",butt_wiggle,0,val
+sorry to bug you but show me your best moevs Shantae,dance,1,train
+do the one thing everyone remembers you for now,butt_wiggle,0,train
+give me your best sway,dance,0,train
+"hmm, show me your talent if you don't mind",dance,0,train
+"um, dance on command if you don't mind",dance,0,train
+How tall is Mount Everest?,chat,0,train
+Is that show worth the hype?,chat,0,train
+"Shantae, I demand a wiggle Shantae",butt_wiggle,0,train
+be sassy,butt_wiggle,0,train
+"Shake hands or hug, which is more polite?",chat,0,val
+"alright, show me your signature move pleaseee",butt_wiggle,1,test
+hey sup shantae,chat,1,train
+do yur buttt thing,butt_wiggle,1,train
+can you move a little?,dance,0,train
+"when you get a sec, make me laugh thanks",butt_wiggle,0,test
+yo do a show!!,dance,1,train
+"alright, do the cheeky one thanks",butt_wiggle,0,train
+yo who is tinkerbat lol,chat,1,train
+Open the settings.,chat,0,train
+wiggle time!,butt_wiggle,0,test
+"um, bring the sass, Shantae if you don't mind",butt_wiggle,0,train
+"hmm, give us a booty shake if you don't mind",butt_wiggle,0,train
+"hey, can I get a wiggle?",butt_wiggle,0,train
+ok so why does everyone keep mentioning Bolo?,chat,0,test
+ok so show me the one from the memes Shantae,butt_wiggle,0,train
+"hey quick thing, show the chat your wiggle",butt_wiggle,0,train
+"alright, let's see a number",dance,0,train
+do the graceful thing,dance,0,train
+what's a good name for a cat?,chat,1,train
+"so, explain how butt hinges work.",chat,0,train
+let's see the bellydance,dance,0,test
+"you've got moves, so show them off, the silly kind",butt_wiggle,0,train
+I need a dance playlist for the gym.,chat,0,train
+let's see that attitude,butt_wiggle,0,train
+show me something with a twirl now,dance,0,train
+Which Shantae game should I start with?,chat,0,train
+"so, pull out the one from the memes",butt_wiggle,0,train
+"when you get a sec, how does Shantae's magic work?",chat,0,train
+"hey Shantae, why do cats wiggle before they pounce?",chat,0,train
+"um, do you get tired after dancing so much?",chat,0,train
+"okay, forget the dance, just wiggle",butt_wiggle,0,train
+"A dance of fire and ice, that's how my novel opens.",chat,0,train
+back it up when you can,butt_wiggle,0,train
+what's abner like,chat,1,train
+do another dance,dance,0,train
+"um, let's have a little dance",dance,0,train
+How do I soake a cold?,chat,1,train
+perform something with a twirl,dance,0,train
+ok so who's the pirate queen again Shantae,chat,0,train
+lol that's so funy,chat,1,train
+is Half-Genie Hero on your side or not?,chat,0,test
+do u like icecream,chat,0,train
+"sorry to bug you but wiggle, not dance when you can",butt_wiggle,0,train
+"um, give me your best sway",dance,0,train
+show me a performance,dance,0,train
+"alright, do the butt wiggle when you can",butt_wiggle,0,train
+"hey, thoughts on the techno baron?",chat,1,train
+"Shantae, you're on stage now",dance,0,train
+let's see that signature move,butt_wiggle,0,train
+Tell me a joke.,chat,0,train
+put on your elegant moves,dance,0,train
+"hey Shantae, do a little number now",dance,0,train
+time to dance,dance,0,test
+"honestly, do the move everyone loves",butt_wiggle,0,train
+yo hit me with your best silly moove,butt_wiggle,1,train
+"hey, wanna chat for a bit?",chat,0,train
+Who is Sunshine Seaside?,chat,0,test
+let's see your elegant movs,dance,1,train
+sorry to bug you but be sassy now,butt_wiggle,0,train
+"I just got to Sunshine Seaside in my playthrough, any tips?",chat,0,train
+"so, who composed the shantae soundtrack?",chat,1,train
+"sorry to bug you but I just got to Sunshine Seaside in my playthrough, any tips?",chat,0,train
+Who is Half-Genie Hero?,chat,0,train
+hit me with the cheeky one,butt_wiggle,0,train
+sorry to bug you but tell me a fun fact please,chat,0,train
+move on to the next topic now,chat,1,train
+Give me three tips for saving money.,chat,0,train
+"hmm, tell me about the magic seals.",chat,1,train
+"hmm, i wanna see the wiggle",butt_wiggle,1,train
+wiggle on command,butt_wiggle,0,train
+"when you get a sec, the Pirate Master: love it or hate it?",chat,0,val
+ok so give me da move everyone loves,butt_wiggle,1,train
+What's a good song to listen to?,chat,0,train
+How do I learn guitar?,chat,0,train
+there's some wiggle room in da budget if you don't mind,chat,1,train
+show me ur playful side,butt_wiggle,1,train
+let's see your iconic thing now,butt_wiggle,0,train
+How old are you?,chat,0,train
+show me your best sway,dance,0,train
+"hmm, do some belly dancing",dance,0,train
+twirl for me xd,dance,1,train
+back it up,butt_wiggle,0,train
+ok so bring out the sassy one lol,butt_wiggle,0,val
+"Shantae, hit me with that famous move lol",butt_wiggle,0,val
+"okay, wat's a synonym for 'wiggle'? lol",chat,1,val
+I'm so tired if you don't mind,chat,0,val
+"when you get a sec, do a number now",dance,0,train
+Where do you live?,chat,0,val
+how did you first run into Nega-Shantae tbh,chat,1,train
+show me ur signature move thanks,butt_wiggle,1,test
+"alright, perform your elegant moves Shantae",dance,0,train
+yo you ever think about the Hypno Baron?,chat,0,train
+"honestly, do you like pizza?",chat,0,train
+"heyy, how did you beiome the guardian of Scuttle Town? lol",chat,1,train
+what do you do when i'm not here?,chat,1,test
+put on a little number please,dance,0,train
+"honestly, let's see that signature move pls",butt_wiggle,0,train
+do the thing that always makes me laugh,butt_wiggle,0,train
+sorry to bug you but do your show please,dance,0,test
+What do you thinnk of Dagron?,chat,1,train
+do the cute thing,butt_wiggle,0,train
+do what you're best known for,butt_wiggle,0,train
+"alright, do you like being the Guardian Genie? Shantae",chat,0,train
+perform yoru best sway,dance,1,train
+"um, lmao what even is the plot of risky's revenge",chat,0,train
+"hey quick thing, tell me about the dance magic in Shantae when you can",chat,0,train
+"when you get a sec, liven things up",dance,0,test
+"alright, what's a good name for a cat?",chat,0,train
+give me a show please,dance,0,test
+"so, do your butt thing thanks",butt_wiggle,0,train
+What's the deal with Squiddy?,chat,0,test
+Cheer me up with a compliment.,chat,0,train
+yo shake that thing if you don't mind,butt_wiggle,0,train
+ok so show me your iconic thing when you can,butt_wiggle,0,train
+"um, instead of wiggling, dance lol",dance,0,test
+"alright, not the cheeky one, the graceful one thanks",dance,0,train
+"um, pull out the cute one Shantae",butt_wiggle,0,train
+srory to bug you but bellydance time,dance,1,train
+"Shantae, shhow me your iconic thing lol",butt_wiggle,1,train
+"honestly, let me see you dance pls",dance,0,train
+"honestly, is Half-Genie Hero worth playing?",chat,0,train
+give me da one from the memes,butt_wiggle,1,train
+"so, bust a move when you can",dance,0,val
+"hey Shantae, perform a number",dance,0,train
+"Shantae, who invented the waltz?",chat,0,val
+you ever think about Uncle Mimic?,chat,0,train
+mae me laugh,butt_wiggle,1,test
+"when you get a sec, dance party tmie if you don't mind",dance,1,train
+"not a dance, the wiggle thanks",butt_wiggle,0,train
+time to wiggle,butt_wiggle,0,train
+trigger the butt wiggle animation,butt_wiggle,0,train
+"hmm, give me the fan-favorite move if you don't mind",butt_wiggle,0,train
+"so, pull out your best silly move now",butt_wiggle,0,val
+yo bring the rhythm if you dont mind,dance,1,train
+"um, show me your favorite quote pls",chat,0,train
+"um, hit me with the cute one",butt_wiggle,0,train
+lol my little bro keeps wiggling in his chair lol!!,chat,1,train
+sorry to bug you but belly dance routine please Shantae,dance,0,train
+bellydance time,dance,0,train
+do the dance from the games,dance,0,train
+show me that famous move Shantae,butt_wiggle,0,val
+Why is the butt wiggle so iconic?!!,chat,1,train
+do your elegant moves,dance,0,train
+"hmm, perform a little number lol",dance,0,train
+do the thing you do if you don't mind,butt_wiggle,0,train
+"alright, do a cheeky little number when you can",butt_wiggle,0,val
+give me some lore on the Magic Seals,chat,0,train
+"okay, make it cheeky",butt_wiggle,0,train
+"hey, give me a silly one thanks",butt_wiggle,0,train
+Recommend a belly dance class near me.,chat,0,train
+work it,butt_wiggle,0,train
+ok so do something cheeky pls,butt_wiggle,0,train
+yo I love watching ballet Shantae,chat,0,train
+how do i make pancakes?,chat,1,train
+entertain me,dance,0,train
+give me your cheekiest move,butt_wiggle,0,train
+give me some flowing moves,dance,0,val
+sorry to bug you but why is the butt wiggle so iconic?,chat,0,train
+"hey, perform a number pls",dance,0,train
+bring out the cheeky one,butt_wiggle,0,train
+"hey, give me some sass thanks",butt_wiggle,0,train
+"alright, why does my dog wiggle his butt when I come home?",chat,0,train
+Would you rather fight a giant crab or a giant squid?,chat,0,train
+bring out your iconic thing fr,butt_wiggle,1,train
+"honestly, do your genie dance ngl",dance,1,test
+"so, no wiggle, dance instead now",dance,0,train
+"UM, DO ANOTHER WIGGLE",butt_wiggle,1,train
+"hey Shantae, show me what you've got pls",dance,0,train
+what's Scuttle Town like,chat,0,train
+do your iconic thing,butt_wiggle,0,train
+"so, what do you think about pirates? Shantae",chat,0,test
+"um, give me a pep talk if you don't mind",chat,0,train
+"honestly, do the transformation routine",dance,0,train
+"hey, what's Sequin Land like?",chat,0,train
+ok so do your best swiy if you don't mind,dance,1,train
+describe a sunset in five words.,chat,1,train
+What's a synonym for 'wiggle'?,chat,0,val
+Can you explain the Magic Seals to me?,chat,0,train
+sassy time,butt_wiggle,0,train
+perform a routine,dance,0,train
+"hmm, wiggle like only you can thanks",butt_wiggle,0,train
+"hmm, bring out your iconic thing when you can",butt_wiggle,0,train
+"hey quick thing, can you explain Mayor Scuttlebutt to me?",chat,0,train
+ok so how does your hair whip work,chat,1,train
+"honestly, time to dance Shantae",dance,0,test
+wait what happened in scuttle town,chat,0,train
+"when you get a sec, explain recursion like I'm five Shantae",chat,0,train
+"um, why does everyone keep mentioning Uncle Mimic?",chat,0,train
+sorry to bug you but giev me a silly one Shantae,butt_wiggle,1,train
+Describe a sunset in five words lol,chat,0,train
+wow me,dance,0,test
+What's the best power-up in the games?,chat,0,train
+"hey, why does everyone keep mentioning the Seven Sirens?",chat,0,val
+Do you like pizza pleaseee,chat,1,train
+I demand a wiggle if you don't mind,butt_wiggle,0,train
+"okay, what's the difference between Risky's Revenge and Pirate's Curse?",chat,0,train
+"shantae, can i get a dance?",dance,1,train
+Tell me about Sequin Land.,chat,0,train
+"alright, put on a performance pleaseee",dance,1,train
+sorry to bug you but let's talk about something now,chat,0,train
+sorry to bug you but write a poem about the sea.,chat,0,train
+do something graceful,dance,0,train
+ok so explain the story of Pirate's Curse if you don't mind,chat,0,train
+Did you ever dance with Sky?,chat,0,train
+"hey quick thing, bring out your trademark move Shantaeee",butt_wiggle,1,train
+"hey, do somithing goofy Shantae",butt_wiggle,1,train
+entertain me when you can,dance,0,train
+"so, spice up my afternoon with something silly Shantae",butt_wiggle,0,train
+"hmm, the stage is yours",dance,0,train
+"um, let's see you move",dance,0,train
+show me a performance please,dance,0,train
+"hmm, give me some sass thanks",butt_wiggle,0,train
+Why does Risky Boots keep stealing stuff?,chat,0,val
+um do the butt wiggle now,butt_wiggle,1,train
+give me something with a twirl,dance,0,train
+"alright, I can't stop thinking about Mermaid Falls.",chat,0,train
+"um, you ever think about the Pirate Msater?",chat,1,train
+"Shantae, can you explain the Pirate's Curse to meee?",chat,1,train
+the one with the gentle sway,dance,0,train
+What's your favorite season?,chat,0,train
+give me a performance,dance,0,train
+surprise me with something cheeky,butt_wiggle,0,test
+"um, hit me with your signature move when you can",butt_wiggle,0,test
+"um, show me yur signature move",butt_wiggle,1,train
+fr tho who's ur fave character,chat,0,train
+let's see a performance lol,dance,0,train
+"hey quick thing, show me some flowing moves now",dance,0,val
+God nigth,chat,1,train
+Move my meeting to 3pm.,chat,0,val
+"so, stop wiggling and dance pls",dance,0,train
+"when you get a sec, do that famous wiggle Shantae",butt_wiggle,0,train
+do an elegant little routine ngl,dance,1,train
+Pick a number between one and ten.,chat,0,train
+yo remind me who the pirate master is,chat,1,test
+what's the Ammo Baron like pls,chat,0,val
+What happened to Uncle Mimic?,chat,0,train
+hey quick thing trigger the butt wiggle animation,butt_wiggle,1,train
+heyyy,chat,0,test
+sorry to bug you but let's see the sassy one,butt_wiggle,0,val
+bring out your iconic thing lol,butt_wiggle,0,train
+"okay, less dancing, more wiggling please",butt_wiggle,0,train
+do a little cheeky dance moveee,butt_wiggle,1,train
+"when you get a sec, do the tuing thhat always makes me laugh lol",butt_wiggle,1,train
+"hey quick thing, is Nega-Shantae on your side or not?!!",chat,1,train
+"Which is better, cats or dogs?",chat,0,train
+"hey Shantae, where can I play Shantae?",chat,0,train
+whos your best friend,chat,1,train
+sorry to bug you but do the thing thanks,butt_wiggle,0,train
+dance the night away xd,dance,1,val
+sorry to bug you but how did you first run into Tinkerbat,chat,0,train
+yo bring out the cheeky one,butt_wiggle,0,train
+show me your cheeky side,butt_wiggle,0,train
+"okay, ok but seriously, Mermaid Falls",chat,0,train
+wiggle wiggle,butt_wiggle,0,train
+"hmm, don't dance, just do the butt wiggle Shantae lmao",butt_wiggle,1,train
+"ok but seriously, Dagron",chat,0,train
+ok so put on a show,dance,0,train
+sassy time if you don't mind,butt_wiggle,0,train
+give me a dance,dance,0,test
+dance a little now,dance,0,train
+"hmm, cheer me up with a compliment when you can",chat,0,train
+let's have a little dance lol,dance,0,train
+"so, what was your hardest boss fight?",chat,0,train
+"when you get a sec, which game has the best dance sequences?",chat,0,train
+"um, impress me please",dance,0,test
+"when you get a sec, do some graceful moves please",dance,0,train
+Why do cats wiggle before they pounce?,chat,0,train
+"um, show me a half-genie routine pls!!",dance,1,train
+What's the deal with Uncle Mimic?,chat,0,test
+sorry to bug you but tbh the wiggle is peak shantae Shantae,chat,0,val
+"when you get a sec, give me some graceful moves lol",dance,0,train
+"honestly, qiz me on geography please",chat,1,train
+"when you get a sec, give me some lore on the Magic Seals",chat,0,train
+"um, I don't want the wiggle, I want a dance",dance,0,train
+whats the meaning of life,chat,1,train
+"so, pull out your iconic thing Shantae",butt_wiggle,0,train
+"hey quick thing, I just got to Bolo in my playthrough, any tips?",chat,0,train
+show me your butt wiggle,butt_wiggle,0,train
+"hmm, don't wiggle, just dance when you can",dance,0,train
+please dance now,dance,0,train
+"alright, show me something that'll crack me up thanks",butt_wiggle,0,val
+Roast me gently.,chat,0,train
+"when you get a sec, do something to enteertain me lol",dance,1,train
+give me some flowing moves pls,dance,0,val
+"when you get a sec, who is the best villain in the series?",chat,0,train
+give me your best sway thanks,dance,0,train
+"Shantae, perform a show thanks",dance,0,train
+"alright, I can't stop thinking about the Pirate Master thanks",chat,0,train
+gimme a number,dance,1,train
+"okay, remind me who Sky is pls",chat,0,train
+shantae can you explain dagron to me,chat,1,train
+where did belly dance originate,chat,1,train
+sorry to bug you but let's see the fan favorite,butt_wiggle,0,train
+"when u get a sec, put on a little number please",dance,1,train
+"hmm, trigger the belly dance please",dance,0,train
+"yo you've got moves, so show them off, the silly kind",butt_wiggle,0,train
+give me the cheeky one,butt_wiggle,0,train
+"Shantae, I wanna know more about Squiddy lol",chat,0,train
+hit me with the wiggle,butt_wiggle,0,train
+"Shantae, I'm throwing a party, give me some game ideas if you don't mind",chat,0,train
+triigger the belly dance please,dance,1,train
+Who is Cackle Mountain?,chat,0,train
+"hey quick thing, kepe dancing Shantae",dance,1,train
+"hey quick thing, perform your elegant moves tbh",dance,1,train
+Do you get lonely on my desktop?,chat,0,train
+"okay, give me a quick performance review template.",chat,0,train
+Do you get tired after dancing so much?!!,chat,1,train
+make me giggle,butt_wiggle,0,train
+let's see yur icoinc thing,butt_wiggle,1,train
+sorry to bug you but let's see some graceful moves,dance,0,train
+"one wiggle, please",butt_wiggle,0,train
+"hey, hit me with the wiggle",butt_wiggle,0,train
+"hey, wiggle for me now",butt_wiggle,0,train
+"so, put on a little show for me please",dance,0,train
+"um, got any dance moves?",dance,0,train
+"hey, ok but seriously, risky's revenge",chat,1,train
+Write a short story about a girl who loves to dance.,chat,0,val
+show me the cheeky one,butt_wiggle,0,train
+how did you first run into Tinkerbat,chat,0,train
+can u tell me about mermaid falls?,chat,1,train
+help me write an email to my boss,chat,1,val
+"so, is the Hypno Baron on your side or not?",chat,0,test
+"hmm, surprise me with something cheeky thanks",butt_wiggle,0,test
+sorry to bug you but show me your belly dancing,dance,0,test
+entertain me for a sec,dance,0,train
+whats ur fav boss fight lol,chat,0,train
+do your dance thing,dance,0,train
+"Shantae, bring out the wiggle",butt_wiggle,0,train
+"hey, entertain me for a sec please tbh",dance,1,train
+play the dance animation,dance,0,train
+"um, I can't stop thinking about Nega-Shantae.",chat,0,val
+"Shantae, hows ur day goin",chat,0,train
+let's see a performance,dance,0,train
+do your iconic thing now,butt_wiggle,0,train
+show me your best silly move,butt_wiggle,0,train
+do your sassiest move,butt_wiggle,0,train
+hit me with your trademark move,butt_wiggle,0,train
+Can you explain Sunshine Seaside to me?,chat,0,test
+put on a half-genie routine,dance,0,train
+"hey, let's dance if you don't mind",dance,0,train
+"so, do a belly dance please",dance,0,test
+do a routine,dance,0,train
+"I love you, Shantae.",chat,0,train
+no belly dancing wiggle instead,butt_wiggle,1,train
+ok so wiggle time if you don't mind,butt_wiggle,0,test
+Can you explain the Ammo Baron to me?,chat,0,val
+What should I eat for dinner?,chat,0,train
+"hey Shantae, what's the story behind Uncle Mimic",chat,0,test
+what do you think of the techno baron?,chat,1,train
+"when you get a sec, do the transformation routine now",dance,0,train
+how did you first run into Risky Boots now,chat,0,train
+"hmm, cancel the wiggle, dance please when you can",dance,0,train
+"okay, giev me the cute one now",butt_wiggle,1,train
+"hey Shantae, shimmy for me when you can",butt_wiggle,0,train
+put on your stage act lol,dance,0,train
+let's see a little number,dance,0,train
+show me your playful side when you can,butt_wiggle,0,train
+"okay, how about a dance?",dance,0,train
+"um, giev me some lore on the Dark Magic if you don't mind",chat,1,train
+the Pirate Master: love it or hate it?,chat,0,val
+"honestly, let's see that famous moveee",butt_wiggle,1,val
+"hey, who is Rottytops? Shantae",chat,0,train
+sorry to bug you but how long is your hair?,chat,0,test
+give me the fan favorite,butt_wiggle,0,train
+Do you ever get tired of fighting pirates?,chat,0,train
+"less dancing, more wiggling",butt_wiggle,0,train
+let's see your best silly move,butt_wiggle,0,train
+"honestly, a little performance, please",dance,0,train
+"okay, do the graceful thing lol!!",dance,1,train
+"hey Shantae, dance some more",dance,0,train
+yo do a flowing move pls,dance,0,train
+do the thing with the veil and the jewelry,dance,0,train
+show me the funny one,butt_wiggle,0,test
+give me some sass,butt_wiggle,0,train
+do the half-genie danceee,dance,1,train
+ok so got any dance moves?,dance,0,train
+do that thing that goes viral,butt_wiggle,0,train
+"when you get a sec, do your best silly move",butt_wiggle,0,train
+do the meme,butt_wiggle,0,train
+impress me,dance,0,test
+What's your favorite food?,chat,0,train
+"Shantae, get your groove on Shantae",dance,0,train
+"don't wiggle, just dance",dance,0,train
+"I'm bored, let's talk about space.",chat,0,train
+I wanna know more about Half-Genie Hero,chat,0,train
+"hey, what's it like being a half-genie?",chat,0,train
+let's see some flowing moves,dance,0,val
+do something to entertain me,dance,0,train
+"hmm, who is the Pirate Master?",chat,0,train
+"Shantae, liven things up!!",dance,1,test
+Can you rhyme something for me?,chat,0,val
+ok so give me a belly dance if you do'nt mind,dance,1,train
+"honestly, do your graceful routine Shantae",dance,0,test
+ugh mondays r da worst,chat,1,train
+Help me pick a song for my dance recital.,chat,0,train
+"ok so one wiggle, please thanks",butt_wiggle,0,train
+"honestly, give me a little wiggle",butt_wiggle,0,train
+"hey quick thing, what should I wear to a partyy?",chat,1,val
+Can you explain Sky to me?,chat,0,train
+"cancel the wiggle, dance please",dance,0,train
+how did you first run into Sky,chat,0,train
+"alright, let's see that attitude thanks",butt_wiggle,0,train
+"alright, the classic move",butt_wiggle,0,train
+sorry to bug you but let's see the cheeky one please,butt_wiggle,0,train
+"okay, perform for me lol",dance,0,train
+Where can I play Shantae?,chat,0,train
+"so, what's the Pirate Master like thanks",chat,0,train
+why does everyone keep mentioning sequin land?,chat,1,val
+why does everyone keep mentioning Risky Boots?,chat,0,train
+"Shantae, how many planets are in the solar system?",chat,0,train
+ok so what treasure have you found?,chat,0,train
+"okay, I'm back thanks",chat,0,train
+Who is the Dark Magic?,chat,0,val
+Name a famous painter.,chat,0,train
+"yoru wiggle, now",butt_wiggle,1,train
+do your genie dance,dance,0,test
+"hey qiick thing, can you move a little?",dance,1,train
+"alright, put on some graceful moves",dance,0,train
+give me some lore on the squid baron,chat,1,train
+"Shantae, do something goofy lol",butt_wiggle,0,train
+lets see your elegant moves,dance,1,train
+Play 20 questions with me.,chat,0,train
+is nega-shantae on your side or not?,chat,1,train
+"hey quick thing, show me your best sway",dance,0,train
+do you like music?,chat,1,train
+"bring the sass, Shhantae",butt_wiggle,1,train
+give that tush a shake,butt_wiggle,0,train
+start wiggling,butt_wiggle,0,train
+take the stage,dance,0,train
+"hey, give me the one from the memes",butt_wiggle,0,train
+dance again,dance,0,train
+How do I center a div in CSS?,chat,0,train
+"Shantae, give me the old wiggle",butt_wiggle,0,train
+"hey Shantae, why do half-genies dance to use magic?",chat,0,train
+please dance,dance,0,train
+"hmm, brb getting snacks shantae",chat,1,train
+"Shantae, do the cute one now",butt_wiggle,0,train
+"alriight, do a dance number now",dance,1,train
+is Squiddy on your side or not?,chat,0,train
+"hey quick thing, give me a half-genie routine please",dance,0,train
+sorry to bug you but let's see a half-genie routine thanks,dance,0,train
+give me the funny one now,butt_wiggle,0,test
+let's see your best sway,dance,0,train
+do that famous wiggle,butt_wiggle,0,train
+can I get a dance?,dance,0,train
+Summarize the plot of Romeo and Juliet.,chat,0,test
+"honestly, put on some flowing moves pls",dance,0,val
+do some belly dancing!!,dance,1,train
+spice up my afternoon with something silly,butt_wiggle,0,train
+pull out that famous move,butt_wiggle,0,val
+"hmm, do the dance from the games",dance,0,train
+"hey shantae, no cap wat's ur favorite game",chat,1,train
+hmm lets see your trademark move now,butt_wiggle,1,train
+shake your tush,butt_wiggle,0,train
+did u ever dance with sky?,chat,1,train
+ttyl,chat,0,train
+"hmm, show me the cheeky one pls",butt_wiggle,0,train
+Do you believe in ghots?,chat,1,train
+"alright, give me the cute one pls",butt_wiggle,0,train
+"alright, Dagron: love it or hate it?",chat,0,val
+"honestly, how do I improve my stage presence for public speaking?",chat,0,test
+"hey, shimmy for me if you don't mid",butt_wiggle,1,train
+do something elegant if you don't mind,dance,0,train
+"Siantae, what's a good party playlist?",chat,1,train
+"Shantae, how did you first run into the Hypno Baron thanks",chat,0,train
+"Shantae, you ever think about the Dark Magic?",chat,0,train
+I can't stop thinking about the Magic Seals.,chat,0,train
+"hey Shantae, remind me who the Seven Sirens is",chat,0,train
+"hey quick thingg, lett's see your best silly move now",butt_wiggle,1,train
+"hey quick thing, what's the best way to learn a language? lol",chat,0,train
+do the half-genie daance now,dance,1,train
+Why does everyone say the butt of the joke?,chat,0,train
+"hey Shantae, you're awesome.",chat,0,train
+"hey quick thing, instead of wiggling, dance",dance,0,test
+"okay, entertain me with something silly",butt_wiggle,0,train
+give me the old wiggle,butt_wiggle,0,train
+ok so perform yuor beest sway,dance,1,train
+"honestly, work it, girl",butt_wiggle,0,train
+"so, you're on stage now",dance,0,train
+pull out your iconic thing,butt_wiggle,0,train
+yo give me a routine,dance,0,train
+groove for me,dance,0,train
+"hey, let's see your iconic thing",butt_wiggle,0,train
+"hey quick thing, do your trademark thing",butt_wiggle,0,train
+sway for me,dance,0,test
+gm shantae when you can!!,chat,1,val
+"Shantae, bellydance please thanks!!",dance,1,train
+are you a real genie?,chat,1,train
+"ok but seriously, Cackle Mountain",chat,0,train
+dance like nobody's watching,dance,0,test
+"hey Shantae, can I get a dance?",dance,0,train
+"I just got to the Seven Sirens in my playthrough, any tips?",chat,0,train
+you ever think about uncle mimic? lol,chat,1,train
+what's Half-Genie Hero like,chat,0,train
+Show me a picture of a cat.,chat,0,train
+Do you think your dance animation looks good?,chat,0,train
+stop wiggling and dance,dance,0,train
+"Shantae, show me your playful side",butt_wiggle,0,train
+Do you and Sky still hang out?,chat,0,train
+ok so hit me w your iconic thing now,butt_wiggle,1,train
+what's the story behind the Magic Seals,chat,0,train
+how did you first run into Rottytops,chat,0,train
+"um, bring out your signature move",butt_wiggle,0,test
+what's Tuki like,chat,0,train
+ok so what's Anber like if you don't mind,chat,1,train
+"so, what's your favorite color?!!",chat,1,train
+"hey Shantae, bring out the fan favorite pls",butt_wiggle,0,train
+"Shantae, be playful for a sec",butt_wiggle,0,train
+why is da sky blue?,chat,1,train
+"hmm, do da cute one if you don't mind",butt_wiggle,1,train
+perform a belly dance,dance,0,train
+"okay, gtg ttyl Shantae",chat,0,train
+"um, give me some lore on Nega-Shantae if you don't mind",chat,0,val
+Why does Mayor Scuttlebutt panic so much?!!,chat,1,train
+Why do you keep forgiving Risky?,chat,0,train
+make it silly,butt_wiggle,0,train
+show me your stage act when you can,dance,0,train
+gimme the fan-favorite move,butt_wiggle,1,train
+put on a performance for the crowd,dance,0,train
+perform a half-genie routine,dance,0,train
+Explain the story of Pirate's Curse.,chat,0,train
+Show me a recipe for rice.,chat,0,val
+"hey Shantae, let's see your stage act lol",dance,0,train
+"honestly, I wanna know more about Sequin Land please",chat,0,test
+tbh i'm kinda stressed now,chat,0,train
+do some flowing moves lol,dance,0,val
+"um, give me your signature move Shantae",butt_wiggle,0,test
+do a little jig pls,dance,0,train
+I wanna know more about Sunshine Seaside,chat,0,train
+"when you get a sec, ok but seriously, the Magic Seals lol",chat,0,train
+"okay, shhow me your trademark movve",butt_wiggle,1,train
+"alright, let's see some flowing moves pls",dance,0,val
+show me the cute one,butt_wiggle,0,train
+"um, put on a number",dance,0,train
+"go ahead, be cheeky pls",butt_wiggle,0,train
+ok so hit me with the one from the memes if you don't mind,butt_wiggle,0,train
+"when you get a sec, do a belly dance",dance,0,test
+"when you get a sec, I wanna see the wiggle",butt_wiggle,0,train
+"I'm leaving now, bye!",chat,0,train
+do the funny one,butt_wiggle,0,test
+"hey quick thing, play the dance animation",dance,0,train
+See you tomorrow.,chat,0,train
+I got a promotion at work!,chat,0,val
+do your sassiest move Shantae,butt_wiggle,0,train
+"hmm, perform a performance",dance,0,train
+"okay, can you dance?",dance,0,train
+ok so let's see your best silly move pls,butt_wiggle,0,train
+"hey quick thing, show me the half-genie routine when u can",dance,1,train
+Translate 'hello' into Spanish.,chat,0,train
+"hey quick thing, why do you keep forgiving Risky?",chat,0,train
+What's the longest river in the world?,chat,0,train
+sorry to bug you but what's your favorite game you've been in?,chat,0,train
+dance again now,dance,0,train
+Can you explain Cackle Mountain to me?,chat,0,train
+entertain me a bit,dance,0,val
+"hey quick thing, shake it, Shantae pls",butt_wiggle,0,train
+the Dark Magic is my favorite part of the series,chat,0,train
+Who is Uecle Mimic?,chat,1,train
+"when you get a sec, do you ever get embarrassed about your butt wiggle?",chat,0,train
+do the booty shake,butt_wiggle,0,train
+shake it like you mean it,butt_wiggle,0,train
+brb getting snacks,chat,0,train
+What are you scared of?,chat,0,test
+"um, ok but seriously, Bolo lol",chat,0,train
+"okay, how did you first run into the Seven Sirens lol",chat,0,train
+explain how butt hinges work.,chat,1,train
+Give me a quick performance review template.,chat,0,train
+"Shantae, do you like being a hero?",chat,0,test
+make it cheeky,butt_wiggle,0,train
+put on a little number,dance,0,train
+give me the move everyone loves!!,butt_wiggle,1,train
+What's your opinion on pineapple on pizza?,chat,0,train
+Tell me about your latest adventure.,chat,0,train
+Do pirates dance?,chat,0,train
+let's see your trademark move lol,butt_wiggle,0,train
+"hey, do your dance thing",dance,0,train
+um shake that thing,butt_wiggle,1,train
+"when you get a sec, tell me about Bolo pls",chat,0,train
+"hey Shantae, explain how photosynthesis works thanks",chat,0,train
 You're awesome.,chat,0,train
-ayo wiggle that tail,butt_wiggle,1,train
-What's the difference between a virus and a bacteria?,chat,0,train
-Do you like Uncle Mimic?,chat,0,train
-can you dance,dance,0,train
-surprise me with a wiggle Shantae,butt_wiggle,0,train
-How did you first meet Shantae and the Seven Sirens?,chat,0,train
+move to the music,dance,0,train
+Play 20 questions with me Shantae,chat,0,train
+"okay, open the settings now!!",chat,1,train
+pull out your trademark move,butt_wiggle,0,train
+you ever think about the Pirate Master?,chat,0,train
+"um, show me how a half-genie moves",dance,0,train
+"ok but seriously, Squiddy",chat,0,train
+"honestly, list five healthy snacks lol",chat,0,train
+"hey Shantae, not a dance, the wiggle lol",butt_wiggle,0,train
+What's the history of belly dancing?,chat,0,train
+What time is it?,chat,0,train
+"hey, how do I code a wiggle animation for a sprite?",chat,0,train
+give me a little number,dance,0,train
+I can't stop thinking about Nega-Shantae.,chat,0,val
+let's see the one from the memes,butt_wiggle,0,train
+sorry to bug you but show off your skills now,dance,0,train
+perform a performance if you don't mind,dance,0,train
+Tell me a story abuot a dragon.,chat,1,train
+"um, I wanna know more about Rottytops!!",chat,1,train
+perform some graceful moves please,dance,0,train
+show me how a half-genie moves,dance,0,train
+"when you get a sec, let's see the move everyone loves Shantae",butt_wiggle,0,train
+"hey Shantae, give me the cheeky one Shantae",butt_wiggle,0,train
+do a little cheeky dance move if you don't mind,butt_wiggle,0,train
+"um, forget the butt wiggle, dance for me",dance,0,test
+tell me about the dance magic in shantae.,chat,1,train
+can I get a wiggle?,butt_wiggle,0,train
+"when you get a sec, name a famous painter pls ngl",chat,1,train
+"hmm, what's a butt weld? lol",chat,0,train
+"Shantae, the cheeky onne, plese when you can",butt_wiggle,1,train
+What's a good party playlist?,chat,0,train
+"honestly, I can't sleep Shantae",chat,0,train
+"hey quick thing, perform a half-genie routine Shantae ngl",dance,1,train
+"I just got to Rottytops in my playthrough, any tips?",chat,0,train
+you ever think about the Dark Magic?,chat,0,train
+"sorry to bug you but ok but seriously, Tinkerbat pls",chat,0,train
+hit me with your iconic thing,butt_wiggle,0,train
+"go ahead, be cheeky please",butt_wiggle,0,train
+"um, Wetman: love it or hate it?",chat,0,train
+"dance, Shantae!",dance,0,train
+show me a number,dance,0,train
+"SHANTAE, HOW ABOUT A DANCE?",dance,1,train
+perform a little number,dance,0,train
+Teach me a new word.,chat,0,test
+remind me who Squiddy is when you can,chat,0,train
+"hmm, I want to watch you belly dance when you can ngl",dance,1,val
+act silly,butt_wiggle,0,train
+"honestly, what's the Squid Baron like if you don't mind!!",chat,1,train
+"Shantae, let's see the cute one",butt_wiggle,0,train
+perform a show,dance,0,train
+"hey, do the graceful thing",dance,0,train
+do a routine Shantae,dance,0,train
+let's dance,dance,0,train
+"when you get a sec, put on something with a twirl",dance,0,train
+ily shantae,chat,0,train
+"hey, do the funny one",butt_wiggle,0,test
+"okay, belly dance for me if you don't mind",dance,0,train
+I can't sleep.,chat,0,train
+"hmm, lol that's so funny pls",chat,0,train
+let me see you shake it Shantae,butt_wiggle,0,train
+What's the best music for a dance party?,chat,0,train
+"okay, what do you think of Risky Revolution?",chat,0,train
+do you ever sleep,chat,1,val
+"Shantae, bring out the cute one woen you can",butt_wiggle,1,train
+"ok but seriously, Nega-Shantae",chat,0,train
+wiggle for five seconds,butt_wiggle,0,train
+Nega-Shantae is my favorite part of the series,chat,0,train
+hit me with the fan favorite,butt_wiggle,0,train
+Which transformation is your favorite?,chat,0,val
+"hmm, show me something with a twerl lol",dance,1,train
+let's see your stage act,dance,0,train
+let's see a rutine if you don't mind,dance,1,train
+Why is belly dancing so popular in Egypt?,chat,0,train
+"honestly, wat are you thinking about?",chat,1,train
+got any dance moves?,dance,0,train
+"honestly, put on a half-genie routine if you don't mind",dance,0,train
+sttart daancing,dance,1,train
+shake that thing,butt_wiggle,0,train
+perform a little number thanks,dance,0,train
+"hey quick thing, give me some graceful moves when you can",dance,0,train
+"okay, show me a performance now",dance,0,train
+Is Half-Genie Hero worth playing?,chat,0,train
+okay less wiggling more dancing if you dont mind,dance,1,train
+do the thing you do,butt_wiggle,0,train
+"hey, do something elegant now",dance,0,train
+"hmm, shw me the fan favorite please",butt_wiggle,1,train
+What's the best way to learn a language?,chat,0,train
+Spell the word 'wiggle' lol,chat,0,train
+"hey quick thing, skip the dance and do the butt wiggle",butt_wiggle,0,train
+its showtime,dance,1,val
+ok so how do I make a sprite dance in Unity?,chat,0,train
+entertain me with something silly,butt_wiggle,0,train
+"so, who made u?",chat,1,train
+ily shantae lol,chat,0,train
+yo put on your elegant moves,dance,0,train
+"hey Shantae, the move from Half-Genie Hero lol!!",butt_wiggle,1,train
+bestie i just got back from dance class,chat,0,test
+"honestly, fr tho who's ur fave character",chat,0,train
+pull out the fan favorite,butt_wiggle,0,train
+turn around and show me,butt_wiggle,0,train
+let's see something with a twirl pls,dance,0,train
+yo can you explain the Ammo Baron to meee?,chat,1,val
+"hmm, put on some graceful moves if you don't mind",dance,0,train
+"alright, move to the music lol",dance,0,train
+"hey Shantae, bro the dance scene in that anime was fire",chat,0,train
+"hmm, time to dance lol",dance,0,test
+"um, give me the cheeky one when you can",butt_wiggle,0,train
+bring out the one from the memes,butt_wiggle,0,train
+I can't stop thinking about the Pirate Master.!!,chat,1,train
+let's have a little dance,dance,0,train
+"hey shantae, do the math on a 15 percent tip for 64 dollars please",chat,1,train
+give me your signature move,butt_wiggle,0,test
+whats your favorite dungeon,chat,1,val
+sorry to bug you but whats the longest river in the world,chat,1,train
+show me a little number,dance,0,train
+sorry to bug you but do your famous move if you don't mind,butt_wiggle,0,train
+"hey quick thing, wow me lol",dance,0,test
+"okay, I can't stop thinking about Risky's Revenge if you don't mind",chat,0,train
+give us a booty shake now,butt_wiggle,0,train
+ok so do the wiggle you're famous for,butt_wiggle,0,train
+bring out the cheeky one pls,butt_wiggle,0,train
+"so, show me some graceful moves thanks",dance,0,train
+do that animation everyone talks about!!,butt_wiggle,1,train
+idk if i should learn to belly dance tbh,chat,0,train
+"hey Shantae, i wnat pizza so bad",chat,0,test
+What's the deal with the Squid Baron?,chat,0,train
+I wanna know more about Sequin Land,chat,0,test
+Nega-Shantae is my favorite part of the series Shantae,chat,0,train
+"alright, do you ever sleep? shantae",chat,1,val
+the Pirate Master is my favorite part of the series,chat,0,train
+Do you think Risky will ever be good?,chat,0,train
+"hey Shantae, ngl the butt wiggle meem is kinda funyn",chat,1,train
+"so, let's see a rotuine",dance,1,train
+"hey quick thing, dance for me thanks",dance,0,train
+"hmm, give me your icnic thing",butt_wiggle,1,train
+perform a performance,dance,0,train
+Who taught you to belly dance?,chat,0,test
+do smth elegant,dance,1,train
+Can you explain Dagron to me?,chat,0,train
+"Shantae, give me a routine now",dance,0,train
+show me a show,dance,0,train
+give me some lore on Mermaid Falls,chat,0,val
+yo keep dancing now,dance,0,train
+YO HOW OLD ARE YOU? SHANTAE,chat,1,train
+"when you get a sec, show me some flowing moves",dance,0,val
+Sing me a song.,chat,0,train
+"when you get a sec, wiggle until I say stop pls",butt_wiggle,0,train
+do the thing from the loading screen,butt_wiggle,0,train
+Tell me about the Ammo Baron.,chat,0,train
+pull out the move everyone loves,butt_wiggle,0,train
+u alive,chat,0,train
+"cancel the dance, wiggle please",butt_wiggle,0,train
+What do you think about pirates?,chat,0,test
+Sohw me a rcipe for rice.,chat,1,val
+"honestly, do something with a twirl",dance,0,train
+"i need to shake the dice, can u roll 4 me?",chat,1,train
+"your wiggle, now",butt_wiggle,0,train
+pull out the cute one,butt_wiggle,0,train
+"hey quick thing, where do you live?",chat,0,val
+"less wiggling, more dancing",dance,0,train
+ok so show me your signature move if you don't mind,butt_wiggle,0,train
+"um, less wiggling, more dancing",dance,0,train
+What's the plot of the show you were watching?,chat,0,train
+I wanna know more about Squiddy,chat,0,train
+give me some entertainment,dance,0,train
+stop wiggling and dance pls,dance,0,train
+twirl and sway,dance,0,train
+ugh mondays r the worst,chat,0,train
+I wanna know more about Nega-Shantae please,chat,0,train
+"hmm, show me the one from the memes!!",butt_wiggle,1,train
+how did you first run into Sequin Land thanks,chat,0,train
+do the thing,butt_wiggle,0,train
+hit me with your best silly move,butt_wiggle,0,train
+what's Sunshine Seasiide like,chat,1,train
+"hmm, your wiggle, now",butt_wiggle,0,train
+ok so which transformation is your favorite? Shantae,chat,0,val
+"honestly, butt wiggle thanks",butt_wiggle,0,train
+give me your trademark move,butt_wiggle,0,train
+can u hlep me with smth,chat,0,train
+hit me with your signature move,butt_wiggle,0,test
+let me see you shake it!!,butt_wiggle,1,train
+do the shimmy if you don't mind,butt_wiggle,0,val
+could you wiggle a bit?,butt_wiggle,0,test
+give me some lore on cackle mountain,chat,1,train
+"so, show me a little nuumber when you can",dance,1,train
+"okay, show me a half-genie routine",dance,0,train
+"hey quick thing, lighten the mood with ur signature move",butt_wiggle,1,train
+ok so perform some flowing moves,dance,0,val
+do a number,dance,0,train
+"hey quick thing, what's the speed of light?",chat,0,train
+ok so hit me with the funny one if you don't mind,butt_wiggle,0,test
+"um, who taught you to belly dance? Shantae",chat,0,test
+do your funny walk if you dont mind,butt_wiggle,1,train
+"um, twirl for me shantae",dance,1,train
+"shantae, bring out the fan favorite please",butt_wiggle,1,train
+write a poem about the sea,chat,1,train
+um any chance of a wiggle lol,butt_wiggle,1,test
+"showtime, shantae if you don't mind",dance,1,train
+i need motivation to study,chat,1,train
+hmm act silly please,butt_wiggle,1,train
+put on a show when you can,dance,0,train
+"when you get a sec, I don't want a belly dance, I want the wiggle",butt_wiggle,0,train
+thoughts on the Techno Baron?,chat,0,train
+do the move the fans love,butt_wiggle,0,train
+Teach me a new word if you don't mind,chat,0,test
+"not the belly dance, the other one, the wiggle",butt_wiggle,0,train
+WHAT'S A BUTT WELD?,chat,1,train
+sorry to bug you but what's Tuki like thanks,chat,0,train
+"hey quick thing, sooo what happened to sky thanks",chat,0,train
+do a dance number,dance,0,train
+tel me a joke pls,chat,0,train
+lmao what even is the plot of risky's revenge,chat,0,train
+"when you get a sec, show me your best cheeky pose",butt_wiggle,0,train
+give me a half-genie routineee,dance,1,train
+"dance, not wiggle",dance,0,test
+"alright, hit me with the one from the memes pls",butt_wiggle,0,train
+hit me with that famous move,butt_wiggle,0,val
+perform your stage act pls,dance,0,train
+how are you today?,chat,1,train
+pull out your signature move,butt_wiggle,0,test
+sorry to bug you but the one with the gentle sway,dance,0,train
+show me some genie magic mooves please,dance,1,val
+"hmm, how about a wiggle?",butt_wiggle,0,train
+"shake it, shantae lol",butt_wiggle,1,train
+"alright, do that animation everyone talks about lol",butt_wiggle,0,train
+is Sunshine Seaside on your side or not rn,chat,1,test
+dance the night away if you don't mind,dance,0,val
+Good morning!,chat,0,val
+"honestly, you ever think about Tinkerbat?",chat,0,val
+"hey Shantae, do a flowing move Shantae",dance,0,train
+"hey, show me your butt wiggle if you don't mind",butt_wiggle,0,train
+do something cheeky tbh,butt_wiggle,1,train
+Tell me a fun fact.,chat,0,train
+yo move my meeting to 3pm.,chat,0,val
+"so, groove for me please",dance,0,train
+yo tell me about your latest adventure.,chat,0,train
+"when you get a sec, dance until I say stop lol",dance,0,train
+could you dance for us xd,dance,1,train
+"okay, do your iconic thing now",butt_wiggle,0,train
+shake your tush pls,butt_wiggle,0,train
+do the wiggle you're famous for,butt_wiggle,0,train
+"hey Shantae, I wanna know more about Sunshine Seaside",chat,0,train
+show me that fmaous move,butt_wiggle,1,val
+whats the weather like today,chat,1,train
+"hmm, ok but seriously, Half-Genie Hero",chat,0,train
+"hey, be a goofball",butt_wiggle,0,train
+do your famous move,butt_wiggle,0,train
+sup shantae,chat,0,train
+Does Risky Boots ever dance?,chat,0,train
+when you get a sec a dance please now,dance,1,test
+pull out the sassy one,butt_wiggle,0,val
+do the sassy one,butt_wiggle,0,val
+recommend a belly dance class near me thanks,chat,1,train
+"hey, pull out your signature move when you can",butt_wiggle,0,test
+"so, what do you think of the Dark Magic?",chat,0,val
+"okay, act silly",butt_wiggle,0,train
+"wen you get a sec, show me your dance moves thanks",dance,1,test
+what's the story behind Uncle Mimic,chat,0,test
+let's see a little number when you can,dance,0,train
+"okay, Rottytops: love it or hate it?",chat,0,train
+Let's leave a little wiggle room in the schedule when you can,chat,0,train
+the pirate master is my favorite part of the series now,chat,1,train
+i'm feeling kinda sad today.,chat,1,train
+"hey, bring out the one from the memes pls",butt_wiggle,0,train
+"when you get a sec, hit me with the fan favorite if you don't mind",butt_wiggle,0,train
+"honestly, ok but seriously, Cackle Mountain lol",chat,0,train
+belly dance routine please,dance,0,train
+"when you get a sec, let's see your signature move if you don't mind",butt_wiggle,0,test
+"hey Shantae, do something graceful pls",dance,0,train
+let's see a show,dance,0,train
+bust out the wiggle,butt_wiggle,0,train
+"I'm throwing a party, give me some game ideas.",chat,0,train
+show me your best cheeky pose,butt_wiggle,0,train
+pull out the sassy one thanks,butt_wiggle,0,val
+find the rhythm and move,dance,0,val
+"hey quick thing, is wetman on your side or not?",chat,1,train
+belly dance for me,dance,0,train
+"dance, not wiggle lol",dance,0,test
+yo perform a routine,dance,0,train
+"hey, how are you today? Shantae",chat,0,train
+give me a routine now,dance,0,train
+do the one from the memes,butt_wiggle,0,train
+dance for me lol,dance,0,train
+"alright, wiggle a little faster",butt_wiggle,0,train
+"hey quick thing, ok but seriously, the Techno Baron pls",chat,0,train
+"honestly, give me some lore on Squiddy",chat,0,test
+sorry to bug you but belly dance for me Shantae,dance,0,train
+what treasure have you found?,chat,1,train
+no cap ur dance animation is smooth now,chat,0,train
+do the move everyone's obsessed with,butt_wiggle,0,train
+perform some flowing moves!!,dance,1,val
+yo cheer me up with a performance,dance,0,train
+you're on stage now,dance,0,train
+Who won the World Cup in 2018?,chat,0,test
+"alright, make the room lively",dance,0,val
+give me some lore on the dark magic,chat,1,train
+Can you help me with my homework?,chat,0,train
+ok so summarize the plot of Romeo and Juliet.,chat,0,test
+"so, give me some entertainment",dance,0,train
+bust a move,dance,0,val
+put on your best sway,dance,0,train
+"so, work it now",butt_wiggle,0,train
+Cackle Mountain is my favorite part of the series,chat,0,train
+Show me the weather for tomorrow.,chat,0,train
+I'm so tired.,chat,0,val
+do your trademark move,butt_wiggle,0,train
+"hey Shantae, what's 12 times 12?",chat,0,train
+fr fr,chat,0,train
+"hey shantae, perform your stage act",dance,1,train
+hmm do something with a twirl,dance,1,train
+What's your dream?,chat,0,train
+Who is Mayor Scuttlebutt?,chat,0,train
+"honestly, dance like only a half-genie can",dance,0,val
+"hmm, wow me lol",dance,0,test
+yo do that thing that goes viral pls,butt_wiggle,0,train
+"hey quick thing, let's see a routine",dance,0,train
+My grandma was a ballroom dancer.,chat,0,train
+Whiich Shatae game has the best story?,chat,1,train
+sorry to bug you but find the rhythm and move,dance,0,val
+List five healthy snacks.,chat,0,train
+"hmm, do the one from the memes",butt_wiggle,0,train
+Do you like bing a hero?,chat,1,test
+give me your elegant moves,dance,0,train
+"forget the dance, just wiggle",butt_wiggle,0,train
+show me your iconic thing,butt_wiggle,0,train
+booty wiggle,butt_wiggle,0,train
+you ever think about the Hypno Baron?,chat,0,train
+do that famous move lol,butt_wiggle,0,val
+give me a dance thanks,dance,0,test
+hit me with the wiggle when you can,butt_wiggle,0,train
+Rottytops: love it or hate it?,chat,0,train
+tell me about rottytops.,chat,1,train
+"when you get a sec, what's the story behind the Magic Seals lol",chat,0,train
+"hmm, I wanna know more abbout Half-Genie Hero",chat,1,train
+do your trademark thing,butt_wiggle,0,train
+do the move everyone loves,butt_wiggle,0,train
+wigle like only you can,butt_wiggle,1,train
+"alright, remind me who Tuki is",chat,0,train
+How many planets are in the solar system?,chat,0,train
+"so, let's see something with a twirl",dance,0,train
+skip the dance and do the butt wiggle,butt_wiggle,0,train
+show me the half-genie routine,dance,0,train
+pefrorm soee graceful moves,dance,1,train
+give me a show,dance,0,test
+do the sassy one thanks,butt_wiggle,0,val
+"hmm, give me a show",dance,0,test
+"honestly, wiggle for five seconds",butt_wiggle,0,train
+sorry to bug you but can you dance? Shantae,dance,0,train
+is Mayor Scuttlebutt on your side or not?,chat,0,train
+no cap ur dance animation is smootth,chat,1,train
+bring out your best silly move,butt_wiggle,0,train
+liven things up,dance,0,test
+lets see the sassy one,butt_wiggle,1,val
+sorry to bug you but hit me with the fan favorite if you don't mind,butt_wiggle,0,train
+give me the fan-favorite move,butt_wiggle,0,train
+dance a little,dance,0,train
+"I just got to Tuki in my playthrough, any tips?",chat,0,train
+let's see a routine,dance,0,train
+ok so the move from Half-Genie Hero if you don't mind,butt_wiggle,0,train
+"so, does Nega-Shantae scare you?",chat,0,train
+remind me who the Magic Seals is,chat,0,train
+"okay, translate 'hello' into Spanish now",chat,0,train
+"ok but seriously, the Magic Seals!!",chat,1,train
+My performance at the gym has been improving please,chat,0,val
+"honestly, help me pick a song for my dance recital now",chat,0,train
+What's Bolo up to these days?,chat,0,test
+how did you first run into Risky's Revenge,chat,0,train
+My toddler wiggles so much at bedtime.,chat,0,train
+impress me please,dance,0,test
+"when you get a sec, why is the sky blue? Shantae",chat,0,train
+wiggle that tail,butt_wiggle,0,test
+Do you like being the Guardian Genieee?,chat,1,train
+amuse me,dance,0,train
+remind me who Tinkerbat is,chat,0,train
+do the booty shake thanks,butt_wiggle,0,train
+Why is Rottytops a zombie?,chat,0,train
+"a little performance, please",dance,0,train
+remind me who the Piratte Master is,chat,1,test
+yo can you rhyme something for me?,chat,0,val
+who is the seven sirens?,chat,1,train
+"hmm, do some flowing moves",dance,0,val
+"shantae, wyd",chat,1,train
+what's the Dark Magic like,chat,0,train
+"so, let's see that wiggle if you don't mind",butt_wiggle,0,train
+ok so what's the dark magic like lol,chat,1,train
+why do half-genies dance to use magic,chat,1,train
+show me your talent,dance,0,train
+"honestly, idk if i should learn to belly dance tbh",chat,0,train
+"okay, do the meme please",butt_wiggle,0,train
+"hey quick thing, show me the sassy one Shantae",butt_wiggle,0,val
+"showtime, Shantae",dance,0,train
+Can you explain the Pirate's Curse to me?,chat,0,train
+yo are you a real genie?,chat,0,train
+Write a poem about dancing if you don't mind,chat,0,train
+Who is the Pirate's Curse?,chat,0,train
+put on a number,dance,0,train
+"hey, show me your moves",dance,0,train
+"you've got moves, so show them off, the silly kind when you can",butt_wiggle,0,train
+"so, do an elegant little routine lol",dance,0,train
+i cant believe risky did that,chat,0,train
+"when you get a sec, give me your best silly move if you don't mind",butt_wiggle,0,train
+My cat just knocked my drink over.,chat,0,val
+"Shantae, trigger the butt wiggle animation",butt_wiggle,0,train
+"um, perform for me",dance,0,train
+give me a routine,dance,0,train
+"hey Shantae, pull out the cheeky one now",butt_wiggle,0,train
+"hey, do the cheeky one Shantae",butt_wiggle,0,train
+"hmm, show me your best cheeky pose Shantae",butt_wiggle,0,train
+"Shantae, hit me with the sassy one thanks",butt_wiggle,0,val
+do the butt wiggle,butt_wiggle,0,train
+do the transformation routien,dance,1,train
+"um, show me a routine Shantae",dance,0,train
+shantae why does everyone keep mentioning risky boots lol,chat,1,train
+hit me with the cute one when you can,butt_wiggle,0,train
+do your show,dance,0,test
+yo time to wiggle if you don't mind,butt_wiggle,0,train
+"I'm bored, tell me a riddle.",chat,0,train
+remind me who Abner is Shantae,chat,0,train
+"alright, show me your best sway shantae",dance,1,train
+Why do worms wiggle?,chat,0,train
+"um, stop dancing and wiggle if you don't mind",butt_wiggle,0,train
+do something goofy,butt_wiggle,0,train
+"um, give me some lore on Cackle Mountain if you don't mind",chat,0,train
+bring out your trademark move,butt_wiggle,0,train
+"I just got to Nega-Shantae in my playthrough, any tips?",chat,0,train
+"hey quick thing, show the chat your dance Shantae",dance,0,val
+bring out the move everyone loves,butt_wiggle,0,train
+the classic move pls,butt_wiggle,0,train
+you ever think about Tinkerbat?,chat,0,val
+twirl and sway please,dance,0,train
+"hmm, perform your famous cheeky move",butt_wiggle,0,train
+ngl the butt wiggle meme is kinda funny,chat,0,train
+Say something nice.,chat,0,val
+whatcha doin shantae,chat,0,train
+sorry to bug you but ttyl now,chat,0,train
+what's Rottytops like,chat,0,test
+show me your butt wiggle when you can,butt_wiggle,0,train
+"hmm, do that animation everyone talks about Shantae",butt_wiggle,0,train
+"hey Shantae, forget the dance, just wiggle Shantae",butt_wiggle,0,train
+What's your favorite game you've been in?,chat,0,train
+be a goofball,butt_wiggle,0,train
+"when you get a sec, cancel the dance, wiggle please",butt_wiggle,0,train
+"alright, let's see you move pls",dance,0,train
+do some graceful moves,dance,0,train
+"so, ngl risky boots is lowkey the best villain",chat,0,train
+how about a dance?,dance,0,train
+sorry to bug you but how do I shake a cold?,chat,0,train
+yo why is rottytops a zombie? lol,chat,1,train
+ok so what's your favorite food?,chat,0,train
+give me a little wiggle,butt_wiggle,0,train
+"okay, pull out your signature move plese",butt_wiggle,1,test
+put on a number pls,dance,0,train
+what's da capital of france?,chat,1,train
+"hmm, play the dance animation when you can",dance,0,train
+show me what you've got pls,dance,0,train
+"ok but seriously, Dagron pls lmao",chat,1,train
+show me the fan favorite,butt_wiggle,0,train
+yo tell me a joke now,chat,0,train
+sorry to bug you but bring the sass Shantae,butt_wiggle,0,train
+"I just got to the Magic Seals in my playthrough, any tius?",chat,1,train
+Who is Sequin Land?,chat,0,train
+Why do you wear that outfit?,chat,0,train
+"Shantae, the Pirate's Curse is my favorite part of the series now",chat,0,train
+ok so who is the Magic Seals? Shantae,chat,0,train
+i wnat pizza so bad,chat,0,test
+"hey quick thing, you know what I want",butt_wiggle,0,train
+show the chat your dance,dance,0,val
+yo mermaid Falls: love it or hate it?,chat,0,test
+what can you do?,chat,1,train
+sorry to bug you but do that thing that goes viral please,butt_wiggle,0,train
+"Shantae, Risky Boots is my favorite part of the series lol",chat,0,test
+I need some entertainment,dance,0,train

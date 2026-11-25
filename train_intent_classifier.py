@@ -7,6 +7,7 @@ from pathlib import Path
 from sklearn.preprocessing import LabelEncoder
 from sklearn.neural_network import MLPClassifier # we'll use an MLP Classifier
 from sklearn.metrics import classification_report, accuracy_score
+from sklearn.model_selection import GridSearchCV
 import tqdm
 import joblib
 
@@ -53,14 +54,38 @@ def main() -> None:
     print("Loading testing set: ", end=" ")
     testX, testy = generate_dataset(TEST_PATH)
 
+    # construct the search grid
+    search_grid = {
+        'hidden_layer_sizes' : [(30, 30), (30, 30, 10), (100, 100), (100, 100, 100)], 
+        'learning_rate_init':[0.001, 0.005, 0.007, 0.01],
+        'learning_rate':['constant', 'adaptive', 'invscaling']
+    }
+
     # declare the model
-    mlp = MLPClassifier((100, 100, 100), 
-                        random_state=42,
-                        learning_rate='adaptive',
-                        learning_rate_init=0.005,
-                        max_iter=2000)
+    mlp = GridSearchCV(
+        estimator=MLPClassifier(random_state=42, max_iter=3000),
+        param_grid=search_grid,
+        scoring='f1_macro',
+        n_jobs=-1,
+        refit=False
+    )
 
     # train
+    mlp.fit(trainX, trainy)
+
+    # best fit model params
+    best_params= mlp.best_params_
+    print("Best fit model has params:", best_params)
+
+    # replace mlp with best estimator
+    mlp = MLPClassifier(
+        hidden_layer_sizes=best_params['hidden_layer_sizes'],
+        solver='adam',
+        learning_rate=best_params['learning_rate'],
+        learning_rate_init=best_params['learning_rate_init'],
+        random_state=42, max_iter=3000
+    )
+
     mlp.fit(trainX, trainy)
 
     # check training results on validation set
