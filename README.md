@@ -15,6 +15,10 @@ $ echo "COHERE_API_KEY=<your api key>" >> .env
 ```
 Replace `<your api key>` with your Cohere API key.
 
+### OR
+
+Paste your API key in `.env.local`. rename it to `.env` and there you go, you can use it.
+
 ## To Run This:
 0. Make sure that you have your sprite's `actions` folder location copied before you run the following, in case you're using a custom sprite 
 1. In your own Python environment (`which python3`) or in a `venv` (activate it beforehand), run `pip install -r requirements.txt`
