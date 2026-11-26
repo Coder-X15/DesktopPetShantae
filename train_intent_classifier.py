@@ -56,16 +56,17 @@ def main() -> None:
 
     # construct the search grid
     search_grid = {
-        'hidden_layer_sizes' : [(30, 30), (30, 30, 10), (100, 100), (100, 100, 100)], 
-        'learning_rate_init':[0.001, 0.005, 0.007, 0.01],
-        'learning_rate':['constant', 'adaptive', 'invscaling']
+        'hidden_layer_sizes' : [(30, 30), (30, 30, 10), (100, 100, 100)], 
+        'learning_rate_init':[0.00055, 0.001, 0.005, 0.007],
+        'random_state' : [0, 42, 100],
+        'learning_rate' : ['adaptive']
     }
 
     # declare the model
     mlp = GridSearchCV(
-        estimator=MLPClassifier(random_state=42, max_iter=3000),
+        estimator=MLPClassifier(max_iter=3000),
         param_grid=search_grid,
-        scoring='f1_macro',
+        scoring='f1_macro', # ,'balanced_accuracy'
         n_jobs=-1,
         refit=False
     )
@@ -83,7 +84,7 @@ def main() -> None:
         solver='adam',
         learning_rate=best_params['learning_rate'],
         learning_rate_init=best_params['learning_rate_init'],
-        random_state=42, max_iter=3000
+        random_state=best_params['random_state'], max_iter=3000
     )
 
     mlp.fit(trainX, trainy)
