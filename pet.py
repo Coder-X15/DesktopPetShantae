@@ -232,7 +232,7 @@ class DesktopAssistant(QtWidgets.QWidget):
             self.chat_bubble.setText(random.choice(self.butt_wiggle_dialogues))
             messages.append({
                 "role" : "assistant",
-                "content" : self.chat_bubble.text + " *does a butt wiggle*"
+                "content" : self.chat_bubble.text() + " *does a butt wiggle*"
             })
             self.chat_bubble.adjustSize()
             self.chat_bubble.show()
@@ -242,7 +242,7 @@ class DesktopAssistant(QtWidgets.QWidget):
             self.chat_bubble.setText(random.choice(self.dance_dialogues))
             messages.append({
                 "role" : "assistant",
-                "content" : self.chat_bubble.text + " *dances*"
+                "content" : self.chat_bubble.text() + " *dances*"
             })
             self.chat_bubble.adjustSize()
             self.chat_bubble.show()
