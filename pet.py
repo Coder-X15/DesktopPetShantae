@@ -92,7 +92,7 @@ def sentence_embedding(sentence : str) -> np.ndarray:
         try:
             result = np.vstack(wv[token])
         except:
-            result = np.vstack(np.zeros(result[0,:].shape))
+            result = np.vstack(np.full(result[0,:].shape, 0.01))
     return result.sum(axis=1)
 
 async def chatRequest(text: str) -> str:
