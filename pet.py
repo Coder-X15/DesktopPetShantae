@@ -156,7 +156,12 @@ class DesktopAssistant(QtWidgets.QWidget):
         ] # these dialogues will be rendered in the chat bubble while dancing
 
         #loading the gifs using the metadata
-        self.gif_map = load_meta(os.path.join(pathlib.Path(__file__).resolve().parent, metadata_path))
+        metadata_file = Path(__file__).resolve().parent / metadata_path
+        self.gif_map = load_meta(str(metadata_file))
+        self.gif_map = {
+            key: [str((metadata_file.parent / frame).resolve()) for frame in frames]
+            for key, frames in self.gif_map.items()
+        }
         self.animation_keys = list(self.gif_map.keys())
 
         # creating counter limits for each GIF
