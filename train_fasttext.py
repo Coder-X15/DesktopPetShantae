@@ -1,28 +1,25 @@
 from gensim.models import FastText
-from pathlib import Path
-import os
-import csv
 from utils import preprocess
+import nltk
+from nltk.corpus import brown
 
 
 # == splitting processes down == #
 
-def load_corpus(path : str) -> list[list[str]]:
-    ''' loads the corpus from the said path '''
+def load_corpus() -> list[list[str]]:
+    ''' loads NLTK corpus '''
     result = []
-    with open(path, mode = 'r', newline='', encoding='utf-8') as csvfile:
-        reader = csv.reader(csvfile)
-        next(reader) # skipping the header
-
-        # preprocessing each line and adding the tokens to the dataset
-        for row in reader:
-            result.append(preprocess(row[0]))
-        return row
+    categories = ['fiction', 'news']
+    corpus = [" ".join(sentence) for sentence in brown.sents(categories = categories)]
+    
+    for sentence in corpus:
+        result.append(preprocess(sentence))
+    return result
 
 def main():
     ''' learns the word2vec mappings and saves them '''
     # load the tokenized corpus
-    tokenized_corpus = load_corpus(os.path.join(Path(__file__).resolve().parent, 'intent_clf_dataset/', 'shantae_intents.csv'))
+    tokenized_corpus = load_corpus()
 
     # learn the embedding
     model = FastText(vector_size=100, window=3, min_count=1)
@@ -34,4 +31,5 @@ def main():
     wordvectors.save('vectors.wordvectors')
 
 if __name__ == "__main__":
+    nltk.download('brown')
     main()
